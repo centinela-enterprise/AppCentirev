@@ -1,0 +1,67 @@
+//
+// Base
+//
+
+// Body
+body {
+	background:url(../../media/bg/bg-2_1.svg);
+	  /* Ruta relativa o completa a la imagen */
+	
+	  /* Centramos el fondo horizontal y verticalmente */
+	  background-position: center center;
+	  /* El fonde no se repite */
+	  background-repeat: no-repeat;
+	  /* Fijamos la imagen a la ventana para que no supere el alto de la ventana */
+	  background-attachment: fixed;
+	  /* El fonde se re-escala automáticamente */
+	  background-size: cover;
+}
+
+// Desktop Mode
+@include media-breakpoint-up(lg) {
+	// Wrapper
+	.wrapper {
+		// Fixed Header
+		
+		
+
+		// Fixed Aside
+		.aside-fixed & {
+			padding-left: get($aside-config, base, width);
+		}
+
+		// Minimize Aside
+		.aside-fixed.aside-minimize:not(.aside-minimize-hover) & {
+			padding-left: get($aside-config, base, minimized-width);
+		}
+	}
+
+	// Container
+	.container,
+	.container-fluid {
+		padding: 0 get($page-padding, desktop);
+	}
+}
+
+// Tablet & Mobile Modes
+@include media-breakpoint-down(md) {
+	// Wrapper
+	.wrapper {
+		// Fixed Header
+		.header-mobile-fixed & {
+			padding-top: get($header-config, tablet-and-mobile, fixed, height);
+		}
+
+		// Fixed Subheader
+		.header-mobile-fixed.subheader-mobile-fixed.subheader-enabled & {
+			padding-top: get($header-config, tablet-and-mobile, fixed, height) + get($subheader-config, fixed, height-mobile);
+		}
+	}
+
+	// Container
+	.container,
+	.container-fluid {
+		max-width: none;
+		padding: 0 get($page-padding, tablet-and-mobile);
+	}
+}
