@@ -21264,12 +21264,12 @@
                     if(window.location.pathname == '/packages'){
                         const currentHostName = window.location.hostname
                         const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2.clegal.com.mx' : 'https://appv2.centinela.app'
-                        window.location.href = `${appv2HostName}/welcome?token=${JSON.parse(localStorage.getItem("token")).token}`
+                        window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=welcome`
                     }
                     else if(window.location.pathname == '/packages/notification'){
                         const currentHostName = window.location.hostname
                         const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2.clegal.com.mx' : 'https://appv2.centinela.app'
-                        window.location.href = `${appv2HostName}/packages/notification?token=${JSON.parse(localStorage.getItem("token")).token}`
+                        window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=packages/notification`
                     }
                     return this.token = this.authService.getToken(), navigator.geolocation && navigator.geolocation.getCurrentPosition(e => {
                         this.latitud = e.coords.latitude, this.longitud = e.coords.longitude;
