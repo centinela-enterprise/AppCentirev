@@ -20760,7 +20760,7 @@
                 isMockEnabled: !0,
                 apiUrl: 'api',
                 // urlBase: 'https://api.clegal.com.mx/api/',
-                urlBase: 'https://api3.clegal.com.mx/api/',
+                urlBase: 'https://api.clegal.com.mx/api/',
                 stripe_key: 'pk_live_51JRdQnDOJMlzsFFEfhXgOG5Tr1Hrbv1T717wOnXIQjpRHUsxy5lqE660N0WBChqUCW2XXgmq3I1fANL9S9dYTuTq00oX0MQB5N',
                 timeSessionActive: 900000,
                 timeMessageAwait: 60,
