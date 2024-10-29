@@ -15375,7 +15375,7 @@
                     ], null, null, null, null, null)),
                     (n()(), t['ɵeld'](1, 0, null, null, 1, 'div', [[
                             'class',
-                            'login-aside bgi-position-x-center'
+                            'login-aside bgi-position-x-center d-none d-lg-block'
                         ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](2, 0, null, null, 0, 'img', [
                         [
