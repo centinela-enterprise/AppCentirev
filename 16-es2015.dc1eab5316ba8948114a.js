@@ -138,10 +138,10 @@
                 }
             }
             var b = e('kAVY'), R = e('ONK0'), P = e('WueC'), E = t['ɵcrt']({
-                    encapsulation: 0,
-                    styles: [['.actions-menu[_ngcontent-%COMP%]{overflow-y:visible;overflow-x:visible}.bg-table[_ngcontent-%COMP%]{background-color:#173f5f;color:#fff!important}.borderTable[_ngcontent-%COMP%]{border:1px solid #173f5f}']],
-                    data: {}
-                });
+                encapsulation: 0,
+                styles: [['.actions-menu[_ngcontent-%COMP%]{overflow-y:visible;overflow-x:visible}.bg-table[_ngcontent-%COMP%]{background-color:#173f5f;color:#fff!important}.borderTable[_ngcontent-%COMP%]{border:1px solid #173f5f}']],
+                data: {}
+            });
             function D(l) {
                 return t['ɵvid'](0, [
                     (l()(), t['ɵeld'](0, 0, null, null, 2, null, null, null, null, null, null, null)),
@@ -390,9 +390,9 @@
                         ]
                     }, null),
                     (l()(), t['ɵeld'](2, 0, null, null, 1, 'span', [[
-                            'class',
-                            'symbol-label'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'symbol-label'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](3, null, [
                         ' ',
                         ' '
@@ -407,17 +407,17 @@
             function U(l) {
                 return t['ɵvid'](0, [
                     (l()(), t['ɵeld'](0, 0, null, null, 4, 'div', [[
-                            'style',
-                            'float: left;'
-                        ]], null, null, null, null, null)),
+                        'style',
+                        'float: left;'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵand'](0, [[
-                            'popContent',
-                            2
-                        ]], null, 0, null, N)),
+                        'popContent',
+                        2
+                    ]], null, 0, null, N)),
                     (l()(), t['ɵand'](0, [[
-                            'title',
-                            2
-                        ]], null, 0, null, S)),
+                        'title',
+                        2
+                    ]], null, 0, null, S)),
                     (l()(), t['ɵand'](16777216, null, null, 1, null, F)),
                     t['ɵdid'](4, 16384, null, 0, p.NgIf, [
                         t.ViewContainerRef,
@@ -436,39 +436,39 @@
                 return t['ɵvid'](0, [
                     (l()(), t['ɵeld'](0, 0, null, null, 8, null, null, null, null, null, null, null)),
                     (l()(), t['ɵeld'](1, 0, null, null, 7, 'li', [[
-                            'class',
-                            'navi-item'
-                        ]], null, [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        'class',
+                        'navi-item'
+                    ]], null, [[
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'click' === n && (t = !1 !== l.component.downloadFileOriginal(l.parent.context.$implicit.id) && t), t;
                     }, null, null)),
                     (l()(), t['ɵeld'](2, 0, null, null, 6, 'a', [[
-                            'class',
-                            'navi-link cursor-pointer'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-link cursor-pointer'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](3, 0, null, null, 1, 'span', [[
-                            'class',
-                            'navi-icon'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-icon'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](4, 0, null, null, 0, 'i', [[
-                            'class',
-                            'flaticon-multimedia-5'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'flaticon-multimedia-5'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](5, 0, null, null, 3, 'span', [[
-                            'class',
-                            'navi-text'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-text'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](6, 0, null, null, 2, 'a', [[
-                            'target',
-                            '_blank'
-                        ]], [[
-                            8,
-                            'href',
-                            4
-                        ]], null, null, null, null)),
+                        'target',
+                        '_blank'
+                    ]], [[
+                        8,
+                        'href',
+                        4
+                    ]], null, null, null, null)),
                     (l()(), t['ɵted'](7, null, [
                         '',
                         ''
@@ -485,31 +485,31 @@
                 return t['ɵvid'](0, [
                     (l()(), t['ɵeld'](0, 0, null, null, 21, null, null, null, null, null, null, null)),
                     (l()(), t['ɵeld'](1, 0, null, null, 6, 'li', [[
-                            'class',
-                            'navi-item'
-                        ]], null, [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        'class',
+                        'navi-item'
+                    ]], null, [[
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'click' === n && (t = !1 !== l.component.downloadFileOriginal(l.parent.context.$implicit.id) && t), t;
                     }, null, null)),
                     (l()(), t['ɵeld'](2, 0, null, null, 5, 'a', [[
-                            'class',
-                            'navi-link cursor-pointer'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-link cursor-pointer'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](3, 0, null, null, 1, 'span', [[
-                            'class',
-                            'navi-icon'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-icon'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](4, 0, null, null, 0, 'i', [[
-                            'class',
-                            'flaticon-download'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'flaticon-download'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](5, 0, null, null, 2, 'span', [[
-                            'class',
-                            'navi-text'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-text'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](6, null, [
                         '',
                         ''
@@ -519,31 +519,31 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](8, 0, null, null, 6, 'li', [[
-                            'class',
-                            'navi-item'
-                        ]], null, [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        'class',
+                        'navi-item'
+                    ]], null, [[
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'click' === n && (t = !1 !== l.component.downloadFileSigned(l.parent.context.$implicit.id) && t), t;
                     }, null, null)),
                     (l()(), t['ɵeld'](9, 0, null, null, 5, 'a', [[
-                            'class',
-                            'navi-link cursor-pointer'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-link cursor-pointer'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](10, 0, null, null, 1, 'span', [[
-                            'class',
-                            'navi-icon'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-icon'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](11, 0, null, null, 0, 'i', [[
-                            'class',
-                            'flaticon-download'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'flaticon-download'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](12, 0, null, null, 2, 'span', [[
-                            'class',
-                            'navi-text'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-text'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](13, null, [
                         '',
                         ''
@@ -553,31 +553,31 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](15, 0, null, null, 6, 'li', [[
-                            'class',
-                            'navi-item'
-                        ]], null, [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        'class',
+                        'navi-item'
+                    ]], null, [[
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'click' === n && (t = !1 !== l.component.downloadFileXML(l.parent.context.$implicit.id) && t), t;
                     }, null, null)),
                     (l()(), t['ɵeld'](16, 0, null, null, 5, 'a', [[
-                            'class',
-                            'navi-link cursor-pointer'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-link cursor-pointer'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](17, 0, null, null, 1, 'span', [[
-                            'class',
-                            'navi-icon'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-icon'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](18, 0, null, null, 0, 'i', [[
-                            'class',
-                            'flaticon-download'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'flaticon-download'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](19, 0, null, null, 2, 'span', [[
-                            'class',
-                            'navi-text'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-text'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](20, null, [
                         '',
                         ''
@@ -594,12 +594,12 @@
                 return t['ɵvid'](0, [
                     (l()(), t['ɵeld'](0, 0, null, null, 9, null, null, null, null, null, null, null)),
                     (l()(), t['ɵeld'](1, 0, null, null, 8, 'li', [[
-                            'class',
-                            'navi-item'
-                        ]], null, [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        'class',
+                        'navi-item'
+                    ]], null, [[
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var u = !0;
                         return 'click' === n && (u = !1 !== t['ɵnov'](l, 2).onClick() && u), u;
                     }, null, null)),
@@ -620,21 +620,21 @@
                     }, null),
                     t['ɵpad'](3, 1),
                     (l()(), t['ɵeld'](4, 0, null, null, 5, 'a', [[
-                            'class',
-                            'navi-link cursor-pointer'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-link cursor-pointer'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](5, 0, null, null, 1, 'span', [[
-                            'class',
-                            'navi-icon'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-icon'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](6, 0, null, null, 0, 'i', [[
-                            'class',
-                            'flaticon-edit-1'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'flaticon-edit-1'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](7, 0, null, null, 2, 'span', [[
-                            'class',
-                            'navi-text'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-text'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](8, null, [
                         '',
                         ''
@@ -654,12 +654,12 @@
                 return t['ɵvid'](0, [
                     (l()(), t['ɵeld'](0, 0, null, null, 9, null, null, null, null, null, null, null)),
                     (l()(), t['ɵeld'](1, 0, null, null, 8, 'li', [[
-                            'class',
-                            'navi-item'
-                        ]], null, [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        'class',
+                        'navi-item'
+                    ]], null, [[
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var u = !0;
                         return 'click' === n && (u = !1 !== t['ɵnov'](l, 2).onClick() && u), u;
                     }, null, null)),
@@ -680,21 +680,21 @@
                     }, null),
                     t['ɵpad'](3, 1),
                     (l()(), t['ɵeld'](4, 0, null, null, 5, 'a', [[
-                            'class',
-                            'navi-link cursor-pointer'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-link cursor-pointer'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](5, 0, null, null, 1, 'span', [[
-                            'class',
-                            'navi-icon'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-icon'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](6, 0, null, null, 0, 'i', [[
-                            'class',
-                            'flaticon-interface'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'flaticon-interface'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](7, 0, null, null, 2, 'span', [[
-                            'class',
-                            'navi-text'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-text'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](8, null, [
                         '',
                         ''
@@ -714,13 +714,13 @@
                 return t['ɵvid'](0, [
                     (l()(), t['ɵeld'](0, 0, null, null, 9, null, null, null, null, null, null, null)),
                     (l()(), t['ɵeld'](1, 0, null, null, 8, 'li', [[
-                            'class',
-                            'navi-item'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-item'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](2, 0, null, null, 7, 'a', [[
-                            'class',
-                            'navi-link cursor-pointer'
-                        ]], [
+                        'class',
+                        'navi-link cursor-pointer'
+                    ]], [
                         [
                             1,
                             'target',
@@ -732,9 +732,9 @@
                             4
                         ]
                     ], [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var u = !0;
                         return 'click' === n && (u = !1 !== t['ɵnov'](l, 3).onClick(e.button, e.ctrlKey, e.shiftKey, e.altKey, e.metaKey) && u), u;
                     }, null, null)),
@@ -750,17 +750,17 @@
                     }, null),
                     t['ɵpad'](4, 1),
                     (l()(), t['ɵeld'](5, 0, null, null, 1, 'span', [[
-                            'class',
-                            'navi-icon'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-icon'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](6, 0, null, null, 0, 'i', [[
-                            'class',
-                            'flaticon-medical'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'flaticon-medical'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](7, 0, null, null, 2, 'span', [[
-                            'class',
-                            'navi-text'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-text'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](8, null, [
                         '',
                         ' '
@@ -780,31 +780,31 @@
                 return t['ɵvid'](0, [
                     (l()(), t['ɵeld'](0, 0, null, null, 7, null, null, null, null, null, null, null)),
                     (l()(), t['ɵeld'](1, 0, null, null, 6, 'li', [[
-                            'class',
-                            'navi-item'
-                        ]], null, [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        'class',
+                        'navi-item'
+                    ]], null, [[
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'click' === n && (t = !1 !== l.component.delete(l.parent.context.$implicit.id) && t), t;
                     }, null, null)),
                     (l()(), t['ɵeld'](2, 0, null, null, 5, 'a', [[
-                            'class',
-                            'navi-link cursor-pointer'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-link cursor-pointer'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](3, 0, null, null, 1, 'span', [[
-                            'class',
-                            'navi-icon'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-icon'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](4, 0, null, null, 0, 'i', [[
-                            'class',
-                            'flaticon-cancel'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'flaticon-cancel'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](5, 0, null, null, 2, 'span', [[
-                            'class',
-                            'navi-text'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navi-text'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](6, null, [
                         '',
                         ''
@@ -822,9 +822,9 @@
                     (l()(), t['ɵeld'](0, 0, null, null, 43, 'tr', [], null, null, null, null, null)),
                     (l()(), t['ɵeld'](1, 0, null, null, 5, 'td', [], null, null, null, null, null)),
                     (l()(), t['ɵeld'](2, 0, null, null, 4, 'span', [[
-                            'class',
-                            'label label-lg label-inline py-5'
-                        ]], [
+                        'class',
+                        'label label-lg label-inline py-5'
+                    ]], [
                         [
                             2,
                             'label-primary',
@@ -890,9 +890,9 @@
                     ])),
                     (l()(), t['ɵeld'](18, 0, null, null, 25, 'td', [], null, null, null, null, null)),
                     (l()(), t['ɵeld'](19, 0, null, null, 24, 'div', [[
-                            'class',
-                            'card-toolbar'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'card-toolbar'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](20, 0, null, null, 23, 'div', [
                         [
                             'class',
@@ -904,17 +904,17 @@
                         ],
                         [
                             'placement',
-                            'bottom-right'
+                            'top-right'
                         ],
                         [
                             'title',
                             'Quick actions'
                         ]
                     ], [[
-                            2,
-                            'show',
-                            null
-                        ]], null, null, null, null)),
+                        2,
+                        'show',
+                        null
+                    ]], null, null, null, null)),
                     t['ɵdid'](21, 1720320, null, 2, m.v, [
                         t.ChangeDetectorRef,
                         m.x,
@@ -956,10 +956,10 @@
                             ''
                         ]
                     ], [[
-                            1,
-                            'aria-expanded',
-                            0
-                        ]], [
+                        1,
+                        'aria-expanded',
+                        0
+                    ]], [
                         [
                             null,
                             'click'
@@ -997,13 +997,13 @@
                         t.ElementRef
                     ], null, null),
                     t['ɵprd'](2048, [[
-                            2,
-                            4
-                        ]], m.w, null, [m.A]),
+                        2,
+                        4
+                    ]], m.w, null, [m.A]),
                     (l()(), t['ɵeld'](27, 0, null, null, 0, 'i', [[
-                            'class',
-                            'ki ki-bold-more-hor'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'ki ki-bold-more-hor'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](28, 0, null, null, 15, 'div', [
                         [
                             'class',
@@ -1067,17 +1067,17 @@
                         return 'keydown.ArrowUp' === n && (u = !1 !== t['ɵnov'](l, 29).dropdown.onKeyDown(e) && u), 'keydown.ArrowDown' === n && (u = !1 !== t['ɵnov'](l, 29).dropdown.onKeyDown(e) && u), 'keydown.Home' === n && (u = !1 !== t['ɵnov'](l, 29).dropdown.onKeyDown(e) && u), 'keydown.End' === n && (u = !1 !== t['ɵnov'](l, 29).dropdown.onKeyDown(e) && u), 'keydown.Enter' === n && (u = !1 !== t['ɵnov'](l, 29).dropdown.onKeyDown(e) && u), 'keydown.Space' === n && (u = !1 !== t['ɵnov'](l, 29).dropdown.onKeyDown(e) && u), 'keydown.Tab' === n && (u = !1 !== t['ɵnov'](l, 29).dropdown.onKeyDown(e) && u), 'keydown.Shift.Tab' === n && (u = !1 !== t['ɵnov'](l, 29).dropdown.onKeyDown(e) && u), u;
                     }, null, null)),
                     t['ɵdid'](29, 16384, [[
-                            1,
-                            4
-                        ]], 1, m.y, [
+                        1,
+                        4
+                    ]], 1, m.y, [
                         m.v,
                         t.ElementRef
                     ], null, null),
                     t['ɵqud'](603979776, 3, { menuItems: 1 }),
                     (l()(), t['ɵeld'](31, 0, null, null, 12, 'ul', [[
                             'class',
-                            'navi navi-hover py-5'
-                        ]], null, null, null, null, null)),
+                            'navi navi-hover'
+                        ],], null, null, null, null, null)),
                     (l()(), t['ɵand'](16777216, null, null, 1, null, L)),
                     t['ɵdid'](33, 16384, null, 0, p.NgIf, [
                         t.ViewContainerRef,
@@ -1139,7 +1139,7 @@
                         ]
                     }, null)
                 ], function (l, n) {
-                    l(n, 4, 0, '1' === n.context.$implicit.status || '2' === n.context.$implicit.status), l(n, 6, 0, '3' === n.context.$implicit.status), l(n, 15, 0, n.context.$implicit.recivers), l(n, 21, 0, 'bottom-right'), l(n, 33, 0, '3' === n.context.$implicit.status && '' != n.context.$implicit.delete_at), l(n, 35, 0, '3' === n.context.$implicit.status && '' == n.context.$implicit.delete_at), l(n, 37, 0, '1' === n.context.$implicit.status && n.context.$implicit.lowner && '' == n.context.$implicit.delete_at), l(n, 39, 0, ('1' === n.context.$implicit.status || '2' === n.context.$implicit.status) && '0' == n.context.$implicit.reciver_type && null == n.context.$implicit.signature_date && '' == n.context.$implicit.delete_at), l(n, 41, 0, '' == n.context.$implicit.delete_at), l(n, 43, 0, ('1' === n.context.$implicit.status || '2' === n.context.$implicit.status) && n.context.$implicit.lowner);
+                    l(n, 4, 0, '1' === n.context.$implicit.status || '2' === n.context.$implicit.status), l(n, 6, 0, '3' === n.context.$implicit.status), l(n, 15, 0, n.context.$implicit.recivers), l(n, 21, 0, 'top-right'), l(n, 33, 0, '3' === n.context.$implicit.status && '' != n.context.$implicit.delete_at), l(n, 35, 0, '3' === n.context.$implicit.status && '' == n.context.$implicit.delete_at), l(n, 37, 0, '1' === n.context.$implicit.status && n.context.$implicit.lowner && '' == n.context.$implicit.delete_at), l(n, 39, 0, ('1' === n.context.$implicit.status || '2' === n.context.$implicit.status) && '0' == n.context.$implicit.reciver_type && null == n.context.$implicit.signature_date && '' == n.context.$implicit.delete_at), l(n, 41, 0, '' == n.context.$implicit.delete_at), l(n, 43, 0, ('1' === n.context.$implicit.status || '2' === n.context.$implicit.status) && n.context.$implicit.lowner);
                 }, function (l, n) {
                     l(n, 2, 0, '1' === n.context.$implicit.status || '2' === n.context.$implicit.status, '3' === n.context.$implicit.status), l(n, 8, 0, n.context.$implicit.name), l(n, 10, 0, '1' === n.context.$implicit.signature_type ? 'e.Firma' : 'DIGITAL'), l(n, 12, 0, '1' == n.context.$implicit.constancy_nom151 ? 'Centinela' : 'Lite'), l(n, 17, 0, n.context.$implicit.created_at), l(n, 20, 0, t['ɵnov'](n, 21).isOpen()), l(n, 24, 0, t['ɵnov'](n, 25).dropdown.isOpen()), l(n, 28, 0, !0, t['ɵnov'](n, 29).dropdown.isOpen(), t['ɵnov'](n, 29).placement);
                 });
@@ -1164,17 +1164,17 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](3, 0, null, null, 9, 'div', [[
-                            'class',
-                            'card-header'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'card-header'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](4, 0, null, null, 3, 'div', [[
-                            'class',
-                            'card-title'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'card-title'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](5, 0, null, null, 2, 'h3', [[
-                            'class',
-                            'card-label'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'card-label'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](6, null, [
                         ' ',
                         ''
@@ -1184,9 +1184,9 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](8, 0, null, null, 4, 'div', [[
-                            'class',
-                            'card-toolbar'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'card-toolbar'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](9, 0, null, null, 3, 'a', [
                         [
                             'class',
@@ -1212,9 +1212,9 @@
                             4
                         ]
                     ], [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var u = !0;
                         return 'click' === n && (u = !1 !== t['ɵnov'](l, 10).onClick(e.button, e.ctrlKey, e.shiftKey, e.altKey, e.metaKey) && u), u;
                     }, null, null)),
@@ -1237,29 +1237,29 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](13, 0, null, null, 153, 'div', [[
-                            'class',
-                            'card-body'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'card-body'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](14, 0, null, null, 68, 'div', [[
-                            'class',
-                            'form form-label-right'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form form-label-right'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](15, 0, null, null, 67, 'div', [[
-                            'class',
-                            'form-group row'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group row'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](16, 0, null, null, 20, 'div', [[
-                            'class',
-                            'col-lg-2'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-lg-2'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](17, 0, null, null, 19, 'div', [[
-                            'class',
-                            'row'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](18, 0, null, null, 18, 'div', [[
-                            'class',
-                            'col-lg-12'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-lg-12'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](19, 0, null, null, 15, 'select', [
                         [
                             'class',
@@ -1354,9 +1354,9 @@
                     }, { update: 'ngModelChange' }),
                     t['ɵprd'](2048, null, C.p, null, [C.t]),
                     t['ɵdid'](24, 16384, null, 0, C.q, [[
-                            4,
-                            C.p
-                        ]], null, null),
+                        4,
+                        C.p
+                    ]], null, null),
                     (l()(), t['ɵeld'](25, 0, null, null, 4, 'option', [
                         [
                             'selected',
@@ -1402,9 +1402,9 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](30, 0, null, null, 4, 'option', [[
-                            'value',
-                            '3'
-                        ]], null, null, null, null, null)),
+                        'value',
+                        '3'
+                    ]], null, null, null, null, null)),
                     t['ɵdid'](31, 147456, null, 0, C.u, [
                         t.ElementRef,
                         t.Renderer2,
@@ -1440,25 +1440,25 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](35, 0, null, null, 1, 'small', [[
-                            'class',
-                            'form-text text-muted'
-                        ]], [[
-                            8,
-                            'innerHTML',
-                            1
-                        ]], null, null, null, null)),
+                        'class',
+                        'form-text text-muted'
+                    ]], [[
+                        8,
+                        'innerHTML',
+                        1
+                    ]], null, null, null, null)),
                     t['ɵpid'](131072, g.k, [
                         g.l,
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](37, 0, null, null, 16, 'div', [[
-                            'class',
-                            'col-lg-2'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-lg-2'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](38, 0, null, null, 13, 'div', [[
-                            'class',
-                            'input-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'input-group'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](39, 16777216, null, null, 9, 'input', [
                         [
                             'class',
@@ -1557,9 +1557,9 @@
                         ]
                     ], null, null),
                     t['ɵdid'](42, 671744, [[
-                            'd22',
-                            4
-                        ]], 0, m.C, [
+                        'd22',
+                        4
+                    ]], 0, m.C, [
                         m.o,
                         t.ElementRef,
                         t.ViewContainerRef,
@@ -1609,17 +1609,17 @@
                     }, { update: 'ngModelChange' }),
                     t['ɵprd'](2048, null, C.p, null, [C.t]),
                     t['ɵdid'](47, 16384, null, 0, C.q, [[
-                            4,
-                            C.p
-                        ]], null, null),
+                        4,
+                        C.p
+                    ]], null, null),
                     t['ɵpid'](131072, g.k, [
                         g.l,
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](49, 0, null, null, 2, 'div', [[
-                            'class',
-                            'input-group-append'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'input-group-append'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](50, 0, null, null, 1, 'button', [
                         [
                             'class',
@@ -1630,9 +1630,9 @@
                             'button'
                         ]
                     ], null, [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var u = !0;
                         return 'click' === n && (u = !1 !== t['ɵnov'](l, 42).toggle() && u), u;
                     }, null, null)),
@@ -1647,25 +1647,25 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](52, 0, null, null, 1, 'small', [[
-                            'class',
-                            'form-text text-muted'
-                        ]], [[
-                            8,
-                            'innerHTML',
-                            1
-                        ]], null, null, null, null)),
+                        'class',
+                        'form-text text-muted'
+                    ]], [[
+                        8,
+                        'innerHTML',
+                        1
+                    ]], null, null, null, null)),
                     t['ɵpid'](131072, g.k, [
                         g.l,
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](54, 0, null, null, 14, 'div', [[
-                            'class',
-                            'col-lg-2'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-lg-2'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](55, 0, null, null, 13, 'div', [[
-                            'class',
-                            'input-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'input-group'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](56, 16777216, null, null, 9, 'input', [
                         [
                             'class',
@@ -1764,9 +1764,9 @@
                         ]
                     ], null, null),
                     t['ɵdid'](59, 671744, [[
-                            'd21',
-                            4
-                        ]], 0, m.C, [
+                        'd21',
+                        4
+                    ]], 0, m.C, [
                         m.o,
                         t.ElementRef,
                         t.ViewContainerRef,
@@ -1816,17 +1816,17 @@
                     }, { update: 'ngModelChange' }),
                     t['ɵprd'](2048, null, C.p, null, [C.t]),
                     t['ɵdid'](64, 16384, null, 0, C.q, [[
-                            4,
-                            C.p
-                        ]], null, null),
+                        4,
+                        C.p
+                    ]], null, null),
                     t['ɵpid'](131072, g.k, [
                         g.l,
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](66, 0, null, null, 2, 'div', [[
-                            'class',
-                            'input-group-append'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'input-group-append'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](67, 0, null, null, 1, 'button', [
                         [
                             'class',
@@ -1837,9 +1837,9 @@
                             'button'
                         ]
                     ], null, [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var u = !0;
                         return 'click' === n && (u = !1 !== t['ɵnov'](l, 59).toggle() && u), u;
                     }, null, null)),
@@ -1854,9 +1854,9 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](69, 0, null, null, 10, 'div', [[
-                            'class',
-                            'col-lg-2'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-lg-2'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](70, 0, null, null, 6, 'input', [
                         [
                             'class',
@@ -1972,17 +1972,17 @@
                     }, { update: 'ngModelChange' }),
                     t['ɵprd'](2048, null, C.p, null, [C.t]),
                     t['ɵdid'](75, 16384, null, 0, C.q, [[
-                            4,
-                            C.p
-                        ]], null, null),
+                        4,
+                        C.p
+                    ]], null, null),
                     t['ɵpid'](131072, g.k, [
                         g.l,
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](77, 0, null, null, 2, 'small', [[
-                            'class',
-                            'form-text text-muted'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-text text-muted'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](78, null, [
                         '',
                         ''
@@ -1992,9 +1992,9 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](80, 0, null, null, 2, 'div', [[
-                            'class',
-                            'col-lg-2'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-lg-2'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](81, 0, null, null, 1, 'button', [
                         [
                             'class',
@@ -2005,9 +2005,9 @@
                             'button'
                         ]
                     ], null, [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'click' === n && (t = !1 !== l.component.searchCriteria() && t), t;
                     }, null, null)),
@@ -2022,25 +2022,25 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](83, 0, null, null, 53, 'div', [[
-                            'class',
-                            'form form-label-right'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form form-label-right'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](84, 0, null, null, 52, 'div', [[
-                            'class',
-                            'form-group row'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group row'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](85, 0, null, null, 25, 'div', [[
-                            'class',
-                            'col-lg-2'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-lg-2'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](86, 0, null, null, 24, 'div', [[
-                            'class',
-                            'row'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](87, 0, null, null, 23, 'div', [[
-                            'class',
-                            'col-lg-12'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-lg-12'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](88, 0, null, null, 20, 'select', [
                         [
                             'class',
@@ -2135,13 +2135,13 @@
                     }, { update: 'ngModelChange' }),
                     t['ɵprd'](2048, null, C.p, null, [C.t]),
                     t['ɵdid'](93, 16384, null, 0, C.q, [[
-                            4,
-                            C.p
-                        ]], null, null),
+                        4,
+                        C.p
+                    ]], null, null),
                     (l()(), t['ɵeld'](94, 0, null, null, 4, 'option', [[
-                            'value',
-                            ''
-                        ]], null, null, null, null, null)),
+                        'value',
+                        ''
+                    ]], null, null, null, null, null)),
                     t['ɵdid'](95, 147456, null, 0, C.u, [
                         t.ElementRef,
                         t.Renderer2,
@@ -2177,9 +2177,9 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](99, 0, null, null, 4, 'option', [[
-                            'value',
-                            '1'
-                        ]], null, null, null, null, null)),
+                        'value',
+                        '1'
+                    ]], null, null, null, null, null)),
                     t['ɵdid'](100, 147456, null, 0, C.u, [
                         t.ElementRef,
                         t.Renderer2,
@@ -2215,9 +2215,9 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](104, 0, null, null, 4, 'option', [[
-                            'value',
-                            '2'
-                        ]], null, null, null, null, null)),
+                        'value',
+                        '2'
+                    ]], null, null, null, null, null)),
                     t['ɵdid'](105, 147456, null, 0, C.u, [
                         t.ElementRef,
                         t.Renderer2,
@@ -2253,29 +2253,29 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](109, 0, null, null, 1, 'small', [[
-                            'class',
-                            'form-text text-muted'
-                        ]], [[
-                            8,
-                            'innerHTML',
-                            1
-                        ]], null, null, null, null)),
+                        'class',
+                        'form-text text-muted'
+                    ]], [[
+                        8,
+                        'innerHTML',
+                        1
+                    ]], null, null, null, null)),
                     t['ɵpid'](131072, g.k, [
                         g.l,
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](111, 0, null, null, 25, 'div', [[
-                            'class',
-                            'col-lg-2'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-lg-2'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](112, 0, null, null, 24, 'div', [[
-                            'class',
-                            'row'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](113, 0, null, null, 23, 'div', [[
-                            'class',
-                            'col-lg-12'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-lg-12'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](114, 0, null, null, 20, 'select', [
                         [
                             'class',
@@ -2370,13 +2370,13 @@
                     }, { update: 'ngModelChange' }),
                     t['ɵprd'](2048, null, C.p, null, [C.t]),
                     t['ɵdid'](119, 16384, null, 0, C.q, [[
-                            4,
-                            C.p
-                        ]], null, null),
+                        4,
+                        C.p
+                    ]], null, null),
                     (l()(), t['ɵeld'](120, 0, null, null, 4, 'option', [[
-                            'value',
-                            ''
-                        ]], null, null, null, null, null)),
+                        'value',
+                        ''
+                    ]], null, null, null, null, null)),
                     t['ɵdid'](121, 147456, null, 0, C.u, [
                         t.ElementRef,
                         t.Renderer2,
@@ -2412,9 +2412,9 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](125, 0, null, null, 4, 'option', [[
-                            'value',
-                            '1'
-                        ]], null, null, null, null, null)),
+                        'value',
+                        '1'
+                    ]], null, null, null, null, null)),
                     t['ɵdid'](126, 147456, null, 0, C.u, [
                         t.ElementRef,
                         t.Renderer2,
@@ -2450,9 +2450,9 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](130, 0, null, null, 4, 'option', [[
-                            'value',
-                            '3'
-                        ]], null, null, null, null, null)),
+                        'value',
+                        '3'
+                    ]], null, null, null, null, null)),
                     t['ɵdid'](131, 147456, null, 0, C.u, [
                         t.ElementRef,
                         t.Renderer2,
@@ -2488,29 +2488,34 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](135, 0, null, null, 1, 'small', [[
-                            'class',
-                            'form-text text-muted'
-                        ]], [[
-                            8,
-                            'innerHTML',
-                            1
-                        ]], null, null, null, null)),
+                        'class',
+                        'form-text text-muted'
+                    ]], [[
+                        8,
+                        'innerHTML',
+                        1
+                    ]], null, null, null, null)),
                     t['ɵpid'](131072, g.k, [
                         g.l,
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](137, 0, null, null, 27, 'div', [[
-                            'class',
-                            'table-responsive angular-bootstrap-table'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'table-responsive angular-bootstrap-table'
+                    ],
+                    [
+                        'style',
+                        'padding-top: 110px'
+                    ]
+                    ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](138, 0, null, null, 26, 'table', [[
-                            'class',
-                            'table table-head-custom table-vertical-center overflow-inherit borderTable'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'table table-head-custom table-vertical-center overflow-inherit borderTable'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](139, 0, null, null, 21, 'thead', [[
-                            'class',
-                            'bg-table'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'bg-table'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](140, 0, null, null, 2, 'th', [
                         [
                             'style',
@@ -2597,12 +2602,13 @@
                     }, null),
                     t['ɵpid'](131072, p.AsyncPipe, [t.ChangeDetectorRef]),
                     (l()(), t['ɵeld'](165, 0, null, null, 1, 'app-paginator', [[
-                            'class',
-                            'd-flex justify-content-between align-items-center flex-wrap'
-                        ]], null, [[
-                            null,
-                            'paginate'
-                        ]], function (l, n, e) {
+                        'class',
+                        'd-flex justify-content-between align-items-center flex-wrap'
+                    ],
+                    ], null, [[
+                        null,
+                        'paginate'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'paginate' === n && (t = !1 !== l.component.paginate(e) && t), t;
                     }, h.b, h.a)),
@@ -2699,10 +2705,10 @@
                 }
             }
             var vl = e('tqRt'), fl = t['ɵcrt']({
-                    encapsulation: 0,
-                    styles: [['']],
-                    data: {}
-                });
+                encapsulation: 0,
+                styles: [['']],
+                data: {}
+            });
             function Cl(l) {
                 return t['ɵvid'](0, [
                     (l()(), t['ɵeld'](0, 0, null, null, 2, null, null, null, null, null, null, null)),
@@ -2774,13 +2780,13 @@
             function Ol(l) {
                 return t['ɵvid'](0, [
                     (l()(), t['ɵeld'](0, 0, null, null, 17, 'div', [[
-                            'class',
-                            'col-xl-4'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-4'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](1, 0, null, null, 16, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](2, 0, null, null, 2, 'label', [], null, null, null, null, null)),
                     (l()(), t['ɵted'](3, null, [
                         '',
@@ -2884,9 +2890,9 @@
                     }, null),
                     t['ɵprd'](2048, null, C.p, null, [C.i]),
                     t['ɵdid'](10, 16384, null, 0, C.q, [[
-                            4,
-                            C.p
-                        ]], null, null),
+                        4,
+                        C.p
+                    ]], null, null),
                     (l()(), t['ɵeld'](11, 0, null, null, 4, 'option', [], null, null, null, null, null)),
                     t['ɵdid'](12, 147456, null, 0, C.u, [
                         t.ElementRef,
@@ -3035,9 +3041,9 @@
                     }, null),
                     t['ɵprd'](2048, null, C.d, null, [C.k]),
                     t['ɵdid'](4, 16384, null, 0, C.r, [[
-                            6,
-                            C.d
-                        ]], null, null),
+                        6,
+                        C.d
+                    ]], null, null),
                     t['ɵdid'](5, 671744, null, 0, ll.b, [
                         nl.a,
                         t.ElementRef,
@@ -3059,13 +3065,13 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](7, 0, null, null, 22, 'div', [[
-                            'class',
-                            'col-xl-4'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-4'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](8, 0, null, null, 21, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](9, 0, null, null, 20, 'nz-form-item', [], [
                         [
                             2,
@@ -3161,13 +3167,13 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](15, 0, null, 0, 14, 'nz-form-control', [[
-                            'nzHasFeedback',
-                            ''
-                        ]], [[
-                            4,
-                            'flex',
-                            null
-                        ]], null, null, el.d, el.a)),
+                        'nzHasFeedback',
+                        ''
+                    ]], [[
+                        4,
+                        'flex',
+                        null
+                    ]], null, null, el.d, el.a)),
                     t['ɵdid'](16, 4931584, null, 0, tl.a, [
                         t.ElementRef,
                         [
@@ -3361,13 +3367,13 @@
                         ]
                     }, null),
                     t['ɵprd'](2048, [[
-                            1,
-                            4
-                        ]], C.p, null, [C.i]),
+                        1,
+                        4
+                    ]], C.p, null, [C.i]),
                     t['ɵdid'](26, 16384, null, 0, C.q, [[
-                            4,
-                            C.p
-                        ]], null, null),
+                        4,
+                        C.p
+                    ]], null, null),
                     t['ɵdid'](27, 737280, null, 0, rl.a, [
                         [
                             6,
@@ -3381,17 +3387,17 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵand'](0, [[
-                            'errName',
-                            2
-                        ]], 0, 0, null, hl)),
+                        'errName',
+                        2
+                    ]], 0, 0, null, hl)),
                     (l()(), t['ɵeld'](30, 0, null, null, 23, 'div', [[
-                            'class',
-                            'col-xl-4'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-4'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](31, 0, null, null, 22, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](32, 0, null, null, 2, 'label', [], null, null, null, null, null)),
                     (l()(), t['ɵted'](33, null, [
                         '',
@@ -3495,14 +3501,14 @@
                     }, null),
                     t['ɵprd'](2048, null, C.p, null, [C.i]),
                     t['ɵdid'](40, 16384, null, 0, C.q, [[
-                            4,
-                            C.p
-                        ]], null, null),
+                        4,
+                        C.p
+                    ]], null, null),
                     (l()(), t['ɵeld'](41, 0, null, null, 4, 'option', [], [[
-                            8,
-                            'disabled',
-                            0
-                        ]], null, null, null, null)),
+                        8,
+                        'disabled',
+                        0
+                    ]], null, null, null, null)),
                     t['ɵdid'](42, 147456, null, 0, C.u, [
                         t.ElementRef,
                         t.Renderer2,
@@ -3538,9 +3544,9 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](46, 0, null, null, 3, 'option', [[
-                            'value',
-                            '1'
-                        ]], null, null, null, null, null)),
+                        'value',
+                        '1'
+                    ]], null, null, null, null, null)),
                     t['ɵdid'](47, 147456, null, 0, C.u, [
                         t.ElementRef,
                         t.Renderer2,
@@ -3569,13 +3575,13 @@
                     }, null),
                     (l()(), t['ɵted'](-1, null, ['e.Firma'])),
                     (l()(), t['ɵeld'](50, 0, null, null, 3, 'option', [[
-                            'value',
-                            '3'
-                        ]], [[
-                            8,
-                            'selected',
-                            0
-                        ]], null, null, null, null)),
+                        'value',
+                        '3'
+                    ]], [[
+                        8,
+                        'selected',
+                        0
+                    ]], null, null, null, null)),
                     t['ɵdid'](51, 147456, null, 0, C.u, [
                         t.ElementRef,
                         t.Renderer2,
@@ -3614,17 +3620,17 @@
                         ]
                     }, null),
                     (l()(), t['ɵeld'](56, 0, null, null, 50, 'div', [[
-                            'class',
-                            'row'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](57, 0, null, null, 23, 'div', [[
-                            'class',
-                            'col-xl-6'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-6'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](58, 0, null, null, 22, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](59, 0, null, null, 2, 'label', [], null, null, null, null, null)),
                     (l()(), t['ɵted'](60, null, [
                         '',
@@ -3728,14 +3734,14 @@
                     }, null),
                     t['ɵprd'](2048, null, C.p, null, [C.i]),
                     t['ɵdid'](67, 16384, null, 0, C.q, [[
-                            4,
-                            C.p
-                        ]], null, null),
+                        4,
+                        C.p
+                    ]], null, null),
                     (l()(), t['ɵeld'](68, 0, null, null, 4, 'option', [], [[
-                            8,
-                            'disabled',
-                            0
-                        ]], null, null, null, null)),
+                        8,
+                        'disabled',
+                        0
+                    ]], null, null, null, null)),
                     t['ɵdid'](69, 147456, null, 0, C.u, [
                         t.ElementRef,
                         t.Renderer2,
@@ -3771,13 +3777,13 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](73, 0, null, null, 3, 'option', [[
-                            'value',
-                            '1'
-                        ]], [[
-                            8,
-                            'disabled',
-                            0
-                        ]], null, null, null, null)),
+                        'value',
+                        '1'
+                    ]], [[
+                        8,
+                        'disabled',
+                        0
+                    ]], null, null, null, null)),
                     t['ɵdid'](74, 147456, null, 0, C.u, [
                         t.ElementRef,
                         t.Renderer2,
@@ -3809,13 +3815,13 @@
                         ' Documentos)'
                     ])),
                     (l()(), t['ɵeld'](77, 0, null, null, 3, 'option', [[
-                            'value',
-                            '2'
-                        ]], [[
-                            8,
-                            'disabled',
-                            0
-                        ]], null, null, null, null)),
+                        'value',
+                        '2'
+                    ]], [[
+                        8,
+                        'disabled',
+                        0
+                    ]], null, null, null, null)),
                     t['ɵdid'](78, 147456, null, 0, C.u, [
                         t.ElementRef,
                         t.Renderer2,
@@ -3847,13 +3853,13 @@
                         ' Documentos)'
                     ])),
                     (l()(), t['ɵeld'](81, 0, null, null, 25, 'div', [[
-                            'class',
-                            'col-xl-6'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-6'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](82, 0, null, null, 24, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](83, 0, null, null, 2, 'label', [], null, null, null, null, null)),
                     (l()(), t['ɵted'](84, null, [
                         '',
@@ -3957,14 +3963,14 @@
                     }, null),
                     t['ɵprd'](2048, null, C.p, null, [C.i]),
                     t['ɵdid'](91, 16384, null, 0, C.q, [[
-                            4,
-                            C.p
-                        ]], null, null),
+                        4,
+                        C.p
+                    ]], null, null),
                     (l()(), t['ɵeld'](92, 0, null, null, 4, 'option', [], [[
-                            8,
-                            'disabled',
-                            0
-                        ]], null, null, null, null)),
+                        8,
+                        'disabled',
+                        0
+                    ]], null, null, null, null)),
                     t['ɵdid'](93, 147456, null, 0, C.u, [
                         t.ElementRef,
                         t.Renderer2,
@@ -4000,9 +4006,9 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](97, 0, null, null, 4, 'option', [[
-                            'value',
-                            '1'
-                        ]], null, null, null, null, null)),
+                        'value',
+                        '1'
+                    ]], null, null, null, null, null)),
                     t['ɵdid'](98, 147456, null, 0, C.u, [
                         t.ElementRef,
                         t.Renderer2,
@@ -4038,9 +4044,9 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](102, 0, null, null, 4, 'option', [[
-                            'value',
-                            '2'
-                        ]], null, null, null, null, null)),
+                        'value',
+                        '2'
+                    ]], null, null, null, null, null)),
                     t['ɵdid'](103, 147456, null, 0, C.u, [
                         t.ElementRef,
                         t.Renderer2,
@@ -4117,12 +4123,12 @@
             class Nl {
                 constructor(l, n, e, u, i) {
                     this.modalService = l, this._validations = n, this.contractService = e, this.store = u, this.userService = i, this.items = [], this.externalItems = [], this.validateEmail = !1, this.getItems = new t.EventEmitter(), this.emailsFilters = [], this.actionsItems = [{
-                            action: l => {
-                                this.delete(l);
-                            },
-                            name: 'Eliminar',
-                            icon: 'flaticon-delete'
-                        }];
+                        action: l => {
+                            this.delete(l);
+                        },
+                        name: 'Eliminar',
+                        icon: 'flaticon-delete'
+                    }];
                 }
                 ngOnInit() {
                     var l, n;
@@ -4165,10 +4171,10 @@
                 }
             }
             var Sl = e('H2HB'), Fl = e('eSKV'), Ul = t['ɵcrt']({
-                    encapsulation: 0,
-                    styles: [['']],
-                    data: {}
-                });
+                encapsulation: 0,
+                styles: [['']],
+                data: {}
+            });
             function Ll(l) {
                 return t['ɵvid'](0, [
                     (l()(), t['ɵeld'](0, 0, null, null, 2, 'mat-option', [
@@ -4239,9 +4245,9 @@
                         return 'click' === n && (u = !1 !== t['ɵnov'](l, 1)._selectViaInteraction() && u), 'keydown' === n && (u = !1 !== t['ɵnov'](l, 1)._handleKeydown(e) && u), 'onSelectionChange' === n && (u = !1 !== i.updateForm(e, l.context.$implicit.email, l.context.$implicit.name) && u), u;
                     }, zl.b, zl.a)),
                     t['ɵdid'](1, 8568832, [[
-                            3,
-                            4
-                        ]], 0, _l.o, [
+                        3,
+                        4
+                    ]], 0, _l.o, [
                         t.ElementRef,
                         t.ChangeDetectorRef,
                         [
@@ -4337,13 +4343,13 @@
             function Kl(l) {
                 return t['ɵvid'](0, [
                     (l()(), t['ɵeld'](0, 0, null, null, 6, 'div', [[
-                            'class',
-                            'modal-header'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'modal-header'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](1, 0, null, null, 2, 'h4', [[
-                            'class',
-                            'modal-title'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'modal-title'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](2, null, [
                         ' ',
                         ''
@@ -4366,24 +4372,24 @@
                             'button'
                         ]
                     ], null, [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'click' === n && (t = !1 !== l.context.dismiss('Cross click') && t), t;
                     }, null, null)),
                     (l()(), t['ɵeld'](5, 0, null, null, 1, 'span', [[
-                            'aria-hidden',
-                            'true'
-                        ]], null, null, null, null, null)),
+                        'aria-hidden',
+                        'true'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](6, 0, null, null, 0, 'i', [[
-                            'class',
-                            'fa fa-close'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'fa fa-close'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](7, 0, null, null, 54, 'div', [[
-                            'class',
-                            'modal-body'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'modal-body'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](8, 0, null, null, 53, 'form', [
                         [
                             'novalidate',
@@ -4479,9 +4485,9 @@
                     }, null),
                     t['ɵprd'](2048, null, C.d, null, [C.k]),
                     t['ɵdid'](12, 16384, null, 0, C.r, [[
-                            6,
-                            C.d
-                        ]], null, null),
+                        6,
+                        C.d
+                    ]], null, null),
                     t['ɵdid'](13, 671744, null, 0, ll.b, [
                         nl.a,
                         t.ElementRef,
@@ -4493,9 +4499,9 @@
                         ]
                     }, null),
                     (l()(), t['ɵeld'](14, 0, null, null, 27, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](15, 0, null, null, 26, 'nz-form-item', [], [
                         [
                             2,
@@ -4582,9 +4588,9 @@
                         t.ChangeDetectorRef
                     ], null, null),
                     (l()(), t['ɵeld'](18, 0, null, 0, 2, 'label', [[
-                            'class',
-                            'font-size-h6 font-weight-bolder text-dark'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'font-size-h6 font-weight-bolder text-dark'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](19, null, [
                         '',
                         ' '
@@ -4594,13 +4600,13 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](21, 0, null, 0, 20, 'nz-form-control', [[
-                            'nzHasFeedback',
-                            ''
-                        ]], [[
-                            4,
-                            'flex',
-                            null
-                        ]], null, null, el.d, el.a)),
+                        'nzHasFeedback',
+                        ''
+                    ]], [[
+                        4,
+                        'flex',
+                        null
+                    ]], null, null, el.d, el.a)),
                     t['ɵdid'](22, 4931584, null, 0, tl.a, [
                         t.ElementRef,
                         [
@@ -4847,13 +4853,13 @@
                         ]
                     }, null),
                     t['ɵprd'](2048, [[
-                            1,
-                            4
-                        ]], C.p, null, [C.i]),
+                        1,
+                        4
+                    ]], C.p, null, [C.i]),
                     t['ɵdid'](31, 16384, null, 0, C.q, [[
-                            4,
-                            C.p
-                        ]], null, null),
+                        4,
+                        C.p
+                    ]], null, null),
                     t['ɵdid'](32, 737280, null, 0, rl.a, [
                         [
                             6,
@@ -4867,14 +4873,14 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](34, 0, null, 0, 6, 'mat-autocomplete', [[
-                            'class',
-                            'mat-autocomplete'
-                        ]], null, null, null, Dl.b, Dl.a)),
+                        'class',
+                        'mat-autocomplete'
+                    ]], null, null, null, Dl.b, Dl.a)),
                     t['ɵprd'](6144, null, _l.i, null, [bl.d]),
                     t['ɵdid'](36, 1228800, [[
-                            'auto',
-                            4
-                        ]], 2, bl.d, [
+                        'auto',
+                        4
+                    ]], 2, bl.d, [
                         t.ChangeDetectorRef,
                         t.ElementRef,
                         bl.a
@@ -4893,13 +4899,13 @@
                         ]
                     }, null),
                     (l()(), t['ɵand'](0, [[
-                            'errName',
-                            2
-                        ]], 0, 0, null, Hl)),
+                        'errName',
+                        2
+                    ]], 0, 0, null, Hl)),
                     (l()(), t['ɵeld'](42, 0, null, null, 19, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](43, 0, null, null, 18, 'nz-form-item', [], [
                         [
                             2,
@@ -4986,9 +4992,9 @@
                         t.ChangeDetectorRef
                     ], null, null),
                     (l()(), t['ɵeld'](46, 0, null, 0, 2, 'label', [[
-                            'class',
-                            'font-size-h6 font-weight-bolder text-dark'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'font-size-h6 font-weight-bolder text-dark'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](47, null, [
                         '',
                         ' '
@@ -4998,10 +5004,10 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](49, 0, null, 0, 12, 'nz-form-control', [], [[
-                            4,
-                            'flex',
-                            null
-                        ]], null, null, el.d, el.a)),
+                        4,
+                        'flex',
+                        null
+                    ]], null, null, el.d, el.a)),
                     t['ɵdid'](50, 4931584, null, 0, tl.a, [
                         t.ElementRef,
                         [
@@ -5031,9 +5037,9 @@
                     }, null),
                     t['ɵqud'](603979776, 4, { defaultValidateControl: 0 }),
                     (l()(), t['ɵeld'](53, 0, null, 0, 7, 'div', [[
-                            'class',
-                            'input-group mb-3'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'input-group mb-3'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](54, 0, null, null, 6, 'input', [
                         [
                             'class',
@@ -5148,29 +5154,29 @@
                         ]
                     }, null),
                     t['ɵprd'](2048, [[
-                            4,
-                            4
-                        ]], C.p, null, [C.i]),
+                        4,
+                        4
+                    ]], C.p, null, [C.i]),
                     t['ɵdid'](59, 16384, null, 0, C.q, [[
-                            4,
-                            C.p
-                        ]], null, null),
+                        4,
+                        C.p
+                    ]], null, null),
                     t['ɵpid'](131072, g.k, [
                         g.l,
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵand'](0, [[
-                            'errEmail',
-                            2
-                        ]], 0, 0, null, Zl)),
+                        'errEmail',
+                        2
+                    ]], 0, 0, null, Zl)),
                     (l()(), t['ɵeld'](62, 0, null, null, 15, 'div', [[
-                            'class',
-                            'modal-footer'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'modal-footer'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](63, 0, null, null, 8, 'label', [[
-                            'nz-checkbox',
-                            ''
-                        ]], [
+                        'nz-checkbox',
+                        ''
+                    ]], [
                         [
                             2,
                             'ant-checkbox-wrapper-checked',
@@ -5261,9 +5267,9 @@
                     }, { update: 'ngModelChange' }),
                     t['ɵprd'](2048, null, C.p, null, [C.t]),
                     t['ɵdid'](68, 16384, null, 0, C.q, [[
-                            4,
-                            C.p
-                        ]], null, null),
+                        4,
+                        C.p
+                    ]], null, null),
                     (l()(), t['ɵeld'](69, 0, null, 0, 2, 'span', [], null, null, null, null, null)),
                     (l()(), t['ɵted'](70, null, [
                         '',
@@ -5283,9 +5289,9 @@
                             'button'
                         ]
                     ], null, [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'click' === n && (t = !1 !== l.context.close('Close click') && t), t;
                     }, null, null)),
@@ -5307,13 +5313,13 @@
                             'button'
                         ]
                     ], [[
-                            8,
-                            'disabled',
-                            0
-                        ]], [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        8,
+                        'disabled',
+                        0
+                    ]], [[
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'click' === n && (t = !1 !== l.component.add() && t), t;
                     }, null, null)),
@@ -5387,9 +5393,9 @@
             function Bl(l) {
                 return t['ɵvid'](0, [
                     (l()(), t['ɵeld'](0, 0, null, null, 1, 'app-lists-widget3', [], null, [[
-                            null,
-                            'buttonAction'
-                        ]], function (l, n, e) {
+                        null,
+                        'buttonAction'
+                    ]], function (l, n, e) {
                         var u = !0;
                         return 'buttonAction' === n && (u = !1 !== l.component.openLarge(t['ɵnov'](l, 4)) && u), u;
                     }, Il.b, Il.a)),
@@ -5412,14 +5418,14 @@
                         ]
                     }, { buttonAction: 'buttonAction' }),
                     (l()(), t['ɵeld'](2, 0, null, null, 2, 'div', [[
-                            'class',
-                            'example-preview'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'example-preview'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](3, 0, null, null, 1, 'div', [], null, null, null, null, null)),
                     (l()(), t['ɵand'](0, [[
-                            'content6',
-                            2
-                        ]], null, 0, null, Kl))
+                        'content6',
+                        2
+                    ]], null, 0, null, Kl))
                 ], function (l, n) {
                     var e = n.component;
                     l(n, 1, 0, e.title, e.titleActions, e.items, e.actionsItems);
@@ -5446,24 +5452,24 @@
                             ],
                             [{ direction: 'rtl' }],
                             [{
-                                    size: [
-                                        'small',
-                                        !1,
-                                        'large',
-                                        'huge'
-                                    ]
-                                }],
+                                size: [
+                                    'small',
+                                    !1,
+                                    'large',
+                                    'huge'
+                                ]
+                            }],
                             [{
-                                    header: [
-                                        1,
-                                        2,
-                                        3,
-                                        4,
-                                        5,
-                                        6,
-                                        !1
-                                    ]
-                                }],
+                                header: [
+                                    1,
+                                    2,
+                                    3,
+                                    4,
+                                    5,
+                                    6,
+                                    !1
+                                ]
+                            }],
                             [
                                 { color: [] },
                                 { background: [] }
@@ -5565,13 +5571,13 @@
             function Xl(l) {
                 return t['ɵvid'](0, [
                     (l()(), t['ɵeld'](0, 0, null, null, 4, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](1, 0, null, null, 3, 'quill-editor', [], null, [[
-                            null,
-                            'onEditorChanged'
-                        ]], function (l, n, e) {
+                        null,
+                        'onEditorChanged'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'onEditorChanged' === n && (t = !1 !== l.component.editorChanged(e) && t), t;
                     }, G.b, G.a)),
@@ -6115,17 +6121,17 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](4, 0, null, null, 10, 'div', [[
-                            'class',
-                            'card-header'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'card-header'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](5, 0, null, null, 3, 'div', [[
-                            'class',
-                            'card-title'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'card-title'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](6, 0, null, null, 2, 'h3', [[
-                            'class',
-                            'card-label'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'card-label'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](7, null, [
                         ' ',
                         ''
@@ -6135,9 +6141,9 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](9, 0, null, null, 5, 'div', [[
-                            'class',
-                            'card-toolbar'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'card-toolbar'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](10, 0, null, null, 4, 'a', [
                         [
                             'class',
@@ -6163,9 +6169,9 @@
                             4
                         ]
                     ], [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var u = !0;
                         return 'click' === n && (u = !1 !== t['ɵnov'](l, 11).onClick(e.button, e.ctrlKey, e.shiftKey, e.altKey, e.metaKey) && u), u;
                     }, null, null)),
@@ -6180,9 +6186,9 @@
                         ]
                     }, null),
                     (l()(), t['ɵeld'](12, 0, null, null, 0, 'i', [[
-                            'class',
-                            'fa fa-arrow-left'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'fa fa-arrow-left'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](13, null, [
                         ' ',
                         ' '
@@ -6192,9 +6198,9 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](15, 0, null, null, 91, 'div', [[
-                            'class',
-                            'card-body'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'card-body'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](16, 0, [
                         [
                             1,
@@ -6223,13 +6229,13 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](17, 0, null, null, 22, 'div', [[
-                            'class',
-                            'wizard-nav border-bottom'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'wizard-nav border-bottom'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](18, 0, null, null, 21, 'div', [[
-                            'class',
-                            'wizard-steps p-8 p-lg-10'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'wizard-steps p-8 p-lg-10'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](19, 0, null, null, 6, 'a', [
                         [
                             'class',
@@ -6249,13 +6255,13 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](20, 0, null, null, 5, 'div', [[
-                            'class',
-                            'wizard-label'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'wizard-label'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](21, 0, null, null, 1, 'div', [[
-                            'class',
-                            'wizard-icon'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'wizard-icon'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](22, 0, null, null, 0, 'img', [
                         [
                             'src',
@@ -6267,9 +6273,9 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](23, 0, null, null, 2, 'h3', [[
-                            'class',
-                            'wizard-title'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'wizard-title'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](24, null, [
                         '1) ',
                         ' '
@@ -6293,13 +6299,13 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](27, 0, null, null, 5, 'div', [[
-                            'class',
-                            'wizard-label'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'wizard-label'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](28, 0, null, null, 1, 'div', [[
-                            'class',
-                            'wizard-icon'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'wizard-icon'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](29, 0, null, null, 0, 'img', [
                         [
                             'alt',
@@ -6319,9 +6325,9 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](30, 0, null, null, 2, 'h3', [[
-                            'class',
-                            'wizard-title'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'wizard-title'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](31, null, [
                         '2) ',
                         ''
@@ -6345,13 +6351,13 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](34, 0, null, null, 5, 'div', [[
-                            'class',
-                            'wizard-label'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'wizard-label'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](35, 0, null, null, 1, 'div', [[
-                            'class',
-                            'wizard-icon'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'wizard-icon'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](36, 0, null, null, 0, 'img', [
                         [
                             'alt',
@@ -6371,9 +6377,9 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](37, 0, null, null, 2, 'h3', [[
-                            'class',
-                            'wizard-title'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'wizard-title'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](38, null, [
                         '3) ',
                         ''
@@ -6383,13 +6389,13 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](40, 0, null, null, 66, 'div', [[
-                            'class',
-                            'row justify-content-center my-10 px-8 my-lg-15 px-lg-10'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row justify-content-center my-10 px-8 my-lg-15 px-lg-10'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](41, 0, null, null, 65, 'div', [[
-                            'class',
-                            'col-xl-12 col-xxl-10'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-12 col-xxl-10'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](42, 0, null, null, 64, 'form', [
                         [
                             'class',
@@ -6465,9 +6471,9 @@
                     ], null, null),
                     t['ɵprd'](2048, null, C.d, null, [C.s]),
                     t['ɵdid'](46, 16384, null, 0, C.r, [[
-                            6,
-                            C.d
-                        ]], null, null),
+                        6,
+                        C.d
+                    ]], null, null),
                     (l()(), t['ɵeld'](47, 0, null, null, 11, 'div', [
                         [
                             'class',
@@ -6483,9 +6489,9 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](48, 0, null, null, 2, 'div', [[
-                            'class',
-                            'mb-10 font-weight-bold text-dark'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'mb-10 font-weight-bold text-dark'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](49, null, [
                         ' ',
                         ' '
@@ -6534,21 +6540,21 @@
                         changeSelectDocument: 'changeSelectDocument'
                     }),
                     (l()(), t['ɵeld'](54, 0, null, null, 4, 'div', [[
-                            'class',
-                            'd-flex justify-content-end border-top pt-10'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'd-flex justify-content-end border-top pt-10'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](55, 0, null, null, 3, 'div', [], null, null, null, null, null)),
                     (l()(), t['ɵeld'](56, 0, null, null, 2, 'button', [[
-                            'class',
-                            'btn btn-primary font-weight-bold text-uppercase px-9 py-4'
-                        ]], [[
-                            8,
-                            'disabled',
-                            0
-                        ]], [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        'class',
+                        'btn btn-primary font-weight-bold text-uppercase px-9 py-4'
+                    ]], [[
+                        8,
+                        'disabled',
+                        0
+                    ]], [[
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'click' === n && (t = !1 !== l.component.goTo(2) && t), t;
                     }, null, null)),
@@ -6571,9 +6577,9 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](60, 0, null, null, 2, 'div', [[
-                            'class',
-                            'mb-10 font-weight-bold text-dark'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'mb-10 font-weight-bold text-dark'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](61, null, [
                         ' ',
                         ' '
@@ -6583,9 +6589,9 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](63, 0, null, null, 17, 'form', [[
-                            'novalidate',
-                            ''
-                        ]], [
+                        'novalidate',
+                        ''
+                    ]], [
                         [
                             2,
                             'ng-untouched',
@@ -6652,9 +6658,9 @@
                     }, null),
                     t['ɵprd'](2048, null, C.d, null, [C.k]),
                     t['ɵdid'](67, 16384, null, 0, C.r, [[
-                            6,
-                            C.d
-                        ]], null, null),
+                        6,
+                        C.d
+                    ]], null, null),
                     (l()(), t['ɵand'](16777216, null, null, 1, null, Xl)),
                     t['ɵdid'](69, 16384, null, 0, p.NgIf, [
                         t.ViewContainerRef,
@@ -6676,20 +6682,20 @@
                         ]
                     }, null),
                     (l()(), t['ɵeld'](72, 0, null, null, 8, 'div', [[
-                            'class',
-                            'd-flex justify-content-between border-top pt-10'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'd-flex justify-content-between border-top pt-10'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](73, 0, null, null, 3, 'div', [[
-                            'class',
-                            'mr-2'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'mr-2'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](74, 0, null, null, 2, 'div', [[
-                            'class',
-                            'btn btn-light-primary font-weight-bold text-uppercase px-9 py-4'
-                        ]], null, [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        'class',
+                        'btn btn-light-primary font-weight-bold text-uppercase px-9 py-4'
+                    ]], null, [[
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'click' === n && (t = !1 !== l.component.goTo(1) && t), t;
                     }, null, null)),
@@ -6703,16 +6709,16 @@
                     ]),
                     (l()(), t['ɵeld'](77, 0, null, null, 3, 'div', [], null, null, null, null, null)),
                     (l()(), t['ɵeld'](78, 0, null, null, 2, 'button', [[
-                            'class',
-                            'btn btn-primary font-weight-bold text-uppercase px-9 py-4'
-                        ]], [[
-                            8,
-                            'disabled',
-                            0
-                        ]], [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        'class',
+                        'btn btn-primary font-weight-bold text-uppercase px-9 py-4'
+                    ]], [[
+                        8,
+                        'disabled',
+                        0
+                    ]], [[
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'click' === n && (t = !1 !== l.component.goTo(3) && t), t;
                     }, null, null)),
@@ -6735,9 +6741,9 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](82, 0, null, null, 2, 'div', [[
-                            'class',
-                            'mb-10 font-weight-bold text-dark'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'mb-10 font-weight-bold text-dark'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](83, null, [
                         ' ',
                         ' '
@@ -6747,17 +6753,17 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](85, 0, null, null, 12, 'div', [[
-                            'class',
-                            'row'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](86, 0, null, null, 5, 'div', [[
-                            'class',
-                            'col-xl-6'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-6'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](87, 0, null, null, 4, 'app-involved-list', [], null, [[
-                            null,
-                            'getItems'
-                        ]], function (l, n, e) {
+                        null,
+                        'getItems'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'getItems' === n && (t = !1 !== l.component.setSigns(e) && t), t;
                     }, Bl, Ul)),
@@ -6794,13 +6800,13 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](92, 0, null, null, 5, 'div', [[
-                            'class',
-                            'col-xl-6'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-6'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](93, 0, null, null, 4, 'app-involved-list', [], null, [[
-                            null,
-                            'getItems'
-                        ]], function (l, n, e) {
+                        null,
+                        'getItems'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'getItems' === n && (t = !1 !== l.component.setObservers(e) && t), t;
                     }, Bl, Ul)),
@@ -6837,20 +6843,20 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](98, 0, null, null, 8, 'div', [[
-                            'class',
-                            'd-flex justify-content-between border-top pt-10'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'd-flex justify-content-between border-top pt-10'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](99, 0, null, null, 3, 'div', [[
-                            'class',
-                            'mr-2'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'mr-2'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](100, 0, null, null, 2, 'div', [[
-                            'class',
-                            'btn btn-light-primary font-weight-bold text-uppercase px-9 py-4'
-                        ]], null, [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        'class',
+                        'btn btn-light-primary font-weight-bold text-uppercase px-9 py-4'
+                    ]], null, [[
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'click' === n && (t = !1 !== l.component.goTo(2) && t), t;
                     }, null, null)),
@@ -6864,16 +6870,16 @@
                     ]),
                     (l()(), t['ɵeld'](103, 0, null, null, 3, 'div', [], null, null, null, null, null)),
                     (l()(), t['ɵeld'](104, 0, null, null, 2, 'button', [[
-                            'class',
-                            'btn btn-success font-weight-bold text-uppercase px-9 py-4'
-                        ]], [[
-                            8,
-                            'disabled',
-                            0
-                        ]], [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        'class',
+                        'btn btn-success font-weight-bold text-uppercase px-9 py-4'
+                    ]], [[
+                        8,
+                        'disabled',
+                        0
+                    ]], [[
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'click' === n && (t = !1 !== l.component.create() && t), t;
                     }, null, null)),
@@ -6966,7 +6972,7 @@
                     }));
                 }
                 getSigners() {
-                    let l = [], n = this.document.recivers.filter(({reciverType: l}) => l == Gl.a.SIGN);
+                    let l = [], n = this.document.recivers.filter(({ reciverType: l }) => l == Gl.a.SIGN);
                     this.initSigns = n, this.signs = n, n.length > 0 && (l = n.map(l => ({
                         title: l.name,
                         description: l.email,
@@ -6974,7 +6980,7 @@
                     }))), this.signsListComponent = l;
                 }
                 getObservers() {
-                    let l = [], n = this.document.recivers.filter(({reciverType: l}) => l === Gl.a.Observer);
+                    let l = [], n = this.document.recivers.filter(({ reciverType: l }) => l === Gl.a.Observer);
                     this.initObserver = n, this.observers = n, n.length > 0 && (l = n.map(l => ({
                         title: l.name,
                         description: l.email,
@@ -7078,17 +7084,17 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](4, 0, null, null, 10, 'div', [[
-                            'class',
-                            'card-header'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'card-header'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](5, 0, null, null, 3, 'div', [[
-                            'class',
-                            'card-title'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'card-title'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](6, 0, null, null, 2, 'h3', [[
-                            'class',
-                            'card-label'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'card-label'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](7, null, [
                         ' ',
                         ''
@@ -7098,9 +7104,9 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](9, 0, null, null, 5, 'div', [[
-                            'class',
-                            'card-toolbar'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'card-toolbar'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](10, 0, null, null, 4, 'a', [
                         [
                             'class',
@@ -7126,9 +7132,9 @@
                             4
                         ]
                     ], [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var u = !0;
                         return 'click' === n && (u = !1 !== t['ɵnov'](l, 11).onClick(e.button, e.ctrlKey, e.shiftKey, e.altKey, e.metaKey) && u), u;
                     }, null, null)),
@@ -7143,9 +7149,9 @@
                         ]
                     }, null),
                     (l()(), t['ɵeld'](12, 0, null, null, 0, 'i', [[
-                            'class',
-                            'fa fa-arrow-left'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'fa fa-arrow-left'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](13, null, [
                         ' ',
                         ' '
@@ -7155,9 +7161,9 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](15, 0, null, null, 84, 'div', [[
-                            'class',
-                            'card-body'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'card-body'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](16, 0, [
                         [
                             1,
@@ -7186,13 +7192,13 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](17, 0, null, null, 19, 'div', [[
-                            'class',
-                            'wizard-nav border-bottom'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'wizard-nav border-bottom'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](18, 0, null, null, 18, 'div', [[
-                            'class',
-                            'wizard-steps p-8 p-lg-10'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'wizard-steps p-8 p-lg-10'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](19, 0, null, null, 5, 'a', [
                         [
                             'class',
@@ -7212,17 +7218,17 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](20, 0, null, null, 4, 'div', [[
-                            'class',
-                            'wizard-label'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'wizard-label'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](21, 0, null, null, 0, 'i', [[
-                            'class',
-                            'wizard-icon flaticon-list'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'wizard-icon flaticon-list'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](22, 0, null, null, 2, 'h3', [[
-                            'class',
-                            'wizard-title'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'wizard-title'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](23, null, [
                         '1) ',
                         ' '
@@ -7246,17 +7252,17 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](26, 0, null, null, 4, 'div', [[
-                            'class',
-                            'wizard-label'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'wizard-label'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](27, 0, null, null, 0, 'i', [[
-                            'class',
-                            'wizard-icon flaticon-file-1'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'wizard-icon flaticon-file-1'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](28, 0, null, null, 2, 'h3', [[
-                            'class',
-                            'wizard-title'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'wizard-title'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](29, null, [
                         '2) ',
                         ''
@@ -7280,17 +7286,17 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](32, 0, null, null, 4, 'div', [[
-                            'class',
-                            'wizard-label'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'wizard-label'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](33, 0, null, null, 0, 'i', [[
-                            'class',
-                            'wizard-icon flaticon-user-add'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'wizard-icon flaticon-user-add'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](34, 0, null, null, 2, 'h3', [[
-                            'class',
-                            'wizard-title'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'wizard-title'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](35, null, [
                         '3) ',
                         ''
@@ -7300,13 +7306,13 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](37, 0, null, null, 62, 'div', [[
-                            'class',
-                            'row justify-content-center my-10 px-8 my-lg-15 px-lg-10'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row justify-content-center my-10 px-8 my-lg-15 px-lg-10'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](38, 0, null, null, 61, 'div', [[
-                            'class',
-                            'col-xl-12 col-xxl-10'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-12 col-xxl-10'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](39, 0, null, null, 60, 'form', [
                         [
                             'class',
@@ -7382,9 +7388,9 @@
                     ], null, null),
                     t['ɵprd'](2048, null, C.d, null, [C.s]),
                     t['ɵdid'](43, 16384, null, 0, C.r, [[
-                            6,
-                            C.d
-                        ]], null, null),
+                        6,
+                        C.d
+                    ]], null, null),
                     (l()(), t['ɵeld'](44, 0, null, null, 11, 'div', [
                         [
                             'class',
@@ -7400,14 +7406,14 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](45, 0, null, null, 1, 'div', [[
-                            'class',
-                            'mb-10 font-weight-bold text-dark'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'mb-10 font-weight-bold text-dark'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](-1, null, [' Visualice su documento '])),
                     (l()(), t['ɵeld'](47, 0, null, null, 3, 'app-form-step1', [], null, [[
-                            null,
-                            'formChange'
-                        ]], function (l, n, e) {
+                        null,
+                        'formChange'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'formChange' === n && (t = !1 !== (l.component.infoForm = e) && t), t;
                     }, Ml, fl)),
@@ -7428,21 +7434,21 @@
                     }, { formChange: 'formChange' }),
                     (l()(), t['ɵted'](-1, null, [' [(mode)]="mode_view" '])),
                     (l()(), t['ɵeld'](51, 0, null, null, 4, 'div', [[
-                            'class',
-                            'd-flex justify-content-end border-top pt-10'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'd-flex justify-content-end border-top pt-10'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](52, 0, null, null, 3, 'div', [], null, null, null, null, null)),
                     (l()(), t['ɵeld'](53, 0, null, null, 2, 'button', [[
-                            'class',
-                            'btn btn-primary font-weight-bold text-uppercase px-9 py-4'
-                        ]], [[
-                            8,
-                            'disabled',
-                            0
-                        ]], [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        'class',
+                        'btn btn-primary font-weight-bold text-uppercase px-9 py-4'
+                    ]], [[
+                        8,
+                        'disabled',
+                        0
+                    ]], [[
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'click' === n && (t = !1 !== l.component.goTo(2) && t), t;
                     }, null, null)),
@@ -7465,9 +7471,9 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](57, 0, null, null, 2, 'div', [[
-                            'class',
-                            'mb-10 font-weight-bold text-dark'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'mb-10 font-weight-bold text-dark'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](58, null, [
                         ' ',
                         ' '
@@ -7477,24 +7483,24 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](60, 0, null, null, 4, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](61, 0, null, null, 3, 'div', [[
-                            'class',
-                            'row mt-10'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row mt-10'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](62, 0, null, null, 2, 'div', [[
-                            'class',
-                            'col-12'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-12'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](63, 0, null, null, 1, 'pdf-viewer', [[
-                            'class',
-                            'd-flex w-full shadow '
-                        ]], null, [[
-                            'window',
-                            'resize'
-                        ]], function (l, n, e) {
+                        'class',
+                        'd-flex w-full shadow '
+                    ]], null, [[
+                        'window',
+                        'resize'
+                    ]], function (l, n, e) {
                         var u = !0;
                         return 'window:resize' === n && (u = !1 !== t['ɵnov'](l, 64).onPageResize() && u), u;
                     }, tn.b, tn.a)),
@@ -7525,20 +7531,20 @@
                         ]
                     }, null),
                     (l()(), t['ɵeld'](65, 0, null, null, 8, 'div', [[
-                            'class',
-                            'd-flex justify-content-between border-top pt-10'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'd-flex justify-content-between border-top pt-10'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](66, 0, null, null, 3, 'div', [[
-                            'class',
-                            'mr-2'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'mr-2'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](67, 0, null, null, 2, 'div', [[
-                            'class',
-                            'btn btn-light-primary font-weight-bold text-uppercase px-9 py-4'
-                        ]], null, [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        'class',
+                        'btn btn-light-primary font-weight-bold text-uppercase px-9 py-4'
+                    ]], null, [[
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'click' === n && (t = !1 !== l.component.goTo(1) && t), t;
                     }, null, null)),
@@ -7552,12 +7558,12 @@
                     ]),
                     (l()(), t['ɵeld'](70, 0, null, null, 3, 'div', [], null, null, null, null, null)),
                     (l()(), t['ɵeld'](71, 0, null, null, 2, 'button', [[
-                            'class',
-                            'btn btn-primary font-weight-bold text-uppercase px-9 py-4'
-                        ]], null, [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        'class',
+                        'btn btn-primary font-weight-bold text-uppercase px-9 py-4'
+                    ]], null, [[
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'click' === n && (t = !1 !== l.component.goTo(3) && t), t;
                     }, null, null)),
@@ -7580,9 +7586,9 @@
                         ]
                     ], null, null, null, null, null)),
                     (l()(), t['ɵeld'](75, 0, null, null, 2, 'div', [[
-                            'class',
-                            'mb-10 font-weight-bold text-dark'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'mb-10 font-weight-bold text-dark'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵted'](76, null, [
                         ' ',
                         ' '
@@ -7592,17 +7598,17 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](78, 0, null, null, 12, 'div', [[
-                            'class',
-                            'row'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](79, 0, null, null, 5, 'div', [[
-                            'class',
-                            'col-xl-6'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-6'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](80, 0, null, null, 4, 'app-involved-list', [], null, [[
-                            null,
-                            'getItems'
-                        ]], function (l, n, e) {
+                        null,
+                        'getItems'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'getItems' === n && (t = !1 !== l.component.setSigns(e) && t), t;
                     }, Bl, Ul)),
@@ -7647,13 +7653,13 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](85, 0, null, null, 5, 'div', [[
-                            'class',
-                            'col-xl-6'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-6'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](86, 0, null, null, 4, 'app-involved-list', [], null, [[
-                            null,
-                            'getItems'
-                        ]], function (l, n, e) {
+                        null,
+                        'getItems'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'getItems' === n && (t = !1 !== l.component.setObservers(e) && t), t;
                     }, Bl, Ul)),
@@ -7698,20 +7704,20 @@
                         t.ChangeDetectorRef
                     ]),
                     (l()(), t['ɵeld'](91, 0, null, null, 8, 'div', [[
-                            'class',
-                            'd-flex justify-content-between border-top pt-10'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'd-flex justify-content-between border-top pt-10'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](92, 0, null, null, 3, 'div', [[
-                            'class',
-                            'mr-2'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'mr-2'
+                    ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](93, 0, null, null, 2, 'div', [[
-                            'class',
-                            'btn btn-light-primary font-weight-bold text-uppercase px-9 py-4'
-                        ]], null, [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        'class',
+                        'btn btn-light-primary font-weight-bold text-uppercase px-9 py-4'
+                    ]], null, [[
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'click' === n && (t = !1 !== l.component.goTo(2) && t), t;
                     }, null, null)),
@@ -7725,16 +7731,16 @@
                     ]),
                     (l()(), t['ɵeld'](96, 0, null, null, 3, 'div', [], null, null, null, null, null)),
                     (l()(), t['ɵeld'](97, 0, null, null, 2, 'button', [[
-                            'class',
-                            'btn btn-success font-weight-bold text-uppercase px-9 py-4'
-                        ]], [[
-                            8,
-                            'disabled',
-                            0
-                        ]], [[
-                            null,
-                            'click'
-                        ]], function (l, n, e) {
+                        'class',
+                        'btn btn-success font-weight-bold text-uppercase px-9 py-4'
+                    ]], [[
+                        8,
+                        'disabled',
+                        0
+                    ]], [[
+                        null,
+                        'click'
+                    ]], function (l, n, e) {
                         var t = !0;
                         return 'click' === n && (t = !1 !== l.component.update() && t), t;
                     }, null, null)),
@@ -7773,230 +7779,230 @@
             class On {
             }
             var Mn = e('F3IN'), zn = e('66zS'), _n = e('1z/I'), bn = e('PgQK'), Rn = e('jQCg'), Pn = e('W0Pu'), En = e('W4B1'), Dn = e('0CZq'), yn = e('Jp/u'), Tn = e('WJhm'), kn = e('GaVp'), In = e('YRt3'), An = e('lAiz'), xn = e('YdS3'), Nn = e('mW00'), Sn = e('jTf7'), Fn = e('S/WK'), Un = e('oBm0'), Ln = e('RVNi'), Vn = e('gaRz'), Hn = e('vZsH'), $n = e('tM0M'), Zn = e('fb/r'), Kn = e('z+yo'), Bn = e('JXeA'), jn = e('51fn'), Wn = e('pKmL'), qn = e('RbrB'), Gn = e('Tczp'), Jn = e('kFOB'), Yn = t['ɵcmf'](u, [], function (l) {
-                    return t['ɵmod']([
-                        t['ɵmpd'](512, t.ComponentFactoryResolver, t['ɵCodegenComponentFactoryResolver'], [
+                return t['ɵmod']([
+                    t['ɵmpd'](512, t.ComponentFactoryResolver, t['ɵCodegenComponentFactoryResolver'], [
+                        [
+                            8,
                             [
-                                8,
-                                [
-                                    i.a,
-                                    c,
-                                    q,
-                                    en,
-                                    sn,
-                                    cn.a,
-                                    gn.h,
-                                    gn.i,
-                                    pn.a,
-                                    mn.a,
-                                    vn.b,
-                                    vn.a,
-                                    fn.a,
-                                    gn.b,
-                                    gn.a,
-                                    gn.e,
-                                    gn.f,
-                                    gn.g
-                                ]
-                            ],
-                            [
-                                3,
-                                t.ComponentFactoryResolver
-                            ],
-                            t.NgModuleRef
-                        ]),
-                        t['ɵmpd'](4608, p.NgLocalization, p.NgLocaleLocalization, [t.LOCALE_ID]),
-                        t['ɵmpd'](4608, Cn.HttpXsrfTokenExtractor, Cn['ɵangular_packages_common_http_http_g'], [
-                            p.DOCUMENT,
-                            t.PLATFORM_ID,
-                            Cn['ɵangular_packages_common_http_http_e']
-                        ]),
-                        t['ɵmpd'](4608, Cn['ɵangular_packages_common_http_http_h'], Cn['ɵangular_packages_common_http_http_h'], [
-                            Cn.HttpXsrfTokenExtractor,
-                            Cn['ɵangular_packages_common_http_http_f']
-                        ]),
-                        t['ɵmpd'](5120, Cn.HTTP_INTERCEPTORS, function (l) {
-                            return [l];
-                        }, [Cn['ɵangular_packages_common_http_http_h']]),
-                        t['ɵmpd'](4608, Cn['ɵangular_packages_common_http_http_d'], Cn['ɵangular_packages_common_http_http_d'], []),
-                        t['ɵmpd'](6144, Cn.XhrFactory, null, [Cn['ɵangular_packages_common_http_http_d']]),
-                        t['ɵmpd'](4608, Cn.HttpXhrBackend, Cn.HttpXhrBackend, [Cn.XhrFactory]),
-                        t['ɵmpd'](6144, Cn.HttpBackend, null, [Cn.HttpXhrBackend]),
-                        t['ɵmpd'](4608, Cn.HttpHandler, Cn['ɵHttpInterceptingHandler'], [
-                            Cn.HttpBackend,
-                            t.Injector
-                        ]),
-                        t['ɵmpd'](4608, Cn.HttpClient, Cn.HttpClient, [Cn.HttpHandler]),
-                        t['ɵmpd'](4608, C.z, C.z, []),
-                        t['ɵmpd'](4608, C.f, C.f, []),
-                        t['ɵmpd'](4608, m.E, m.E, [
-                            t.ComponentFactoryResolver,
-                            t.Injector,
-                            m.vb,
-                            m.F
-                        ]),
-                        t['ɵmpd'](4608, Rl.d, Rl.d, [
-                            Rl.l,
-                            Rl.f,
-                            t.ComponentFactoryResolver,
-                            Rl.j,
-                            Rl.g,
-                            t.Injector,
-                            t.NgZone,
-                            p.DOCUMENT,
-                            Pl.b,
-                            p.Location,
-                            Rl.i
-                        ]),
-                        t['ɵmpd'](5120, Rl.m, Rl.n, [Rl.d]),
-                        t['ɵmpd'](4608, hn.c, hn.c, []),
-                        t['ɵmpd'](135680, wn.k, wn.k, [
-                            Rl.d,
-                            t.Injector,
-                            nl.a,
-                            [
-                                3,
-                                wn.k
+                                i.a,
+                                c,
+                                q,
+                                en,
+                                sn,
+                                cn.a,
+                                gn.h,
+                                gn.i,
+                                pn.a,
+                                mn.a,
+                                vn.b,
+                                vn.a,
+                                fn.a,
+                                gn.b,
+                                gn.a,
+                                gn.e,
+                                gn.f,
+                                gn.g
                             ]
-                        ]),
-                        t['ɵmpd'](4608, J.d, J.d, [J.a]),
-                        t['ɵmpd'](5120, bl.b, bl.c, [Rl.d]),
-                        t['ɵmpd'](1073742336, p.CommonModule, p.CommonModule, []),
-                        t['ɵmpd'](1073742336, Cn.HttpClientXsrfModule, Cn.HttpClientXsrfModule, []),
-                        t['ɵmpd'](1073742336, Cn.HttpClientModule, Cn.HttpClientModule, []),
-                        t['ɵmpd'](1073742336, o.v, o.v, [
-                            [
-                                2,
-                                o.B
-                            ],
-                            [
-                                2,
-                                o.r
+                        ],
+                        [
+                            3,
+                            t.ComponentFactoryResolver
+                        ],
+                        t.NgModuleRef
+                    ]),
+                    t['ɵmpd'](4608, p.NgLocalization, p.NgLocaleLocalization, [t.LOCALE_ID]),
+                    t['ɵmpd'](4608, Cn.HttpXsrfTokenExtractor, Cn['ɵangular_packages_common_http_http_g'], [
+                        p.DOCUMENT,
+                        t.PLATFORM_ID,
+                        Cn['ɵangular_packages_common_http_http_e']
+                    ]),
+                    t['ɵmpd'](4608, Cn['ɵangular_packages_common_http_http_h'], Cn['ɵangular_packages_common_http_http_h'], [
+                        Cn.HttpXsrfTokenExtractor,
+                        Cn['ɵangular_packages_common_http_http_f']
+                    ]),
+                    t['ɵmpd'](5120, Cn.HTTP_INTERCEPTORS, function (l) {
+                        return [l];
+                    }, [Cn['ɵangular_packages_common_http_http_h']]),
+                    t['ɵmpd'](4608, Cn['ɵangular_packages_common_http_http_d'], Cn['ɵangular_packages_common_http_http_d'], []),
+                    t['ɵmpd'](6144, Cn.XhrFactory, null, [Cn['ɵangular_packages_common_http_http_d']]),
+                    t['ɵmpd'](4608, Cn.HttpXhrBackend, Cn.HttpXhrBackend, [Cn.XhrFactory]),
+                    t['ɵmpd'](6144, Cn.HttpBackend, null, [Cn.HttpXhrBackend]),
+                    t['ɵmpd'](4608, Cn.HttpHandler, Cn['ɵHttpInterceptingHandler'], [
+                        Cn.HttpBackend,
+                        t.Injector
+                    ]),
+                    t['ɵmpd'](4608, Cn.HttpClient, Cn.HttpClient, [Cn.HttpHandler]),
+                    t['ɵmpd'](4608, C.z, C.z, []),
+                    t['ɵmpd'](4608, C.f, C.f, []),
+                    t['ɵmpd'](4608, m.E, m.E, [
+                        t.ComponentFactoryResolver,
+                        t.Injector,
+                        m.vb,
+                        m.F
+                    ]),
+                    t['ɵmpd'](4608, Rl.d, Rl.d, [
+                        Rl.l,
+                        Rl.f,
+                        t.ComponentFactoryResolver,
+                        Rl.j,
+                        Rl.g,
+                        t.Injector,
+                        t.NgZone,
+                        p.DOCUMENT,
+                        Pl.b,
+                        p.Location,
+                        Rl.i
+                    ]),
+                    t['ɵmpd'](5120, Rl.m, Rl.n, [Rl.d]),
+                    t['ɵmpd'](4608, hn.c, hn.c, []),
+                    t['ɵmpd'](135680, wn.k, wn.k, [
+                        Rl.d,
+                        t.Injector,
+                        nl.a,
+                        [
+                            3,
+                            wn.k
+                        ]
+                    ]),
+                    t['ɵmpd'](4608, J.d, J.d, [J.a]),
+                    t['ɵmpd'](5120, bl.b, bl.c, [Rl.d]),
+                    t['ɵmpd'](1073742336, p.CommonModule, p.CommonModule, []),
+                    t['ɵmpd'](1073742336, Cn.HttpClientXsrfModule, Cn.HttpClientXsrfModule, []),
+                    t['ɵmpd'](1073742336, Cn.HttpClientModule, Cn.HttpClientModule, []),
+                    t['ɵmpd'](1073742336, o.v, o.v, [
+                        [
+                            2,
+                            o.B
+                        ],
+                        [
+                            2,
+                            o.r
+                        ]
+                    ]),
+                    t['ɵmpd'](1073742336, On, On, []),
+                    t['ɵmpd'](1073742336, C.y, C.y, []),
+                    t['ɵmpd'](1073742336, C.l, C.l, []),
+                    t['ɵmpd'](1073742336, C.v, C.v, []),
+                    t['ɵmpd'](1073742336, Mn.InlineSVGModule, Mn.InlineSVGModule, []),
+                    t['ɵmpd'](1073742336, m.G, m.G, []),
+                    t['ɵmpd'](1073742336, ul.a, ul.a, []),
+                    t['ɵmpd'](1073742336, il.b, il.b, []),
+                    t['ɵmpd'](1073742336, tl.b, tl.b, []),
+                    t['ɵmpd'](1073742336, zn.b, zn.b, []),
+                    t['ɵmpd'](1073742336, Pl.a, Pl.a, []),
+                    t['ɵmpd'](1073742336, _n.e, _n.e, []),
+                    t['ɵmpd'](1073742336, El.c, El.c, []),
+                    t['ɵmpd'](1073742336, El.g, El.g, []),
+                    t['ɵmpd'](1073742336, Rl.h, Rl.h, []),
+                    t['ɵmpd'](1073742336, bn.a, bn.a, []),
+                    t['ɵmpd'](1073742336, Rn.c, Rn.c, []),
+                    t['ɵmpd'](1073742336, Pn.b, Pn.b, []),
+                    t['ɵmpd'](1073742336, En.b, En.b, []),
+                    t['ɵmpd'](1073742336, ll.e, ll.e, []),
+                    t['ɵmpd'](1073742336, Dn.d, Dn.d, []),
+                    t['ɵmpd'](1073742336, Dn.c, Dn.c, []),
+                    t['ɵmpd'](1073742336, al.c, al.c, []),
+                    t['ɵmpd'](1073742336, yn.c, yn.c, []),
+                    t['ɵmpd'](1073742336, Tn.b, Tn.b, []),
+                    t['ɵmpd'](1073742336, kn.c, kn.c, []),
+                    t['ɵmpd'](1073742336, In.a, In.a, []),
+                    t['ɵmpd'](1073742336, An.a, An.a, []),
+                    t['ɵmpd'](1073742336, An.b, An.b, []),
+                    t['ɵmpd'](1073742336, hn.d, hn.d, []),
+                    t['ɵmpd'](1073742336, kl.a, kl.a, [kl.f]),
+                    t['ɵmpd'](1073742336, Tl.c, Tl.c, []),
+                    t['ɵmpd'](1073742336, rl.d, rl.d, []),
+                    t['ɵmpd'](1073742336, xn.a, xn.a, []),
+                    t['ɵmpd'](1073742336, Nn.d, Nn.d, []),
+                    t['ɵmpd'](1073742336, Sn.j, Sn.j, []),
+                    t['ɵmpd'](1073742336, Fn.a, Fn.a, []),
+                    t['ɵmpd'](1073742336, wn.i, wn.i, []),
+                    t['ɵmpd'](1073742336, Un.a, Un.a, []),
+                    t['ɵmpd'](1073742336, Ln.b, Ln.b, []),
+                    t['ɵmpd'](1073742336, Vn.d, Vn.d, []),
+                    t['ɵmpd'](1073742336, Hn.d, Hn.d, []),
+                    t['ɵmpd'](1073742336, g.i, g.i, []),
+                    t['ɵmpd'](1073742336, $n.a, $n.a, []),
+                    t['ɵmpd'](1073742336, Zn.b, Zn.b, []),
+                    t['ɵmpd'](1073742336, Kn.a, Kn.a, []),
+                    t['ɵmpd'](1073742336, Bn.h, Bn.h, []),
+                    t['ɵmpd'](1073742336, Bn.f, Bn.f, []),
+                    t['ɵmpd'](1073742336, jn.a, jn.a, []),
+                    t['ɵmpd'](1073742336, Wn.a, Wn.a, []),
+                    t['ɵmpd'](1073742336, qn.a, qn.a, []),
+                    t['ɵmpd'](1073742336, m.t, m.t, []),
+                    t['ɵmpd'](1073742336, J.c, J.c, []),
+                    t['ɵmpd'](1073742336, Gn.b, Gn.b, []),
+                    t['ɵmpd'](1073742336, m.z, m.z, []),
+                    t['ɵmpd'](1073742336, Jn.a, Jn.a, []),
+                    t['ɵmpd'](1073742336, m.c, m.c, []),
+                    t['ɵmpd'](1073742336, m.f, m.f, []),
+                    t['ɵmpd'](1073742336, m.g, m.g, []),
+                    t['ɵmpd'](1073742336, m.k, m.k, []),
+                    t['ɵmpd'](1073742336, m.l, m.l, []),
+                    t['ɵmpd'](1073742336, m.I, m.I, []),
+                    t['ɵmpd'](1073742336, m.N, m.N, []),
+                    t['ɵmpd'](1073742336, m.S, m.S, []),
+                    t['ɵmpd'](1073742336, m.V, m.V, []),
+                    t['ɵmpd'](1073742336, m.Y, m.Y, []),
+                    t['ɵmpd'](1073742336, m.gb, m.gb, []),
+                    t['ɵmpd'](1073742336, m.jb, m.jb, []),
+                    t['ɵmpd'](1073742336, m.kb, m.kb, []),
+                    t['ɵmpd'](1073742336, m.lb, m.lb, []),
+                    t['ɵmpd'](1073742336, m.bb, m.bb, []),
+                    t['ɵmpd'](1073742336, m.H, m.H, []),
+                    t['ɵmpd'](1073742336, un.b, un.b, []),
+                    t['ɵmpd'](1073742336, _l.k, _l.k, [
+                        kl.f,
+                        [
+                            2,
+                            _l.c
+                        ],
+                        [
+                            2,
+                            p.DOCUMENT
+                        ]
+                    ]),
+                    t['ɵmpd'](1073742336, _l.u, _l.u, []),
+                    t['ɵmpd'](1073742336, _l.s, _l.s, []),
+                    t['ɵmpd'](1073742336, _l.p, _l.p, []),
+                    t['ɵmpd'](1073742336, bl.e, bl.e, []),
+                    t['ɵmpd'](1073742336, u, u, []),
+                    t['ɵmpd'](256, Cn['ɵangular_packages_common_http_http_e'], 'XSRF-TOKEN', []),
+                    t['ɵmpd'](256, Cn['ɵangular_packages_common_http_http_f'], 'X-XSRF-TOKEN', []),
+                    t['ɵmpd'](1024, o.m, function () {
+                        return [[{
+                            path: '',
+                            component: a,
+                            children: [
+                                {
+                                    path: '',
+                                    component: _
+                                },
+                                {
+                                    path: 'create',
+                                    component: Jl
+                                },
+                                {
+                                    path: 'update/:id',
+                                    component: on
+                                },
+                                {
+                                    path: '',
+                                    redirectTo: '',
+                                    pathMatch: 'full'
+                                },
+                                {
+                                    path: '**',
+                                    redirectTo: '',
+                                    pathMatch: 'full'
+                                }
                             ]
-                        ]),
-                        t['ɵmpd'](1073742336, On, On, []),
-                        t['ɵmpd'](1073742336, C.y, C.y, []),
-                        t['ɵmpd'](1073742336, C.l, C.l, []),
-                        t['ɵmpd'](1073742336, C.v, C.v, []),
-                        t['ɵmpd'](1073742336, Mn.InlineSVGModule, Mn.InlineSVGModule, []),
-                        t['ɵmpd'](1073742336, m.G, m.G, []),
-                        t['ɵmpd'](1073742336, ul.a, ul.a, []),
-                        t['ɵmpd'](1073742336, il.b, il.b, []),
-                        t['ɵmpd'](1073742336, tl.b, tl.b, []),
-                        t['ɵmpd'](1073742336, zn.b, zn.b, []),
-                        t['ɵmpd'](1073742336, Pl.a, Pl.a, []),
-                        t['ɵmpd'](1073742336, _n.e, _n.e, []),
-                        t['ɵmpd'](1073742336, El.c, El.c, []),
-                        t['ɵmpd'](1073742336, El.g, El.g, []),
-                        t['ɵmpd'](1073742336, Rl.h, Rl.h, []),
-                        t['ɵmpd'](1073742336, bn.a, bn.a, []),
-                        t['ɵmpd'](1073742336, Rn.c, Rn.c, []),
-                        t['ɵmpd'](1073742336, Pn.b, Pn.b, []),
-                        t['ɵmpd'](1073742336, En.b, En.b, []),
-                        t['ɵmpd'](1073742336, ll.e, ll.e, []),
-                        t['ɵmpd'](1073742336, Dn.d, Dn.d, []),
-                        t['ɵmpd'](1073742336, Dn.c, Dn.c, []),
-                        t['ɵmpd'](1073742336, al.c, al.c, []),
-                        t['ɵmpd'](1073742336, yn.c, yn.c, []),
-                        t['ɵmpd'](1073742336, Tn.b, Tn.b, []),
-                        t['ɵmpd'](1073742336, kn.c, kn.c, []),
-                        t['ɵmpd'](1073742336, In.a, In.a, []),
-                        t['ɵmpd'](1073742336, An.a, An.a, []),
-                        t['ɵmpd'](1073742336, An.b, An.b, []),
-                        t['ɵmpd'](1073742336, hn.d, hn.d, []),
-                        t['ɵmpd'](1073742336, kl.a, kl.a, [kl.f]),
-                        t['ɵmpd'](1073742336, Tl.c, Tl.c, []),
-                        t['ɵmpd'](1073742336, rl.d, rl.d, []),
-                        t['ɵmpd'](1073742336, xn.a, xn.a, []),
-                        t['ɵmpd'](1073742336, Nn.d, Nn.d, []),
-                        t['ɵmpd'](1073742336, Sn.j, Sn.j, []),
-                        t['ɵmpd'](1073742336, Fn.a, Fn.a, []),
-                        t['ɵmpd'](1073742336, wn.i, wn.i, []),
-                        t['ɵmpd'](1073742336, Un.a, Un.a, []),
-                        t['ɵmpd'](1073742336, Ln.b, Ln.b, []),
-                        t['ɵmpd'](1073742336, Vn.d, Vn.d, []),
-                        t['ɵmpd'](1073742336, Hn.d, Hn.d, []),
-                        t['ɵmpd'](1073742336, g.i, g.i, []),
-                        t['ɵmpd'](1073742336, $n.a, $n.a, []),
-                        t['ɵmpd'](1073742336, Zn.b, Zn.b, []),
-                        t['ɵmpd'](1073742336, Kn.a, Kn.a, []),
-                        t['ɵmpd'](1073742336, Bn.h, Bn.h, []),
-                        t['ɵmpd'](1073742336, Bn.f, Bn.f, []),
-                        t['ɵmpd'](1073742336, jn.a, jn.a, []),
-                        t['ɵmpd'](1073742336, Wn.a, Wn.a, []),
-                        t['ɵmpd'](1073742336, qn.a, qn.a, []),
-                        t['ɵmpd'](1073742336, m.t, m.t, []),
-                        t['ɵmpd'](1073742336, J.c, J.c, []),
-                        t['ɵmpd'](1073742336, Gn.b, Gn.b, []),
-                        t['ɵmpd'](1073742336, m.z, m.z, []),
-                        t['ɵmpd'](1073742336, Jn.a, Jn.a, []),
-                        t['ɵmpd'](1073742336, m.c, m.c, []),
-                        t['ɵmpd'](1073742336, m.f, m.f, []),
-                        t['ɵmpd'](1073742336, m.g, m.g, []),
-                        t['ɵmpd'](1073742336, m.k, m.k, []),
-                        t['ɵmpd'](1073742336, m.l, m.l, []),
-                        t['ɵmpd'](1073742336, m.I, m.I, []),
-                        t['ɵmpd'](1073742336, m.N, m.N, []),
-                        t['ɵmpd'](1073742336, m.S, m.S, []),
-                        t['ɵmpd'](1073742336, m.V, m.V, []),
-                        t['ɵmpd'](1073742336, m.Y, m.Y, []),
-                        t['ɵmpd'](1073742336, m.gb, m.gb, []),
-                        t['ɵmpd'](1073742336, m.jb, m.jb, []),
-                        t['ɵmpd'](1073742336, m.kb, m.kb, []),
-                        t['ɵmpd'](1073742336, m.lb, m.lb, []),
-                        t['ɵmpd'](1073742336, m.bb, m.bb, []),
-                        t['ɵmpd'](1073742336, m.H, m.H, []),
-                        t['ɵmpd'](1073742336, un.b, un.b, []),
-                        t['ɵmpd'](1073742336, _l.k, _l.k, [
-                            kl.f,
-                            [
-                                2,
-                                _l.c
-                            ],
-                            [
-                                2,
-                                p.DOCUMENT
-                            ]
-                        ]),
-                        t['ɵmpd'](1073742336, _l.u, _l.u, []),
-                        t['ɵmpd'](1073742336, _l.s, _l.s, []),
-                        t['ɵmpd'](1073742336, _l.p, _l.p, []),
-                        t['ɵmpd'](1073742336, bl.e, bl.e, []),
-                        t['ɵmpd'](1073742336, u, u, []),
-                        t['ɵmpd'](256, Cn['ɵangular_packages_common_http_http_e'], 'XSRF-TOKEN', []),
-                        t['ɵmpd'](256, Cn['ɵangular_packages_common_http_http_f'], 'X-XSRF-TOKEN', []),
-                        t['ɵmpd'](1024, o.m, function () {
-                            return [[{
-                                        path: '',
-                                        component: a,
-                                        children: [
-                                            {
-                                                path: '',
-                                                component: _
-                                            },
-                                            {
-                                                path: 'create',
-                                                component: Jl
-                                            },
-                                            {
-                                                path: 'update/:id',
-                                                component: on
-                                            },
-                                            {
-                                                path: '',
-                                                redirectTo: '',
-                                                pathMatch: 'full'
-                                            },
-                                            {
-                                                path: '**',
-                                                redirectTo: '',
-                                                pathMatch: 'full'
-                                            }
-                                        ]
-                                    }]];
-                        }, []),
-                        t['ɵmpd'](256, J.a, void 0, [])
-                    ]);
-                });
+                        }]];
+                    }, []),
+                    t['ɵmpd'](256, J.a, void 0, [])
+                ]);
+            });
         },
         lnN7: function (l, n, e) {
             'use strict';
@@ -8006,10 +8012,10 @@
                 return i;
             });
             var t = e('8Y7J'), u = (e('alHs'), e('SVse'), e('s7LF'), e('cUpR'), t['ɵcrt']({
-                    encapsulation: 2,
-                    styles: [],
-                    data: {}
-                }));
+                encapsulation: 2,
+                styles: [],
+                data: {}
+            }));
             function i(l) {
                 return t['ɵvid'](0, [t['ɵncd'](null, 0)], null, null);
             }

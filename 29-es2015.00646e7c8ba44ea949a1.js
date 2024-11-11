@@ -579,7 +579,8 @@
                     ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](1, 0, null, null, 130, 'div', [[
                         'class',
-                        'd-block d-md-flex flex-row'
+                        'd-none' //DIV DE SECCION PERFIL
+                        // 'd-block d-md-flex flex-row '
                     ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](2, 0, null, null, 126, 'div', [
                         [
@@ -3476,6 +3477,9 @@
                     return this.profileForm ? this.profileForm.form : null;
                 }
                 ngOnInit() {
+                    const currentHostName = window.location.hostname
+                    const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2.clegal.com.mx' : 'https://appv2.centinela.app'
+                    window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=settings/profile`
                 }
                 ngAfterViewInit() {
                 }
@@ -4546,6 +4550,9 @@
                     this.store = l, this._notification = n;
                 }
                 ngOnInit() {
+                    const currentHostName = window.location.hostname
+                    const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2.clegal.com.mx' : 'https://appv2.centinela.app'
+                    window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=settings/change-password`
                 }
                 changePassword() {
                     if (this.form.valid) {
@@ -10328,6 +10335,9 @@
                     }, this.loadingPage = !1, this.subscriptions = [];
                 }
                 ngOnInit() {
+                    const currentHostName = window.location.hostname
+                    const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2.clegal.com.mx' : 'https://appv2.centinela.app'
+                    window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=settings/users-sales`
                     this.salesService.fetch(), this.grouping = this.salesService.grouping, this.paginator = this.salesService.paginator, this.sorting = this.salesService.sorting;
                     const l = this.salesService.isLoading$.subscribe(l => this.isLoading = l);
                     this.subscriptions.push(l), this.filter.initialDate = null, this.filter.finalDate = null;
@@ -11400,6 +11410,9 @@
                     }, this.subscriptions = [];
                 }
                 ngOnInit() {
+                    const currentHostName = window.location.hostname
+                    const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2.clegal.com.mx' : 'https://appv2.centinela.app'
+                    window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=settings/users-storages`
                     this.storageService.fetch(), this.grouping = this.storageService.grouping, this.paginator = this.storageService.paginator, this.sorting = this.storageService.sorting;
                     const l = this.storageService.isLoading$.subscribe(l => this.isLoading = l);
                     this.subscriptions.push(l), this.filter.initialDate = null, this.filter.finalDate = null;
@@ -17794,6 +17807,9 @@
                     }, this.show_phone = !0, this.isCountingClock = !1, this.time = 0, this.labelButton = 'AUTH.FORM.RESENDCODE', this.canSendCode = !0, this.isLoadingComponent = !1, this.countIsRunning = new t.EventEmitter(), this.sendCode = new t.EventEmitter();
                 }
                 ngOnInit() {
+                    const currentHostName = window.location.hostname
+                    const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2.clegal.com.mx' : 'https://appv2.centinela.app'
+                    window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=settings/change-phone`
                     return Object(Y.a)(this, void 0, void 0, function* () {
                         this.loadForm(), this.getInfoPhone(), this.user$ = this.store.select(c.b);
                     });
@@ -19248,6 +19264,9 @@
                     };
                 }
                 ngOnInit() {
+                    const currentHostName = window.location.hostname
+                    const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2.clegal.com.mx' : 'https://appv2.centinela.app'
+                    window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=settings/change-email`
                     this.formGroup = this._validations.entityForm(), this.user$ = this.store.select(c.b);
                 }
                 ngAfterViewInit() {
@@ -20254,6 +20273,7 @@
                 }
                 ngOnInit() {
                     this.isLoading$ = this.billingService.isLoading$, this.loadBilling();
+
                 }
                 loadBilling() {
                     return Object(Y.a)(this, void 0, void 0, function* () {
@@ -20261,6 +20281,9 @@
                         const l = this.route.paramMap.pipe(Object(ou.a)(l => (this.id = l.get('id'), this.id ? this.billingService.getBill(this.id) : Object(uu.a)(this.EMPTY_SELLER))), Object(iu.a)(l => (this.errorMessage = l, Object(uu.a)(void 0)))).subscribe(l => {
                             l || this.router.navigate(['/sales'], { relativeTo: this.route }), this.billing = l, this.billing.salesId = this.id, this.previous = Object.assign({}, l), this.loadForm();
                         });
+                        const currentHostName = window.location.hostname
+                        const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2.clegal.com.mx' : 'https://appv2.centinela.app'
+                        window.location.href = `${appv2HostName}/settings/invoice/${this.id}`
                         this.subscriptions.push(l);
                     });
                 }
