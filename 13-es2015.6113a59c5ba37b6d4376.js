@@ -3328,6 +3328,14 @@
                     this.isVisiblePassword = !1;
                 }
                 ngOnInit() {
+                    const state = JSON.parse(localStorage.getItem('state'))
+                    if(state){
+                        if(state.auth.isloading ){
+                            state.auth.isloading = false
+                            localStorage.setItem('state', JSON.stringify(state))
+                            location.reload()
+                        }
+                    }
                 }
                 changeVisiblePassword() {
                     this.isVisiblePassword = !this.isVisiblePassword;
