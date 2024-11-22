@@ -3492,7 +3492,7 @@
                                 i.x.required,
                                 i.x.maxLength(50),
                                 i.x.minLength(5),
-                                I.a.emailValidator()
+                                // I.a.emailValidator()
                             ]
                         ]
                     });

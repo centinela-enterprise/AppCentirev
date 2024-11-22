@@ -71163,7 +71163,7 @@
                             })), Object(ye.a)(e => Object(ve.a)(new he.k({ error: e })))) : void 0)), this.SignUpSuccess$ = this.actions$.pipe(Object(ae.j)(he.a.SIGNUP_SUCCESS), Object(ge.a)(e => new he.c(e.payload.email, e.payload.password))), this.SignUpFailure$ = this.actions$.pipe(Object(ae.j)(he.a.SIGNUP_FAILURE), Object(Ee.a)(({payload: e}) => {
                                 this._notification.error(e.error.error);
                             })), this.LogOut$ = this.actions$.pipe(Object(ae.j)(he.a.LOGOUT), Object(Ee.a)(e => {
-                                localStorage.removeItem('token'), localStorage.removeItem('state'), this.router.navigateByUrl('/auth/login');
+                                localStorage.removeItem('token'), localStorage.removeItem('state'), this.router.navigateByUrl('/auth/login'), location.reload();
                             })), this.MessageExpirationSession$ = this.actions$.pipe(Object(ae.j)(he.a.MESSAGE_EXPIRED_SESSION), Object(Se.a)(), Object(ge.a)(() => this._notification.sessionExpired())), this.urlImageDefault = './assets/media/svg/avatars/009-boy-4.svg', this.router.events.subscribe(e => {
                                 e instanceof C.e && (this.returnUrl = e.url);
                             });
