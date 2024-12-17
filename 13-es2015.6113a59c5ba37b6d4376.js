@@ -76,16 +76,16 @@
                 return rn;
             });
             var t = e('8Y7J'), a = e('jTf7'), u = e('SVse'), o = e('s7LF'), i = e('1O3W'), s = e('9gLZ'), r = (e('9b/N'), e('Rgb0')), d = (e('SCoL'), e('1z/I')), c = e('7KAL'), g = e('66zS'), m = e('PgQK'), f = e('mW00'), v = e('jQCg'), p = e('W0Pu'), h = e('WJhm'), C = e('YEUz'), w = e('0YeR'), I = t['ɵcrt']({
-                    encapsulation: 2,
-                    styles: [],
-                    data: {}
-                });
+                encapsulation: 2,
+                styles: [],
+                data: {}
+            });
             function O(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 1, 'nz-empty', [[
-                            'class',
-                            'ant-empty-normal ant-empty'
-                        ]], null, null, null, D, E)),
+                        'class',
+                        'ant-empty-normal ant-empty'
+                    ]], null, null, null, D, E)),
                     t['ɵdid'](1, 770048, null, 0, f.b, [
                         r.e,
                         t.ChangeDetectorRef
@@ -102,9 +102,9 @@
             function b(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 1, 'nz-empty', [[
-                            'class',
-                            'ant-empty-small ant-empty'
-                        ]], null, null, null, D, E)),
+                        'class',
+                        'ant-empty-small ant-empty'
+                    ]], null, null, null, D, E)),
                     t['ɵdid'](1, 770048, null, 0, f.b, [
                         r.e,
                         t.ChangeDetectorRef
@@ -121,9 +121,9 @@
             function S(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 1, 'nz-empty', [[
-                            'class',
-                            'ant-empty'
-                        ]], null, null, null, D, E)),
+                        'class',
+                        'ant-empty'
+                    ]], null, null, null, D, E)),
                     t['ɵdid'](1, 770048, null, 0, f.b, [
                         r.e,
                         t.ChangeDetectorRef
@@ -332,9 +332,9 @@
             function F(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 2, 'p', [[
-                            'class',
-                            'ant-empty-description'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'ant-empty-description'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵand'](16777216, null, null, 1, null, A)),
                     t['ɵdid'](2, 540672, null, 0, m.b, [
                         t.ViewContainerRef,
@@ -363,9 +363,9 @@
             function L(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 2, 'div', [[
-                            'class',
-                            'ant-empty-footer'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'ant-empty-footer'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵand'](16777216, null, null, 1, null, V)),
                     t['ɵdid'](2, 540672, null, 0, m.b, [
                         t.ViewContainerRef,
@@ -383,9 +383,9 @@
             function D(n) {
                 return t['ɵvid'](2, [
                     (n()(), t['ɵeld'](0, 0, null, null, 6, 'div', [[
-                            'class',
-                            'ant-empty-image'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'ant-empty-image'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵand'](16777216, null, null, 1, null, T)),
                     t['ɵdid'](2, 16384, null, 0, u.NgIf, [
                         t.ViewContainerRef,
@@ -517,9 +517,9 @@
                         ]
                     ], null, null, null, null, null)),
                     (n()(), t['ɵeld'](4, 0, null, null, 0, ':svg:path', [[
-                            'd',
-                            'M55 12.76L44.854 1.258C44.367.474 43.656 0 42.907 0H21.093c-.749 0-1.46.474-1.947 1.257L9 12.761V22h46v-9.24z'
-                        ]], null, null, null, null, null)),
+                        'd',
+                        'M55 12.76L44.854 1.258C44.367.474 43.656 0 42.907 0H21.093c-.749 0-1.46.474-1.947 1.257L9 12.761V22h46v-9.24z'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](5, 0, null, null, 0, ':svg:path', [
                         [
                             'class',
@@ -572,9 +572,9 @@
                         ]
                     ], null, null, null, null, null)),
                     (n()(), t['ɵeld'](2, 0, null, null, 5, ':svg:g', [[
-                            'transform',
-                            'translate(24 31.67)'
-                        ]], null, null, null, null, null)),
+                        'transform',
+                        'translate(24 31.67)'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](3, 0, null, null, 0, ':svg:ellipse', [
                         [
                             'class',
@@ -680,9 +680,9 @@
                         ]
                     ], null, null, null, null, null)),
                     (n()(), t['ɵeld'](11, 0, null, null, 0, ':svg:path', [[
-                            'd',
-                            'M5.698 5.63H0L2.898.704zM9.259.704h4.985V5.63H9.259z'
-                        ]], null, null, null, null, null))
+                        'd',
+                        'M5.698 5.63H0L2.898.704zM9.259.704h4.985V5.63H9.259z'
+                    ]], null, null, null, null, null))
                 ], null, null);
             }
             var J = t['ɵcrt']({
@@ -703,14 +703,14 @@
                             1
                         ]
                     ], null, 1, 'div', [[
-                            'class',
-                            'cdk-virtual-scroll-content-wrapper'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'cdk-virtual-scroll-content-wrapper'
+                    ]], null, null, null, null, null)),
                     t['ɵncd'](null, 0),
                     (n()(), t['ɵeld'](3, 0, null, null, 0, 'div', [[
-                            'class',
-                            'cdk-virtual-scroll-spacer'
-                        ]], [
+                        'class',
+                        'cdk-virtual-scroll-spacer'
+                    ]], [
                         [
                             4,
                             'width',
@@ -728,20 +728,20 @@
                 });
             }
             var G = e('CtHx'), K = e('omvX'), Z = t['ɵcrt']({
-                    encapsulation: 2,
-                    styles: [],
-                    data: {}
-                });
+                encapsulation: 2,
+                styles: [],
+                data: {}
+            });
             function W(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 2, 'div', [[
-                            'class',
-                            'ant-select-item-empty'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'ant-select-item-empty'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](1, 16777216, null, null, 1, 'nz-embed-empty', [[
-                            'nzComponentName',
-                            'select'
-                        ]], null, null, null, M, I)),
+                        'nzComponentName',
+                        'select'
+                    ]], null, null, null, M, I)),
                     t['ɵdid'](2, 770048, null, 0, f.a, [
                         w.a,
                         t.ViewContainerRef,
@@ -945,9 +945,9 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](4, 0, null, null, 7, 'cdk-virtual-scroll-viewport', [[
-                            'class',
-                            'cdk-virtual-scroll-viewport'
-                        ]], [
+                        'class',
+                        'cdk-virtual-scroll-viewport'
+                    ]], [
                         [
                             2,
                             'full-width',
@@ -974,9 +974,9 @@
                             null
                         ]
                     ], [[
-                            null,
-                            'scrolledIndexChange'
-                        ]], function (n, l, e) {
+                        null,
+                        'scrolledIndexChange'
+                    ]], function (n, l, e) {
                         var t = !0;
                         return 'scrolledIndexChange' === l && (t = !1 !== n.component.onScrolledIndexChange(e) && t), t;
                     }, q, J)),
@@ -997,9 +997,9 @@
                     }, null),
                     t['ɵprd'](1024, null, c.h, c.j, [c.a]),
                     t['ɵdid'](8, 245760, [[
-                            1,
-                            4
-                        ]], 0, c.e, [
+                        1,
+                        4
+                    ]], 0, c.e, [
                         t.ElementRef,
                         t.ChangeDetectorRef,
                         t.NgZone,
@@ -1070,9 +1070,9 @@
                 return t['ɵvid'](2, [
                     t['ɵqud'](402653184, 1, { template: 0 }),
                     (n()(), t['ɵand'](0, [[
-                            1,
-                            2
-                        ]], null, 0, null, en))
+                        1,
+                        2
+                    ]], null, 0, null, en))
                 ], null, null);
             }
             var an = t['ɵcrt']({
@@ -1080,58 +1080,58 @@
                 styles: [],
                 data: {
                     animation: [{
-                            type: 7,
-                            name: 'slideMotion',
-                            definitions: [
-                                {
-                                    type: 0,
-                                    name: 'void',
+                        type: 7,
+                        name: 'slideMotion',
+                        definitions: [
+                            {
+                                type: 0,
+                                name: 'void',
+                                styles: {
+                                    type: 6,
                                     styles: {
-                                        type: 6,
-                                        styles: {
-                                            opacity: 0,
-                                            transform: 'scaleY(0.8)'
-                                        },
-                                        offset: null
+                                        opacity: 0,
+                                        transform: 'scaleY(0.8)'
                                     },
-                                    options: void 0
+                                    offset: null
                                 },
-                                {
-                                    type: 0,
-                                    name: 'enter',
+                                options: void 0
+                            },
+                            {
+                                type: 0,
+                                name: 'enter',
+                                styles: {
+                                    type: 6,
                                     styles: {
-                                        type: 6,
-                                        styles: {
-                                            opacity: 1,
-                                            transform: 'scaleY(1)'
-                                        },
-                                        offset: null
+                                        opacity: 1,
+                                        transform: 'scaleY(1)'
                                     },
-                                    options: void 0
+                                    offset: null
                                 },
-                                {
-                                    type: 1,
-                                    expr: 'void => *',
-                                    animation: [{
-                                            type: 4,
-                                            styles: null,
-                                            timings: '0.2s cubic-bezier(0.23, 1, 0.32, 1)'
-                                        }],
-                                    options: null
-                                },
-                                {
-                                    type: 1,
-                                    expr: '* => void',
-                                    animation: [{
-                                            type: 4,
-                                            styles: null,
-                                            timings: '0.2s cubic-bezier(0.755, 0.05, 0.855, 0.06)'
-                                        }],
-                                    options: null
-                                }
-                            ],
-                            options: {}
-                        }]
+                                options: void 0
+                            },
+                            {
+                                type: 1,
+                                expr: 'void => *',
+                                animation: [{
+                                    type: 4,
+                                    styles: null,
+                                    timings: '0.2s cubic-bezier(0.23, 1, 0.32, 1)'
+                                }],
+                                options: null
+                            },
+                            {
+                                type: 1,
+                                expr: '* => void',
+                                animation: [{
+                                    type: 4,
+                                    styles: null,
+                                    timings: '0.2s cubic-bezier(0.755, 0.05, 0.855, 0.06)'
+                                }],
+                                options: null
+                            }
+                        ],
+                        options: {}
+                    }]
                 }
             });
             function un(n) {
@@ -1162,10 +1162,10 @@
             function on(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 1, 'nz-select-arrow', [], [[
-                            2,
-                            'ant-select-arrow-loading',
-                            null
-                        ]], null, null, Zn, Hn)),
+                        2,
+                        'ant-select-arrow-loading',
+                        null
+                    ]], null, null, Zn, Hn)),
                     t['ɵdid'](1, 49152, null, 0, a.f, [t.ElementRef], {
                         loading: [
                             0,
@@ -1336,13 +1336,13 @@
                             0
                         ]
                     ], null, 4, 'nz-select-top-control', [[
-                            'cdkOverlayOrigin',
-                            ''
-                        ]], [[
-                            24,
-                            '@.disabled',
-                            0
-                        ]], [
+                        'cdkOverlayOrigin',
+                        ''
+                    ]], [[
+                        24,
+                        '@.disabled',
+                        0
+                    ]], [
                         [
                             null,
                             'inputValueChange'
@@ -1368,9 +1368,9 @@
                         return 'keydown' === l && (a = !1 !== t['ɵnov'](n, 9).onHostKeydown(e) && a), 'inputValueChange' === l && (a = !1 !== u.onInputValueChange(e) && a), 'tokenize' === l && (a = !1 !== u.onTokenSeparate(e) && a), 'animationEnd' === l && (a = !1 !== u.updateCdkConnectedOverlayPositions() && a), 'deleteItem' === l && (a = !1 !== u.onItemDelete(e) && a), 'keydown' === l && (a = !1 !== u.onKeyDown(e) && a), a;
                     }, _n, In)),
                     t['ɵdid'](6, 16384, [[
-                            'origin',
-                            4
-                        ]], 0, i.b, [t.ElementRef], null, null),
+                        'origin',
+                        4
+                    ]], 0, i.b, [t.ElementRef], null, null),
                     t['ɵdid'](7, 4734976, null, 0, p.a, [
                         t.ElementRef,
                         t.Renderer2,
@@ -1389,9 +1389,9 @@
                         t.Renderer2
                     ], null, null),
                     t['ɵdid'](9, 573440, [[
-                            3,
-                            4
-                        ]], 0, a.m, [
+                        3,
+                        4
+                    ]], 0, a.m, [
                         t.ElementRef,
                         [
                             2,
@@ -1477,9 +1477,9 @@
                         return 'overlayKeydown' === l && (t = !1 !== a.onOverlayKeyDown(e) && t), 'overlayOutsideClick' === l && (t = !1 !== a.onClickOutside(e) && t), 'detach' === l && (t = !1 !== a.setOpenState(!1) && t), 'positionChange' === l && (t = !1 !== a.onPositionChange(e) && t), t;
                     }, sn)),
                     t['ɵdid'](15, 671744, [[
-                            2,
-                            4
-                        ]], 0, i.a, [
+                        2,
+                        4
+                    ]], 0, i.a, [
                         i.d,
                         t.TemplateRef,
                         t.ViewContainerRef,
@@ -1591,10 +1591,10 @@
                             'check'
                         ]
                     ], [[
-                            2,
-                            'anticon',
-                            null
-                        ]], null, null, null, null)),
+                        2,
+                        'anticon',
+                        null
+                    ]], null, null, null, null)),
                     t['ɵdid'](1, 2703360, null, 0, g.a, [
                         t.ElementRef,
                         g.d,
@@ -1657,9 +1657,9 @@
             function pn(n) {
                 return t['ɵvid'](2, [
                     (n()(), t['ɵeld'](0, 0, null, null, 4, 'div', [[
-                            'class',
-                            'ant-select-item-option-content'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'ant-select-item-option-content'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵand'](16777216, null, null, 1, null, cn)),
                     t['ɵdid'](2, 16384, null, 0, u.NgIf, [
                         t.ViewContainerRef,
@@ -1732,41 +1732,24 @@
                 styles: [],
                 data: {
                     animation: [{
-                            type: 7,
-                            name: 'zoomMotion',
-                            definitions: [
-                                {
-                                    type: 1,
-                                    expr: ':enter',
-                                    animation: [
-                                        {
-                                            type: 6,
-                                            styles: {
-                                                opacity: 0,
-                                                transform: 'scale(0.2)'
-                                            },
-                                            offset: null
+                        type: 7,
+                        name: 'zoomMotion',
+                        definitions: [
+                            {
+                                type: 1,
+                                expr: ':enter',
+                                animation: [
+                                    {
+                                        type: 6,
+                                        styles: {
+                                            opacity: 0,
+                                            transform: 'scale(0.2)'
                                         },
-                                        {
-                                            type: 4,
-                                            styles: {
-                                                type: 6,
-                                                styles: {
-                                                    opacity: 1,
-                                                    transform: 'scale(1)'
-                                                },
-                                                offset: null
-                                            },
-                                            timings: '0.2s cubic-bezier(0.08, 0.82, 0.17, 1)'
-                                        }
-                                    ],
-                                    options: null
-                                },
-                                {
-                                    type: 1,
-                                    expr: ':leave',
-                                    animation: [
-                                        {
+                                        offset: null
+                                    },
+                                    {
+                                        type: 4,
+                                        styles: {
                                             type: 6,
                                             styles: {
                                                 opacity: 1,
@@ -1774,24 +1757,41 @@
                                             },
                                             offset: null
                                         },
-                                        {
-                                            type: 4,
+                                        timings: '0.2s cubic-bezier(0.08, 0.82, 0.17, 1)'
+                                    }
+                                ],
+                                options: null
+                            },
+                            {
+                                type: 1,
+                                expr: ':leave',
+                                animation: [
+                                    {
+                                        type: 6,
+                                        styles: {
+                                            opacity: 1,
+                                            transform: 'scale(1)'
+                                        },
+                                        offset: null
+                                    },
+                                    {
+                                        type: 4,
+                                        styles: {
+                                            type: 6,
                                             styles: {
-                                                type: 6,
-                                                styles: {
-                                                    opacity: 0,
-                                                    transform: 'scale(0.2)'
-                                                },
-                                                offset: null
+                                                opacity: 0,
+                                                transform: 'scale(0.2)'
                                             },
-                                            timings: '0.2s cubic-bezier(0.78, 0.14, 0.15, 0.86)'
-                                        }
-                                    ],
-                                    options: null
-                                }
-                            ],
-                            options: {}
-                        }]
+                                            offset: null
+                                        },
+                                        timings: '0.2s cubic-bezier(0.78, 0.14, 0.15, 0.86)'
+                                    }
+                                ],
+                                options: null
+                            }
+                        ],
+                        options: {}
+                    }]
                 }
             });
             function On(n) {
@@ -1858,9 +1858,9 @@
                         return 'isComposingChange' === l && (t = !1 !== a.isComposingChange(e) && t), 'valueChange' === l && (t = !1 !== a.onInputValueChange(e) && t), t;
                     }, Mn, Rn)),
                     t['ɵdid'](2, 4767744, [[
-                            1,
-                            4
-                        ]], 0, a.l, [
+                        1,
+                        4
+                    ]], 0, a.l, [
                         t.ElementRef,
                         t.Renderer2,
                         C.d
@@ -2025,9 +2025,9 @@
                         return 'isComposingChange' === l && (t = !1 !== a.isComposingChange(e) && t), 'valueChange' === l && (t = !1 !== a.onInputValueChange(e) && t), t;
                     }, Mn, Rn)),
                     t['ɵdid'](4, 4767744, [[
-                            1,
-                            4
-                        ]], 0, a.l, [
+                        1,
+                        4
+                    ]], 0, a.l, [
                         t.ElementRef,
                         t.Renderer2,
                         C.d
@@ -2132,18 +2132,18 @@
             });
             function xn(n) {
                 return t['ɵvid'](0, [(n()(), t['ɵeld'](0, 0, [
-                        [
-                            2,
-                            0
-                        ],
-                        [
-                            'mirrorElement',
-                            1
-                        ]
-                    ], null, 0, 'span', [[
-                            'class',
-                            'ant-select-selection-search-mirror'
-                        ]], null, null, null, null, null))], null, null);
+                    [
+                        2,
+                        0
+                    ],
+                    [
+                        'mirrorElement',
+                        1
+                    ]
+                ], null, 0, 'span', [[
+                    'class',
+                    'ant-select-selection-search-mirror'
+                ]], null, null, null, null, null))], null, null);
             }
             function Mn(n) {
                 return t['ɵvid'](2, [
@@ -2278,9 +2278,9 @@
                     }, { update: 'ngModelChange' }),
                     t['ɵprd'](2048, null, o.p, null, [o.t]),
                     t['ɵdid'](7, 16384, null, 0, o.q, [[
-                            4,
-                            o.p
-                        ]], null, null),
+                        4,
+                        o.p
+                    ]], null, null),
                     (n()(), t['ɵand'](16777216, null, null, 1, null, xn)),
                     t['ɵdid'](9, 16384, null, 0, u.NgIf, [
                         t.ViewContainerRef,
@@ -2307,9 +2307,9 @@
             function Pn(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 1, 'div', [[
-                            'class',
-                            'ant-select-selection-item-content'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'ant-select-selection-item-content'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](1, null, [
                         '',
                         ''
@@ -2320,9 +2320,9 @@
             }
             function Tn(n) {
                 return t['ɵvid'](0, [(n()(), t['ɵted'](0, null, [
-                        '',
-                        ''
-                    ]))], null, function (n, l) {
+                    '',
+                    ''
+                ]))], null, function (n, l) {
                     n(l, 0, 0, l.component.label);
                 });
             }
@@ -2344,9 +2344,9 @@
                         ]
                     }, null),
                     (n()(), t['ɵand'](0, [[
-                            'labelTemplate',
-                            2
-                        ]], null, 0, null, Tn))
+                        'labelTemplate',
+                        2
+                    ]], null, 0, null, Tn))
                 ], function (n, l) {
                     n(l, 2, 0, l.component.deletable, t['ɵnov'](l, 3));
                 }, null);
@@ -2363,10 +2363,10 @@
                             'close'
                         ]
                     ], [[
-                            2,
-                            'anticon',
-                            null
-                        ]], null, null, null, null)),
+                        2,
+                        'anticon',
+                        null
+                    ]], null, null, null, null)),
                     t['ɵdid'](1, 2703360, null, 0, g.a, [
                         t.ElementRef,
                         g.d,
@@ -2394,12 +2394,12 @@
             function An(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 2, 'span', [[
-                            'class',
-                            'ant-select-selection-item-remove'
-                        ]], null, [[
-                            null,
-                            'click'
-                        ]], function (n, l, e) {
+                        'class',
+                        'ant-select-selection-item-remove'
+                    ]], null, [[
+                        null,
+                        'click'
+                    ]], function (n, l, e) {
                         var t = !0;
                         return 'click' === l && (t = !1 !== n.component.onDelete(e) && t), t;
                     }, null, null)),
@@ -2479,10 +2479,10 @@
                             'close-circle'
                         ]
                     ], [[
-                            2,
-                            'anticon',
-                            null
-                        ]], null, null, null, null)),
+                        2,
+                        'anticon',
+                        null
+                    ]], null, null, null, null)),
                     t['ɵdid'](1, 2703360, null, 0, g.a, [
                         t.ElementRef,
                         g.d,
@@ -2549,10 +2549,10 @@
                             'loading'
                         ]
                     ], [[
-                            2,
-                            'anticon',
-                            null
-                        ]], null, null, null, null)),
+                        2,
+                        'anticon',
+                        null
+                    ]], null, null, null, null)),
                     t['ɵdid'](1, 2703360, null, 0, g.a, [
                         t.ElementRef,
                         g.d,
@@ -2589,10 +2589,10 @@
                             'down'
                         ]
                     ], [[
-                            2,
-                            'anticon',
-                            null
-                        ]], null, null, null, null)),
+                        2,
+                        'anticon',
+                        null
+                    ]], null, null, null, null)),
                     t['ɵdid'](1, 2703360, null, 0, g.a, [
                         t.ElementRef,
                         g.d,
@@ -2629,10 +2629,10 @@
                             'search'
                         ]
                     ], [[
-                            2,
-                            'anticon',
-                            null
-                        ]], null, null, null, null)),
+                        2,
+                        'anticon',
+                        null
+                    ]], null, null, null, null)),
                     t['ɵdid'](1, 2703360, null, 0, g.a, [
                         t.ElementRef,
                         g.d,
@@ -2690,13 +2690,13 @@
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 3, null, null, null, null, null, null, null)),
                     (n()(), t['ɵeld'](1, 0, null, null, 2, 'i', [[
-                            'nz-icon',
-                            ''
-                        ]], [[
-                            2,
-                            'anticon',
-                            null
-                        ]], null, null, null, null)),
+                        'nz-icon',
+                        ''
+                    ]], [[
+                        2,
+                        'anticon',
+                        null
+                    ]], null, null, null, null)),
                     t['ɵdid'](2, 2703360, null, 0, g.a, [
                         t.ElementRef,
                         g.d,
@@ -2755,9 +2755,9 @@
                         ]
                     }, null),
                     (n()(), t['ɵand'](0, [[
-                            'suffixTemplate',
-                            2
-                        ]], null, 0, null, Gn))
+                        'suffixTemplate',
+                        2
+                    ]], null, 0, null, Gn))
                 ], function (n, l) {
                     n(l, 1, 0, !l.component.suffixIcon, t['ɵnov'](l, 2));
                 }, null);
@@ -2779,9 +2779,9 @@
                         ]
                     }, null),
                     (n()(), t['ɵand'](0, [[
-                            'defaultArrow',
-                            2
-                        ]], null, 0, null, Kn))
+                        'defaultArrow',
+                        2
+                    ]], null, 0, null, Kn))
                 ], function (n, l) {
                     n(l, 1, 0, l.component.loading, t['ɵnov'](l, 2));
                 }, null);
@@ -2827,10 +2827,10 @@
                 return b;
             });
             var t = e('8Y7J'), a = e('px0D'), u = e('SVse'), o = (e('SCoL'), e('66zS')), i = e('PgQK'), s = (e('YEUz'), t['ɵcrt']({
-                    encapsulation: 2,
-                    styles: [],
-                    data: {}
-                }));
+                encapsulation: 2,
+                styles: [],
+                data: {}
+            }));
             function r(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 1, 'span', [
@@ -2886,9 +2886,9 @@
             function c(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 2, 'span', [[
-                            'class',
-                            'ant-input-affix-wrapper'
-                        ]], [
+                        'class',
+                        'ant-input-affix-wrapper'
+                    ]], [
                         [
                             2,
                             'ant-input-affix-wrapper-sm',
@@ -2966,9 +2966,9 @@
             function m(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 6, 'span', [[
-                            'class',
-                            'ant-input-wrapper ant-input-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'ant-input-wrapper ant-input-group'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵand'](16777216, null, null, 1, null, r)),
                     t['ɵdid'](2, 16384, null, 0, u.NgIf, [
                         t.ViewContainerRef,
@@ -3205,17 +3205,17 @@
                         ]
                     }, null),
                     (n()(), t['ɵand'](0, [[
-                            'noAddOnTemplate',
-                            2
-                        ]], null, 0, null, p)),
+                        'noAddOnTemplate',
+                        2
+                    ]], null, 0, null, p)),
                     (n()(), t['ɵand'](0, [[
-                            'affixTemplate',
-                            2
-                        ]], null, 0, null, I)),
+                        'affixTemplate',
+                        2
+                    ]], null, 0, null, I)),
                     (n()(), t['ɵand'](0, [[
-                            'contentTemplate',
-                            2
-                        ]], null, 0, null, O))
+                        'contentTemplate',
+                        2
+                    ]], null, 0, null, O))
                 ], function (n, l) {
                     n(l, 1, 0, l.component.isAddOn, t['ɵnov'](l, 2));
                 }, null);
@@ -3228,13 +3228,13 @@
             function z(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 1, 'i', [[
-                            'nz-icon',
-                            ''
-                        ]], [[
-                            2,
-                            'anticon',
-                            null
-                        ]], null, null, null, null)),
+                        'nz-icon',
+                        ''
+                    ]], [[
+                        2,
+                        'anticon',
+                        null
+                    ]], null, null, null, null)),
                     t['ɵdid'](1, 2703360, null, 0, o.a, [
                         t.ElementRef,
                         o.d,
@@ -3329,8 +3329,8 @@
                 }
                 ngOnInit() {
                     const state = JSON.parse(localStorage.getItem('state'))
-                    if(state){
-                        if(state.auth.isloading ){
+                    if (state) {
+                        if (state.auth.isloading) {
                             state.auth.isloading = false
                             localStorage.setItem('state', JSON.stringify(state))
                             location.reload()
@@ -3353,13 +3353,13 @@
                     this.urlBase = t.a.urlBase, this._httpClient = n;
                 }
                 phoneNumberHasUsed(n) {
-                    return this._httpClient.get(`${ this.urlBase }users/validate/phone-number/${ n }`);
+                    return this._httpClient.get(`${this.urlBase}users/validate/phone-number/${n}`);
                 }
                 emailHasUsed(n) {
-                    return this._httpClient.get(`${ this.urlBase }users/validate/email/${ n }`);
+                    return this._httpClient.get(`${this.urlBase}users/validate/email/${n}`);
                 }
                 rfcHasUsed(n) {
-                    return this._httpClient.get(`${ this.urlBase }users/validate/rfc/${ n }`);
+                    return this._httpClient.get(`${this.urlBase}users/validate/rfc/${n}`);
                 }
             }
         },
@@ -3381,8 +3381,8 @@
                 }
                 setCurrentImage(n) {
                     for (let l = 1; l <= 3; l++) {
-                        let e = `${ this.assetsSrv }registration-step${ l }.svg`;
-                        n == l && (e = `${ this.assetsSrv }registration-step${ l }-current.svg`), this['srcImageStep' + l] = e;
+                        let e = `${this.assetsSrv}registration-step${l}.svg`;
+                        n == l && (e = `${this.assetsSrv}registration-step${l}-current.svg`), this['srcImageStep' + l] = e;
                     }
                 }
                 ngOnInit() {
@@ -3457,10 +3457,10 @@
                 return s;
             });
             var t = e('8Y7J'), a = e('vElD'), u = t['ɵcrt']({
-                    encapsulation: 0,
-                    styles: [['']],
-                    data: {}
-                });
+                encapsulation: 0,
+                styles: [['']],
+                data: {}
+            });
             function o(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 1, 'p', [], null, null, null, null, null)),
@@ -3499,10 +3499,10 @@
                 }
             }
             var b = e('ka1k'), S = e('X+QX'), z = e('WueC'), y = e('Zker'), _ = t['ɵcrt']({
-                    encapsulation: 0,
-                    styles: [['[_nghost-%COMP%]{width:100%}@media (min-width:992px){[_nghost-%COMP%]   .login-form[_ngcontent-%COMP%]{width:100%;max-width:450px}[_nghost-%COMP%]   .login-form[_ngcontent-%COMP%]   .mat-form-field[_ngcontent-%COMP%]{width:100%}}']],
-                    data: {}
-                });
+                encapsulation: 0,
+                styles: [['[_nghost-%COMP%]{width:100%}@media (min-width:992px){[_nghost-%COMP%]   .login-form[_ngcontent-%COMP%]{width:100%;max-width:450px}[_nghost-%COMP%]   .login-form[_ngcontent-%COMP%]   .mat-form-field[_ngcontent-%COMP%]{width:100%}}']],
+                data: {}
+            });
             function R(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 1, null, null, null, null, null, null, null)),
@@ -3538,7 +3538,8 @@
                     (n()(), t['ɵeld'](2, 0, null, 0, 37, 'div', [
                         [
                             'class',
-                            'login-form login-forgot'
+                            'login-form login-forgot d-none'
+                            
                         ],
                         [
                             'content',
@@ -3648,9 +3649,9 @@
                     }, null),
                     t['ɵprd'](2048, null, i.d, null, [i.k]),
                     t['ɵdid'](7, 16384, null, 0, i.r, [[
-                            6,
-                            i.d
-                        ]], null, null),
+                        6,
+                        i.d
+                    ]], null, null),
                     t['ɵdid'](8, 671744, null, 0, s.b, [
                         r.a,
                         t.ElementRef,
@@ -3662,23 +3663,23 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](9, 0, null, null, 4, 'div', [[
-                            'class',
-                            'pb-13 pt-lg-0 pt-5'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'pb-13 pt-lg-0 pt-5'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](10, 0, null, null, 1, 'h3', [[
-                            'class',
-                            'font-weight-bolder text-dark font-size-h4 font-size-h1-lg'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'font-weight-bolder text-dark font-size-h4 font-size-h1-lg'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, [' \xBFOlvidaste tu contraseña? '])),
                     (n()(), t['ɵeld'](12, 0, null, null, 1, 'p', [[
-                            'class',
-                            'text-muted font-weight-bold font-size-h4'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'text-muted font-weight-bold font-size-h4'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, [' Inserta tu correo para cambiar tu contraseña '])),
                     (n()(), t['ɵeld'](14, 0, null, null, 17, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group d-none'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](15, 0, null, null, 16, 'nz-form-item', [], [
                         [
                             2,
@@ -3765,18 +3766,18 @@
                         t.ChangeDetectorRef
                     ], null, null),
                     (n()(), t['ɵeld'](18, 0, null, 0, 1, 'label', [[
-                            'class',
-                            'font-size-h6 font-weight-bolder text-dark'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'font-size-h6 font-weight-bolder text-dark'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['Correo '])),
                     (n()(), t['ɵeld'](20, 0, null, 0, 11, 'nz-form-control', [[
-                            'nzHasFeedback',
-                            ''
-                        ]], [[
-                            4,
-                            'flex',
-                            null
-                        ]], null, null, d.d, d.a)),
+                        'nzHasFeedback',
+                        ''
+                    ]], [[
+                        4,
+                        'flex',
+                        null
+                    ]], null, null, d.d, d.a)),
                     t['ɵdid'](21, 4931584, null, 0, c.a, [
                         t.ElementRef,
                         [
@@ -3947,13 +3948,13 @@
                         ]
                     }, null),
                     t['ɵprd'](2048, [[
-                            1,
-                            4
-                        ]], i.p, null, [i.i]),
+                        1,
+                        4
+                    ]], i.p, null, [i.i]),
                     t['ɵdid'](29, 16384, null, 0, i.q, [[
-                            4,
-                            i.p
-                        ]], null, null),
+                        4,
+                        i.p
+                    ]], null, null),
                     t['ɵdid'](30, 737280, null, 0, p.a, [
                         [
                             6,
@@ -3963,17 +3964,17 @@
                         t.ElementRef
                     ], null, null),
                     (n()(), t['ɵand'](0, [[
-                            'errEmail',
-                            2
-                        ]], 0, 0, null, x)),
+                        'errEmail',
+                        2
+                    ]], 0, 0, null, x)),
                     (n()(), t['ɵeld'](32, 0, null, null, 7, 'div', [[
-                            'class',
-                            'row form-group d-flex flex-wrap pb-lg-0'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row form-group d-flex flex-wrap pb-lg-0'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](33, 0, null, null, 3, 'div', [[
-                            'class',
-                            'col'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](34, 0, null, null, 2, 'a', [
                         [
                             'class',
@@ -3999,9 +4000,9 @@
                             4
                         ]
                     ], [[
-                            null,
-                            'click'
-                        ]], function (n, l, e) {
+                        null,
+                        'click'
+                    ]], function (n, l, e) {
                         var a = !0;
                         return 'click' === l && (a = !1 !== t['ɵnov'](n, 35).onClick(e.button, e.ctrlKey, e.shiftKey, e.altKey, e.metaKey) && a), a;
                     }, null, null)),
@@ -4017,9 +4018,9 @@
                     }, null),
                     (n()(), t['ɵted'](-1, null, [' Regresar '])),
                     (n()(), t['ɵeld'](37, 0, null, null, 2, 'div', [[
-                            'class',
-                            'col'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](38, 0, null, null, 1, 'button', [
                         [
                             'class',
@@ -4034,13 +4035,13 @@
                             'submit'
                         ]
                     ], [[
-                            8,
-                            'disabled',
-                            0
-                        ]], [[
-                            null,
-                            'click'
-                        ]], function (n, l, e) {
+                        8,
+                        'disabled',
+                        0
+                    ]], [[
+                        null,
+                        'click'
+                    ]], function (n, l, e) {
                         var t = !0;
                         return 'click' === l && (t = !1 !== n.component.recover() && t), t;
                     }, null, null)),
@@ -4107,6 +4108,7 @@
                     this.today = new Date();
                 }
                 ngOnInit() {
+
                 }
             }
         },
@@ -4118,10 +4120,10 @@
                 return r;
             });
             var t = e('8Y7J'), a = e('s7LF'), u = e('px0D'), o = e('66zS'), i = e('WJhm'), s = (e('H4hL'), t['ɵcrt']({
-                    encapsulation: 0,
-                    styles: [['']],
-                    data: {}
-                }));
+                encapsulation: 0,
+                styles: [['']],
+                data: {}
+            }));
             function r(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 16, 'div', [], [
@@ -4190,13 +4192,13 @@
                     }, null),
                     t['ɵprd'](2048, null, a.d, null, [a.k]),
                     t['ɵdid'](3, 16384, null, 0, a.r, [[
-                            6,
-                            a.d
-                        ]], null, null),
+                        6,
+                        a.d
+                    ]], null, null),
                     (n()(), t['ɵeld'](4, 0, null, null, 12, 'div', [[
-                            'class',
-                            'input-group mb-3'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'input-group mb-3'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](5, 0, null, null, 6, 'input', [
                         [
                             'class',
@@ -4345,13 +4347,13 @@
                         t.ElementRef
                     ], null, null),
                     t['ɵdid'](11, 16384, null, 0, a.q, [[
-                            4,
-                            a.p
-                        ]], null, null),
+                        4,
+                        a.p
+                    ]], null, null),
                     (n()(), t['ɵeld'](12, 0, null, null, 4, 'div', [[
-                            'class',
-                            'input-group-append'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'input-group-append'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](13, 0, null, null, 3, 'button', [
                         [
                             'class',
@@ -4362,9 +4364,9 @@
                             'button'
                         ]
                     ], null, [[
-                            null,
-                            'click'
-                        ]], function (n, l, e) {
+                        null,
+                        'click'
+                    ]], function (n, l, e) {
                         var t = !0;
                         return 'click' === l && (t = !1 !== n.component.changeVisiblePassword() && t), t;
                     }, null, null)),
@@ -4378,10 +4380,10 @@
                             'outline'
                         ]
                     ], [[
-                            2,
-                            'anticon',
-                            null
-                        ]], null, null, null, null)),
+                        2,
+                        'anticon',
+                        null
+                    ]], null, null, null, null)),
                     t['ɵdid'](15, 2703360, null, 0, o.a, [
                         t.ElementRef,
                         o.d,
@@ -4437,13 +4439,13 @@
             var t = e('8Y7J'), a = e('UhP/'), u = e('8LU1'), o = e('SVse'), i = e('LRne'), s = e('z6cu'), r = e('cp0P'), d = e('quSY'), c = e('vkgz'), g = e('lJxs'), m = e('JIr8'), f = e('nYR2'), v = e('w1tV'), p = e('IzEk'), h = e('IheW'), C = e('cUpR');
             const w = ['*'];
             function I(n) {
-                return Error(`Unable to find icon with the name "${ n }"`);
+                return Error(`Unable to find icon with the name "${n}"`);
             }
             function O(n) {
-                return Error(`The URL provided to MatIconRegistry was not trusted as a resource URL via Angular's DomSanitizer. Attempted URL was "${ n }".`);
+                return Error(`The URL provided to MatIconRegistry was not trusted as a resource URL via Angular's DomSanitizer. Attempted URL was "${n}".`);
             }
             function b(n) {
-                return Error(`The literal provided to MatIconRegistry was not trusted as safe HTML by Angular's DomSanitizer. Attempted literal was "${ n }".`);
+                return Error(`The literal provided to MatIconRegistry was not trusted as safe HTML by Angular's DomSanitizer. Attempted literal was "${n}".`);
             }
             class S {
                 constructor(n, l, e) {
@@ -4523,7 +4525,7 @@
                             return Object(i.a)(e);
                         const a = l.filter(n => !n.svgText).map(n => this._loadSvgIconSetFromConfig(n).pipe(Object(m.a)(l => {
                             const e = this._sanitizer.sanitize(t.SecurityContext.RESOURCE_URL, n.url);
-                            return this._errorHandler.handleError(new Error(`Loading icon set URL: ${ e } failed: ${ l.message }`)), Object(i.a)(null);
+                            return this._errorHandler.handleError(new Error(`Loading icon set URL: ${e} failed: ${l.message}`)), Object(i.a)(null);
                         })));
                         return Object(r.a)(a).pipe(Object(g.a)(() => {
                             const e = this._extractIconWithNameFromAnySet(n, l);
@@ -4550,7 +4552,7 @@
                         return n.svgText ? Object(i.a)(null) : this._fetchIcon(n).pipe(Object(c.a)(l => n.svgText = l));
                     }
                     _extractSvgIconFromSet(n, l, e) {
-                        const t = n.querySelector(`[id="${ l }"]`);
+                        const t = n.querySelector(`[id="${l}"]`);
                         if (!t)
                             return null;
                         const a = t.cloneNode(!0);
@@ -4588,13 +4590,13 @@
                     _fetchIcon(n) {
                         var l;
                         const {
-                                url: e,
-                                options: a
-                            } = n, u = null !== (l = null == a ? void 0 : a.withCredentials) && void 0 !== l && l;
+                            url: e,
+                            options: a
+                        } = n, u = null !== (l = null == a ? void 0 : a.withCredentials) && void 0 !== l && l;
                         if (!this._httpClient)
                             throw Error('Could not find HttpClient provider for use with Angular Material icons. Please include the HttpClientModule from @angular/common/http in your app imports.');
                         if (null == e)
-                            throw Error(`Cannot fetch icon from URL "${ e }".`);
+                            throw Error(`Cannot fetch icon from URL "${e}".`);
                         const o = this._sanitizer.sanitize(t.SecurityContext.RESOURCE_URL, e);
                         if (!o)
                             throw O(e);
@@ -4644,64 +4646,64 @@
                 }
             }
             const x = Object(a.z)(R), M = new t.InjectionToken('mat-icon-location', {
-                    providedIn: 'root',
-                    factory: function () {
-                        const n = Object(t.inject)(o.DOCUMENT), l = n ? n.location : null;
-                        return { getPathname: () => l ? l.pathname + l.search : '' };
-                    }
-                }), E = [
-                    'clip-path',
-                    'color-profile',
-                    'src',
-                    'cursor',
-                    'fill',
-                    'filter',
-                    'marker',
-                    'marker-start',
-                    'marker-mid',
-                    'marker-end',
-                    'mask',
-                    'stroke'
-                ], P = E.map(n => `[${ n }]`).join(', '), T = /^url\(['"]?#(.*?)['"]?\)$/;
+                providedIn: 'root',
+                factory: function () {
+                    const n = Object(t.inject)(o.DOCUMENT), l = n ? n.location : null;
+                    return { getPathname: () => l ? l.pathname + l.search : '' };
+                }
+            }), E = [
+                'clip-path',
+                'color-profile',
+                'src',
+                'cursor',
+                'fill',
+                'filter',
+                'marker',
+                'marker-start',
+                'marker-mid',
+                'marker-end',
+                'mask',
+                'stroke'
+            ], P = E.map(n => `[${n}]`).join(', '), T = /^url\(['"]?#(.*?)['"]?\)$/;
             let k = (() => {
-                    class n extends x {
-                        constructor(n, l, e, t, a) {
-                            super(n), this._iconRegistry = l, this._location = t, this._errorHandler = a, this._inline = !1, this._currentIconFetch = d.a.EMPTY, e || n.nativeElement.setAttribute('aria-hidden', 'true');
-                        }
-                        get inline() {
-                            return this._inline;
-                        }
-                        set inline(n) {
-                            this._inline = Object(u.c)(n);
-                        }
-                        get svgIcon() {
-                            return this._svgIcon;
-                        }
-                        set svgIcon(n) {
-                            n !== this._svgIcon && (n ? this._updateSvgIcon(n) : this._svgIcon && this._clearSvgElement(), this._svgIcon = n);
-                        }
-                        get fontSet() {
-                            return this._fontSet;
-                        }
-                        set fontSet(n) {
-                            const l = this._cleanupFontValue(n);
-                            l !== this._fontSet && (this._fontSet = l, this._updateFontIconClasses());
-                        }
-                        get fontIcon() {
-                            return this._fontIcon;
-                        }
-                        set fontIcon(n) {
-                            const l = this._cleanupFontValue(n);
-                            l !== this._fontIcon && (this._fontIcon = l, this._updateFontIconClasses());
-                        }
-                        _splitIconName(n) {
-                            if (!n)
-                                return [
-                                    '',
-                                    ''
-                                ];
-                            const l = n.split(':');
-                            switch (l.length) {
+                class n extends x {
+                    constructor(n, l, e, t, a) {
+                        super(n), this._iconRegistry = l, this._location = t, this._errorHandler = a, this._inline = !1, this._currentIconFetch = d.a.EMPTY, e || n.nativeElement.setAttribute('aria-hidden', 'true');
+                    }
+                    get inline() {
+                        return this._inline;
+                    }
+                    set inline(n) {
+                        this._inline = Object(u.c)(n);
+                    }
+                    get svgIcon() {
+                        return this._svgIcon;
+                    }
+                    set svgIcon(n) {
+                        n !== this._svgIcon && (n ? this._updateSvgIcon(n) : this._svgIcon && this._clearSvgElement(), this._svgIcon = n);
+                    }
+                    get fontSet() {
+                        return this._fontSet;
+                    }
+                    set fontSet(n) {
+                        const l = this._cleanupFontValue(n);
+                        l !== this._fontSet && (this._fontSet = l, this._updateFontIconClasses());
+                    }
+                    get fontIcon() {
+                        return this._fontIcon;
+                    }
+                    set fontIcon(n) {
+                        const l = this._cleanupFontValue(n);
+                        l !== this._fontIcon && (this._fontIcon = l, this._updateFontIconClasses());
+                    }
+                    _splitIconName(n) {
+                        if (!n)
+                            return [
+                                '',
+                                ''
+                            ];
+                        const l = n.split(':');
+                        switch (l.length) {
                             case 1:
                                 return [
                                     '',
@@ -4710,129 +4712,129 @@
                             case 2:
                                 return l;
                             default:
-                                throw Error(`Invalid icon name: "${ n }"`);
-                            }
+                                throw Error(`Invalid icon name: "${n}"`);
                         }
-                        ngOnInit() {
-                            this._updateFontIconClasses();
+                    }
+                    ngOnInit() {
+                        this._updateFontIconClasses();
+                    }
+                    ngAfterViewChecked() {
+                        const n = this._elementsWithExternalReferences;
+                        if (n && n.size) {
+                            const n = this._location.getPathname();
+                            n !== this._previousPath && (this._previousPath = n, this._prependPathToReferences(n));
                         }
-                        ngAfterViewChecked() {
-                            const n = this._elementsWithExternalReferences;
-                            if (n && n.size) {
-                                const n = this._location.getPathname();
-                                n !== this._previousPath && (this._previousPath = n, this._prependPathToReferences(n));
-                            }
+                    }
+                    ngOnDestroy() {
+                        this._currentIconFetch.unsubscribe(), this._elementsWithExternalReferences && this._elementsWithExternalReferences.clear();
+                    }
+                    _usingFontIcon() {
+                        return !this.svgIcon;
+                    }
+                    _setSvgElement(n) {
+                        this._clearSvgElement();
+                        const l = n.querySelectorAll('style');
+                        for (let t = 0; t < l.length; t++)
+                            l[t].textContent += ' ';
+                        const e = this._location.getPathname();
+                        this._previousPath = e, this._cacheChildrenWithExternalReferences(n), this._prependPathToReferences(e), this._elementRef.nativeElement.appendChild(n);
+                    }
+                    _clearSvgElement() {
+                        const n = this._elementRef.nativeElement;
+                        let l = n.childNodes.length;
+                        for (this._elementsWithExternalReferences && this._elementsWithExternalReferences.clear(); l--;) {
+                            const e = n.childNodes[l];
+                            1 === e.nodeType && 'svg' !== e.nodeName.toLowerCase() || n.removeChild(e);
                         }
-                        ngOnDestroy() {
-                            this._currentIconFetch.unsubscribe(), this._elementsWithExternalReferences && this._elementsWithExternalReferences.clear();
-                        }
-                        _usingFontIcon() {
-                            return !this.svgIcon;
-                        }
-                        _setSvgElement(n) {
-                            this._clearSvgElement();
-                            const l = n.querySelectorAll('style');
-                            for (let t = 0; t < l.length; t++)
-                                l[t].textContent += ' ';
-                            const e = this._location.getPathname();
-                            this._previousPath = e, this._cacheChildrenWithExternalReferences(n), this._prependPathToReferences(e), this._elementRef.nativeElement.appendChild(n);
-                        }
-                        _clearSvgElement() {
-                            const n = this._elementRef.nativeElement;
-                            let l = n.childNodes.length;
-                            for (this._elementsWithExternalReferences && this._elementsWithExternalReferences.clear(); l--;) {
-                                const e = n.childNodes[l];
-                                1 === e.nodeType && 'svg' !== e.nodeName.toLowerCase() || n.removeChild(e);
-                            }
-                        }
-                        _updateFontIconClasses() {
-                            if (!this._usingFontIcon())
-                                return;
-                            const n = this._elementRef.nativeElement, l = this.fontSet ? this._iconRegistry.classNameForFontAlias(this.fontSet) : this._iconRegistry.getDefaultFontSetClass();
-                            l != this._previousFontSetClass && (this._previousFontSetClass && n.classList.remove(this._previousFontSetClass), l && n.classList.add(l), this._previousFontSetClass = l), this.fontIcon != this._previousFontIconClass && (this._previousFontIconClass && n.classList.remove(this._previousFontIconClass), this.fontIcon && n.classList.add(this.fontIcon), this._previousFontIconClass = this.fontIcon);
-                        }
-                        _cleanupFontValue(n) {
-                            return 'string' == typeof n ? n.trim().split(' ')[0] : n;
-                        }
-                        _prependPathToReferences(n) {
-                            const l = this._elementsWithExternalReferences;
-                            l && l.forEach((l, e) => {
-                                l.forEach(l => {
-                                    e.setAttribute(l.name, `url('${ n }#${ l.value }')`);
-                                });
+                    }
+                    _updateFontIconClasses() {
+                        if (!this._usingFontIcon())
+                            return;
+                        const n = this._elementRef.nativeElement, l = this.fontSet ? this._iconRegistry.classNameForFontAlias(this.fontSet) : this._iconRegistry.getDefaultFontSetClass();
+                        l != this._previousFontSetClass && (this._previousFontSetClass && n.classList.remove(this._previousFontSetClass), l && n.classList.add(l), this._previousFontSetClass = l), this.fontIcon != this._previousFontIconClass && (this._previousFontIconClass && n.classList.remove(this._previousFontIconClass), this.fontIcon && n.classList.add(this.fontIcon), this._previousFontIconClass = this.fontIcon);
+                    }
+                    _cleanupFontValue(n) {
+                        return 'string' == typeof n ? n.trim().split(' ')[0] : n;
+                    }
+                    _prependPathToReferences(n) {
+                        const l = this._elementsWithExternalReferences;
+                        l && l.forEach((l, e) => {
+                            l.forEach(l => {
+                                e.setAttribute(l.name, `url('${n}#${l.value}')`);
+                            });
+                        });
+                    }
+                    _cacheChildrenWithExternalReferences(n) {
+                        const l = n.querySelectorAll(P), e = this._elementsWithExternalReferences = this._elementsWithExternalReferences || new Map();
+                        for (let t = 0; t < l.length; t++)
+                            E.forEach(n => {
+                                const a = l[t], u = a.getAttribute(n), o = u ? u.match(T) : null;
+                                if (o) {
+                                    let l = e.get(a);
+                                    l || (l = [], e.set(a, l)), l.push({
+                                        name: n,
+                                        value: o[1]
+                                    });
+                                }
+                            });
+                    }
+                    _updateSvgIcon(n) {
+                        if (this._svgNamespace = null, this._svgName = null, this._currentIconFetch.unsubscribe(), n) {
+                            const [l, e] = this._splitIconName(n);
+                            l && (this._svgNamespace = l), e && (this._svgName = e), this._currentIconFetch = this._iconRegistry.getNamedSvgIcon(e, l).pipe(Object(p.a)(1)).subscribe(n => this._setSvgElement(n), n => {
+                                this._errorHandler.handleError(new Error(`Error retrieving icon ${l}:${e}! ${n.message}`));
                             });
                         }
-                        _cacheChildrenWithExternalReferences(n) {
-                            const l = n.querySelectorAll(P), e = this._elementsWithExternalReferences = this._elementsWithExternalReferences || new Map();
-                            for (let t = 0; t < l.length; t++)
-                                E.forEach(n => {
-                                    const a = l[t], u = a.getAttribute(n), o = u ? u.match(T) : null;
-                                    if (o) {
-                                        let l = e.get(a);
-                                        l || (l = [], e.set(a, l)), l.push({
-                                            name: n,
-                                            value: o[1]
-                                        });
-                                    }
-                                });
-                        }
-                        _updateSvgIcon(n) {
-                            if (this._svgNamespace = null, this._svgName = null, this._currentIconFetch.unsubscribe(), n) {
-                                const [l, e] = this._splitIconName(n);
-                                l && (this._svgNamespace = l), e && (this._svgName = e), this._currentIconFetch = this._iconRegistry.getNamedSvgIcon(e, l).pipe(Object(p.a)(1)).subscribe(n => this._setSvgElement(n), n => {
-                                    this._errorHandler.handleError(new Error(`Error retrieving icon ${ l }:${ e }! ${ n.message }`));
-                                });
-                            }
-                        }
                     }
-                    return n.ɵfac = function (l) {
-                        return new (l || n)(t['ɵɵdirectiveInject'](t.ElementRef), t['ɵɵdirectiveInject'](z), t['ɵɵinjectAttribute']('aria-hidden'), t['ɵɵdirectiveInject'](M), t['ɵɵdirectiveInject'](t.ErrorHandler));
-                    }, n.ɵcmp = t['ɵɵdefineComponent']({
-                        type: n,
-                        selectors: [['mat-icon']],
-                        hostAttrs: [
-                            'role',
-                            'img',
-                            1,
-                            'mat-icon',
-                            'notranslate'
-                        ],
-                        hostVars: 7,
-                        hostBindings: function (n, l) {
-                            2 & n && (t['ɵɵattribute']('data-mat-icon-type', l._usingFontIcon() ? 'font' : 'svg')('data-mat-icon-name', l._svgName || l.fontIcon)('data-mat-icon-namespace', l._svgNamespace || l.fontSet), t['ɵɵclassProp']('mat-icon-inline', l.inline)('mat-icon-no-color', 'primary' !== l.color && 'accent' !== l.color && 'warn' !== l.color));
-                        },
-                        inputs: {
-                            color: 'color',
-                            inline: 'inline',
-                            svgIcon: 'svgIcon',
-                            fontSet: 'fontSet',
-                            fontIcon: 'fontIcon'
-                        },
-                        exportAs: ['matIcon'],
-                        features: [t['ɵɵInheritDefinitionFeature']],
-                        ngContentSelectors: w,
-                        decls: 1,
-                        vars: 0,
-                        template: function (n, l) {
-                            1 & n && (t['ɵɵprojectionDef'](), t['ɵɵprojection'](0));
-                        },
-                        styles: ['.mat-icon{background-repeat:no-repeat;display:inline-block;fill:currentColor;height:24px;width:24px}.mat-icon.mat-icon-inline{font-size:inherit;height:inherit;line-height:inherit;width:inherit}[dir=rtl] .mat-icon-rtl-mirror{transform:scale(-1, 1)}.mat-form-field:not(.mat-form-field-appearance-legacy) .mat-form-field-prefix .mat-icon,.mat-form-field:not(.mat-form-field-appearance-legacy) .mat-form-field-suffix .mat-icon{display:block}.mat-form-field:not(.mat-form-field-appearance-legacy) .mat-form-field-prefix .mat-icon-button .mat-icon,.mat-form-field:not(.mat-form-field-appearance-legacy) .mat-form-field-suffix .mat-icon-button .mat-icon{margin:auto}\n'],
-                        encapsulation: 2,
-                        changeDetection: 0
-                    }), n;
-                })(), N = (() => {
-                    class n {
-                    }
-                    return n.ɵmod = t['ɵɵdefineNgModule']({ type: n }), n.ɵinj = t['ɵɵdefineInjector']({
-                        factory: function (l) {
-                            return new (l || n)();
-                        },
-                        imports: [
-                            [a.k],
-                            a.k
-                        ]
-                    }), n;
-                })();
+                }
+                return n.ɵfac = function (l) {
+                    return new (l || n)(t['ɵɵdirectiveInject'](t.ElementRef), t['ɵɵdirectiveInject'](z), t['ɵɵinjectAttribute']('aria-hidden'), t['ɵɵdirectiveInject'](M), t['ɵɵdirectiveInject'](t.ErrorHandler));
+                }, n.ɵcmp = t['ɵɵdefineComponent']({
+                    type: n,
+                    selectors: [['mat-icon']],
+                    hostAttrs: [
+                        'role',
+                        'img',
+                        1,
+                        'mat-icon',
+                        'notranslate'
+                    ],
+                    hostVars: 7,
+                    hostBindings: function (n, l) {
+                        2 & n && (t['ɵɵattribute']('data-mat-icon-type', l._usingFontIcon() ? 'font' : 'svg')('data-mat-icon-name', l._svgName || l.fontIcon)('data-mat-icon-namespace', l._svgNamespace || l.fontSet), t['ɵɵclassProp']('mat-icon-inline', l.inline)('mat-icon-no-color', 'primary' !== l.color && 'accent' !== l.color && 'warn' !== l.color));
+                    },
+                    inputs: {
+                        color: 'color',
+                        inline: 'inline',
+                        svgIcon: 'svgIcon',
+                        fontSet: 'fontSet',
+                        fontIcon: 'fontIcon'
+                    },
+                    exportAs: ['matIcon'],
+                    features: [t['ɵɵInheritDefinitionFeature']],
+                    ngContentSelectors: w,
+                    decls: 1,
+                    vars: 0,
+                    template: function (n, l) {
+                        1 & n && (t['ɵɵprojectionDef'](), t['ɵɵprojection'](0));
+                    },
+                    styles: ['.mat-icon{background-repeat:no-repeat;display:inline-block;fill:currentColor;height:24px;width:24px}.mat-icon.mat-icon-inline{font-size:inherit;height:inherit;line-height:inherit;width:inherit}[dir=rtl] .mat-icon-rtl-mirror{transform:scale(-1, 1)}.mat-form-field:not(.mat-form-field-appearance-legacy) .mat-form-field-prefix .mat-icon,.mat-form-field:not(.mat-form-field-appearance-legacy) .mat-form-field-suffix .mat-icon{display:block}.mat-form-field:not(.mat-form-field-appearance-legacy) .mat-form-field-prefix .mat-icon-button .mat-icon,.mat-form-field:not(.mat-form-field-appearance-legacy) .mat-form-field-suffix .mat-icon-button .mat-icon{margin:auto}\n'],
+                    encapsulation: 2,
+                    changeDetection: 0
+                }), n;
+            })(), N = (() => {
+                class n {
+                }
+                return n.ɵmod = t['ɵɵdefineNgModule']({ type: n }), n.ɵinj = t['ɵɵdefineInjector']({
+                    factory: function (l) {
+                        return new (l || n)();
+                    },
+                    imports: [
+                        [a.k],
+                        a.k
+                    ]
+                }), n;
+            })();
         },
         Wdw0: function (n, l, e) {
             'use strict';
@@ -4929,10 +4931,10 @@
                 }
             }
             var y = e('ka1k'), _ = e('b3X1'), R = e('WueC'), x = e('Zker'), M = e('iInd'), E = t['ɵcrt']({
-                    encapsulation: 0,
-                    styles: [['']],
-                    data: {}
-                });
+                encapsulation: 0,
+                styles: [['']],
+                data: {}
+            });
             function P(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 1, null, null, null, null, null, null, null)),
@@ -5091,9 +5093,9 @@
                     }, null),
                     t['ɵprd'](2048, null, i.d, null, [i.k]),
                     t['ɵdid'](7, 16384, null, 0, i.r, [[
-                            6,
-                            i.d
-                        ]], null, null),
+                        6,
+                        i.d
+                    ]], null, null),
                     t['ɵdid'](8, 671744, null, 0, s.b, [
                         r.a,
                         t.ElementRef,
@@ -5105,23 +5107,23 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](9, 0, null, null, 4, 'div', [[
-                            'class',
-                            'pb-13 pt-lg-0 pt-5'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'pb-13 pt-lg-0 pt-5'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](10, 0, null, null, 1, 'h3', [[
-                            'class',
-                            'font-weight-bolder text-dark font-size-h4 font-size-h1-lg'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'font-weight-bolder text-dark font-size-h4 font-size-h1-lg'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, [' Confirmación '])),
                     (n()(), t['ɵeld'](12, 0, null, null, 1, 'p', [[
-                            'class',
-                            'text-muted font-weight-bold font-size-h4'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'text-muted font-weight-bold font-size-h4'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, [' Agrega tu tu nueva contraseña '])),
                     (n()(), t['ɵeld'](14, 0, null, null, 40, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](15, 0, null, null, 39, 'nz-form-item', [], [
                         [
                             2,
@@ -5208,9 +5210,9 @@
                         t.ChangeDetectorRef
                     ], null, null),
                     (n()(), t['ɵeld'](18, 0, null, 0, 5, 'label', [[
-                            'class',
-                            'font-size-h6 font-weight-bolder text-dark'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'font-size-h6 font-weight-bolder text-dark'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['Contraseña '])),
                     (n()(), t['ɵeld'](20, 16777216, null, null, 3, 'i', [
                         [
@@ -5283,10 +5285,10 @@
                         t.Renderer2
                     ], null, null),
                     (n()(), t['ɵeld'](24, 0, null, 0, 30, 'nz-form-control', [], [[
-                            4,
-                            'flex',
-                            null
-                        ]], null, null, d.d, d.a)),
+                        4,
+                        'flex',
+                        null
+                    ]], null, null, d.d, d.a)),
                     t['ɵdid'](25, 4931584, null, 0, c.a, [
                         t.ElementRef,
                         [
@@ -5311,9 +5313,9 @@
                     ], null, null),
                     t['ɵqud'](603979776, 1, { defaultValidateControl: 0 }),
                     (n()(), t['ɵeld'](28, 0, null, 0, 1, 'ce-password', [[
-                            'formName',
-                            'password'
-                        ]], null, null, null, w.b, w.a)),
+                        'formName',
+                        'password'
+                    ]], null, null, null, w.b, w.a)),
                     t['ɵdid'](29, 114688, null, 0, I.a, [], {
                         formName: [
                             0,
@@ -5337,9 +5339,9 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](32, 0, null, null, 1, 'i', [[
-                            'class',
-                            'material-icons'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'material-icons'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](33, null, [
                         '',
                         ''
@@ -5358,9 +5360,9 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](37, 0, null, null, 1, 'i', [[
-                            'class',
-                            'material-icons'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'material-icons'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](38, null, [
                         '',
                         ''
@@ -5379,9 +5381,9 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](42, 0, null, null, 1, 'i', [[
-                            'class',
-                            'material-icons'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'material-icons'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](43, null, [
                         '',
                         ' '
@@ -5400,9 +5402,9 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](47, 0, null, null, 1, 'i', [[
-                            'class',
-                            'material-icons'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'material-icons'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](48, null, [
                         '',
                         ''
@@ -5421,18 +5423,18 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](52, 0, null, null, 1, 'i', [[
-                            'class',
-                            'material-icons'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'material-icons'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](53, null, [
                         '',
                         ''
                     ])),
                     (n()(), t['ɵted'](-1, null, [' Utiliza menos de 16 caracteres '])),
                     (n()(), t['ɵeld'](55, 0, null, null, 12, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](56, 0, null, null, 11, 'nz-form-item', [], [
                         [
                             2,
@@ -5519,18 +5521,18 @@
                         t.ChangeDetectorRef
                     ], null, null),
                     (n()(), t['ɵeld'](59, 0, null, 0, 1, 'label', [[
-                            'class',
-                            'font-size-h6 font-weight-bolder text-dark'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'font-size-h6 font-weight-bolder text-dark'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['Confirmar contraseña '])),
                     (n()(), t['ɵeld'](61, 0, null, 0, 6, 'nz-form-control', [[
-                            'nzHasFeedback',
-                            ''
-                        ]], [[
-                            4,
-                            'flex',
-                            null
-                        ]], null, null, d.d, d.a)),
+                        'nzHasFeedback',
+                        ''
+                    ]], [[
+                        4,
+                        'flex',
+                        null
+                    ]], null, null, d.d, d.a)),
                     t['ɵdid'](62, 4931584, null, 0, c.a, [
                         t.ElementRef,
                         [
@@ -5564,9 +5566,9 @@
                     }, null),
                     t['ɵqud'](603979776, 2, { defaultValidateControl: 0 }),
                     (n()(), t['ɵeld'](65, 0, null, 0, 1, 'ce-password', [[
-                            'formName',
-                            'password_confirmation'
-                        ]], null, null, null, w.b, w.a)),
+                        'formName',
+                        'password_confirmation'
+                    ]], null, null, null, w.b, w.a)),
                     t['ɵdid'](66, 114688, null, 0, I.a, [], {
                         formName: [
                             0,
@@ -5578,13 +5580,13 @@
                         ]
                     }, null),
                     (n()(), t['ɵand'](0, [[
-                            'errPasswordConf',
-                            2
-                        ]], 0, 0, null, T)),
+                        'errPasswordConf',
+                        2
+                    ]], 0, 0, null, T)),
                     (n()(), t['ɵeld'](68, 0, null, null, 2, 'div', [[
-                            'class',
-                            'form-group d-flex flex-wrap pb-lg-0'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group d-flex flex-wrap pb-lg-0'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](69, 0, null, null, 1, 'button', [
                         [
                             'class',
@@ -5599,13 +5601,13 @@
                             'submit'
                         ]
                     ], [[
-                            8,
-                            'disabled',
-                            0
-                        ]], [[
-                            null,
-                            'click'
-                        ]], function (n, l, e) {
+                        8,
+                        'disabled',
+                        0
+                    ]], [[
+                        null,
+                        'click'
+                    ]], function (n, l, e) {
                         var t = !0;
                         return 'click' === l && (t = !1 !== n.component.changePassword() && t), t;
                     }, null, null)),
@@ -5698,10 +5700,10 @@
                 }
             }
             var M = e('ka1k'), E = e('g297'), P = e('tqRt'), T = t['ɵcrt']({
-                    encapsulation: 0,
-                    styles: [['[_nghost-%COMP%]{width:100%}@media (min-width:992px){[_nghost-%COMP%]   .login-form[_ngcontent-%COMP%]{width:100%;max-width:450px}[_nghost-%COMP%]   .login-form[_ngcontent-%COMP%]   .mat-form-field[_ngcontent-%COMP%]{width:100%}}']],
-                    data: {}
-                });
+                encapsulation: 0,
+                styles: [['[_nghost-%COMP%]{width:100%}@media (min-width:992px){[_nghost-%COMP%]   .login-form[_ngcontent-%COMP%]{width:100%;max-width:450px}[_nghost-%COMP%]   .login-form[_ngcontent-%COMP%]   .mat-form-field[_ngcontent-%COMP%]{width:100%}}']],
+                data: {}
+            });
             function k(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 1, null, null, null, null, null, null, null)),
@@ -5769,9 +5771,9 @@
                     }, null),
                     t['ɵpid'](131072, a.AsyncPipe, [t.ChangeDetectorRef]),
                     (n()(), t['ɵeld'](3, 0, null, 0, 59, 'app-layout-auth', [[
-                            'content',
-                            ''
-                        ]], null, null, null, i.b, i.a)),
+                        'content',
+                        ''
+                    ]], null, null, null, i.b, i.a)),
                     t['ɵdid'](4, 114688, null, 0, s.a, [], null, null),
                     (n()(), t['ɵeld'](5, 0, null, 0, 57, 'div', [
                         [
@@ -5886,9 +5888,9 @@
                     }, null),
                     t['ɵprd'](2048, null, r.d, null, [r.k]),
                     t['ɵdid'](10, 16384, null, 0, r.r, [[
-                            6,
-                            r.d
-                        ]], null, null),
+                        6,
+                        r.d
+                    ]], null, null),
                     t['ɵdid'](11, 671744, null, 0, d.b, [
                         c.a,
                         t.ElementRef,
@@ -5900,13 +5902,13 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](12, 0, null, null, 5, 'div', [[
-                            'class',
-                            'pb-3 pt-lg-0 pt-5'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'pb-3 pt-lg-0 pt-5'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](13, 0, null, null, 4, 'span', [[
-                            'class',
-                            'text-muted font-weight-bold font-size-h4'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'text-muted font-weight-bold font-size-h4'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['\xBFAún no tienes una cuenta? '])),
                     (n()(), t['ɵeld'](15, 0, null, null, 2, 'a', [
                         [
@@ -5933,9 +5935,9 @@
                             4
                         ]
                     ], [[
-                            null,
-                            'click'
-                        ]], function (n, l, e) {
+                        null,
+                        'click'
+                    ]], function (n, l, e) {
                         var a = !0;
                         return 'click' === l && (a = !1 !== t['ɵnov'](n, 16).onClick(e.button, e.ctrlKey, e.shiftKey, e.altKey, e.metaKey) && a), a;
                     }, null, null)),
@@ -5951,9 +5953,9 @@
                     }, null),
                     (n()(), t['ɵted'](-1, null, [' Regístrate '])),
                     (n()(), t['ɵeld'](18, 0, null, null, 17, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](19, 0, null, null, 16, 'nz-form-item', [], [
                         [
                             2,
@@ -6040,18 +6042,18 @@
                         t.ChangeDetectorRef
                     ], null, null),
                     (n()(), t['ɵeld'](22, 0, null, 0, 1, 'label', [[
-                            'class',
-                            'font-size-h6 font-weight-bolder text-dark'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'font-size-h6 font-weight-bolder text-dark'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['Correo '])),
                     (n()(), t['ɵeld'](24, 0, null, 0, 11, 'nz-form-control', [[
-                            'nzHasFeedback',
-                            ''
-                        ]], [[
-                            4,
-                            'flex',
-                            null
-                        ]], null, null, m.d, m.a)),
+                        'nzHasFeedback',
+                        ''
+                    ]], [[
+                        4,
+                        'flex',
+                        null
+                    ]], null, null, m.d, m.a)),
                     t['ɵdid'](25, 4931584, null, 0, f.a, [
                         t.ElementRef,
                         [
@@ -6222,13 +6224,13 @@
                         ]
                     }, null),
                     t['ɵprd'](2048, [[
-                            1,
-                            4
-                        ]], r.p, null, [r.i]),
+                        1,
+                        4
+                    ]], r.p, null, [r.i]),
                     t['ɵdid'](33, 16384, null, 0, r.q, [[
-                            4,
-                            r.p
-                        ]], null, null),
+                        4,
+                        r.p
+                    ]], null, null),
                     t['ɵdid'](34, 737280, null, 0, w.a, [
                         [
                             6,
@@ -6238,13 +6240,13 @@
                         t.ElementRef
                     ], null, null),
                     (n()(), t['ɵand'](0, [[
-                            'errEmail',
-                            2
-                        ]], 0, 0, null, N)),
+                        'errEmail',
+                        2
+                    ]], 0, 0, null, N)),
                     (n()(), t['ɵeld'](36, 0, null, null, 23, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](37, 0, null, null, 22, 'nz-form-item', [], [
                         [
                             2,
@@ -6331,17 +6333,17 @@
                         t.ChangeDetectorRef
                     ], null, null),
                     (n()(), t['ɵeld'](40, 0, null, 0, 12, 'label', [[
-                            'class',
-                            'font-size-h6 font-weight-bolder text-dark'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'font-size-h6 font-weight-bolder text-dark'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](41, 0, null, null, 11, 'div', [[
-                            'class',
-                            'row'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](42, 0, null, null, 10, 'div', [[
-                            'class',
-                            'col d-flex align-items-end'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col d-flex align-items-end'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](43, 0, null, null, 5, 'span', [], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['Contraseña '])),
                     (n()(), t['ɵeld'](45, 16777216, null, null, 3, 'i', [
@@ -6415,9 +6417,9 @@
                         t.Renderer2
                     ], null, null),
                     (n()(), t['ɵeld'](49, 0, null, null, 3, 'div', [[
-                            'class',
-                            'col d-flex align-items-end justify-content-end'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col d-flex align-items-end justify-content-end'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](50, 0, null, null, 2, 'a', [
                         [
                             'class',
@@ -6443,9 +6445,9 @@
                             4
                         ]
                     ], [[
-                            null,
-                            'click'
-                        ]], function (n, l, e) {
+                        null,
+                        'click'
+                    ]], function (n, l, e) {
                         var a = !0;
                         return 'click' === l && (a = !1 !== t['ɵnov'](n, 51).onClick(e.button, e.ctrlKey, e.shiftKey, e.altKey, e.metaKey) && a), a;
                     }, null, null)),
@@ -6461,13 +6463,13 @@
                     }, null),
                     (n()(), t['ɵted'](-1, null, [' \xBFOlvidaste tu contraseña? '])),
                     (n()(), t['ɵeld'](53, 0, null, 0, 6, 'nz-form-control', [[
-                            'nzHasFeedback',
-                            ''
-                        ]], [[
-                            4,
-                            'flex',
-                            null
-                        ]], null, null, m.d, m.a)),
+                        'nzHasFeedback',
+                        ''
+                    ]], [[
+                        4,
+                        'flex',
+                        null
+                    ]], null, null, m.d, m.a)),
                     t['ɵdid'](54, 4931584, null, 0, f.a, [
                         t.ElementRef,
                         [
@@ -6501,9 +6503,9 @@
                     }, null),
                     t['ɵqud'](603979776, 2, { defaultValidateControl: 0 }),
                     (n()(), t['ɵeld'](57, 0, null, 0, 1, 'ce-password', [[
-                            'formName',
-                            'password'
-                        ]], null, null, null, S.b, S.a)),
+                        'formName',
+                        'password'
+                    ]], null, null, null, S.b, S.a)),
                     t['ɵdid'](58, 114688, null, 0, z.a, [], {
                         formName: [
                             0,
@@ -6515,13 +6517,13 @@
                         ]
                     }, null),
                     (n()(), t['ɵand'](0, [[
-                            'errPassword',
-                            2
-                        ]], 0, 0, null, F)),
+                        'errPassword',
+                        2
+                    ]], 0, 0, null, F)),
                     (n()(), t['ɵeld'](60, 0, null, null, 2, 'div', [[
-                            'class',
-                            'pb-lg-0 pb-5 d-flex align-items-center justify-content-center'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'pb-lg-0 pb-5 d-flex align-items-center justify-content-center'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](61, 0, null, null, 1, 'button', [
                         [
                             'class',
@@ -6536,13 +6538,13 @@
                             'submit'
                         ]
                     ], [[
-                            8,
-                            'disabled',
-                            0
-                        ]], [[
-                            null,
-                            'click'
-                        ]], function (n, l, e) {
+                        8,
+                        'disabled',
+                        0
+                    ]], [[
+                        null,
+                        'click'
+                    ]], function (n, l, e) {
                         var t = !0;
                         return 'click' === l && (t = !1 !== n.component.login() && t), t;
                     }, null, null)),
@@ -6619,40 +6621,40 @@
                 return v;
             });
             var t = e('8Y7J'), a = e('yxt2'), u = e('q/nf'), o = e('SVse'), i = e('6h/S'), s = e('iInd'), r = e('Zker'), d = t['ɵcrt']({
-                    encapsulation: 0,
-                    styles: [['']],
-                    data: {}
-                });
+                encapsulation: 0,
+                styles: [['']],
+                data: {}
+            });
             function c(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 39, 'div', [], null, null, null, null, null)),
                     (n()(), t['ɵeld'](1, 0, null, null, 34, 'div', [[
-                            'class',
-                            'row'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](2, 0, null, null, 33, 'div', [[
-                            'class',
-                            'col'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](3, 0, null, null, 32, 'div', [[
-                            'class',
-                            'px-6 py-5'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'px-6 py-5'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](4, 0, null, null, 4, 'div', [[
-                            'class',
-                            'pb-13 pt-lg-0 pt-5'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'pb-13 pt-lg-0 pt-5'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](5, 0, null, null, 3, 'h3', [[
-                            'class',
-                            'font-weight-bolder text-dark font-size-h4 font-size-h1-lg text-center'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'font-weight-bolder text-dark font-size-h4 font-size-h1-lg text-center'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, [' \xA1Felicidades! '])),
                     (n()(), t['ɵeld'](7, 0, null, null, 0, 'br', [], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, [' Tu registro se ha realizado con éxito. '])),
                     (n()(), t['ɵeld'](9, 0, null, null, 26, 'div', [[
-                            'class',
-                            'd-block mt-5'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'd-block mt-5'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](10, 0, null, null, 25, ':svg:svg', [
                         [
                             'data-name',
@@ -7090,13 +7092,13 @@
                         ]
                     ], null, null, null, null, null)),
                     (n()(), t['ɵeld'](36, 0, null, null, 3, 'div', [[
-                            'class',
-                            'row'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](37, 0, null, null, 2, 'div', [[
-                            'class',
-                            'col d-flex align-items-end justify-content-end'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col d-flex align-items-end justify-content-end'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](38, 0, null, null, 1, 'button', [
                         [
                             'class',
@@ -7111,9 +7113,9 @@
                             'submit'
                         ]
                     ], null, [[
-                            null,
-                            'click'
-                        ]], function (n, l, e) {
+                        null,
+                        'click'
+                    ]], function (n, l, e) {
                         var t = !0;
                         return 'click' === l && (t = !1 !== n.component.goToLogin() && t), t;
                     }, null, null)),
@@ -7124,30 +7126,30 @@
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 27, 'div', [], null, null, null, null, null)),
                     (n()(), t['ɵeld'](1, 0, null, null, 26, 'div', [[
-                            'class',
-                            'row'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](2, 0, null, null, 25, 'div', [[
-                            'class',
-                            'col'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](3, 0, null, null, 24, 'div', [[
-                            'class',
-                            'px-6 py-5'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'px-6 py-5'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](4, 0, null, null, 2, 'div', [[
-                            'class',
-                            'pb-13 pt-lg-0 pt-5'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'pb-13 pt-lg-0 pt-5'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](5, 0, null, null, 1, 'h3', [[
-                            'class',
-                            'font-weight-bolder text-dark font-size-h4 font-size-h1-lg text-center'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'font-weight-bolder text-dark font-size-h4 font-size-h1-lg text-center'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, [' El usuario ya se encuentra registrado o ya no se encuentra disponible. '])),
                     (n()(), t['ɵeld'](7, 0, null, null, 20, 'div', [[
-                            'class',
-                            'd-block mt-5'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'd-block mt-5'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](8, 0, null, null, 19, ':svg:svg', [
                         [
                             'data-name',
@@ -7445,9 +7447,9 @@
                         ]
                     ], null, null, null, null, null)),
                     (n()(), t['ɵeld'](3, 0, null, null, 4, 'div', [[
-                            'class',
-                            'col-12'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-12'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵand'](16777216, null, null, 1, null, c)),
                     t['ɵdid'](5, 16384, null, 0, o.NgIf, [
                         t.ViewContainerRef,
@@ -7586,10 +7588,10 @@
             const m = {
                 provide: c,
                 deps: [[
-                        new o.Optional(),
-                        new o.SkipSelf(),
-                        c
-                    ]],
+                    new o.Optional(),
+                    new o.SkipSelf(),
+                    c
+                ]],
                 useFactory: g
             };
             let f = (() => {
@@ -7944,9 +7946,9 @@
                     }, null),
                     t['ɵprd'](2048, null, a.d, null, [a.k]),
                     t['ɵdid'](4, 16384, null, 0, a.r, [[
-                            6,
-                            a.d
-                        ]], null, null),
+                        6,
+                        a.d
+                    ]], null, null),
                     t['ɵdid'](5, 671744, null, 0, i.b, [
                         s.a,
                         t.ElementRef,
@@ -7958,17 +7960,17 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](6, 0, null, null, 38, 'div', [[
-                            'class',
-                            'row'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](7, 0, null, null, 18, 'div', [[
-                            'class',
-                            'col-xl-6'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-6'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](8, 0, null, null, 17, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](9, 0, null, null, 16, 'nz-form-item', [], [
                         [
                             2,
@@ -8057,13 +8059,13 @@
                     (n()(), t['ɵeld'](12, 0, null, 0, 1, 'label', [], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['Empresa '])),
                     (n()(), t['ɵeld'](14, 0, null, 0, 11, 'nz-form-control', [[
-                            'nzHasFeedback',
-                            ''
-                        ]], [[
-                            4,
-                            'flex',
-                            null
-                        ]], null, null, r.d, r.a)),
+                        'nzHasFeedback',
+                        ''
+                    ]], [[
+                        4,
+                        'flex',
+                        null
+                    ]], null, null, r.d, r.a)),
                     t['ɵdid'](15, 4931584, null, 0, d.a, [
                         t.ElementRef,
                         [
@@ -8238,13 +8240,13 @@
                         ]
                     }, null),
                     t['ɵprd'](2048, [[
-                            1,
-                            4
-                        ]], a.p, null, [a.i]),
+                        1,
+                        4
+                    ]], a.p, null, [a.i]),
                     t['ɵdid'](23, 16384, null, 0, a.q, [[
-                            4,
-                            a.p
-                        ]], null, null),
+                        4,
+                        a.p
+                    ]], null, null),
                     t['ɵdid'](24, 737280, null, 0, v.a, [
                         [
                             6,
@@ -8254,17 +8256,17 @@
                         t.ElementRef
                     ], null, null),
                     (n()(), t['ɵand'](0, [[
-                            'errBusinessName',
-                            2
-                        ]], 0, 0, null, T)),
+                        'errBusinessName',
+                        2
+                    ]], 0, 0, null, T)),
                     (n()(), t['ɵeld'](26, 0, null, null, 18, 'div', [[
-                            'class',
-                            'col-xl-6'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-6'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](27, 0, null, null, 17, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](28, 0, null, null, 16, 'nz-form-item', [], [
                         [
                             2,
@@ -8353,13 +8355,13 @@
                     (n()(), t['ɵeld'](31, 0, null, 0, 1, 'label', [], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['RFC '])),
                     (n()(), t['ɵeld'](33, 0, null, 0, 11, 'nz-form-control', [[
-                            'nzHasFeedback',
-                            ''
-                        ]], [[
-                            4,
-                            'flex',
-                            null
-                        ]], null, null, r.d, r.a)),
+                        'nzHasFeedback',
+                        ''
+                    ]], [[
+                        4,
+                        'flex',
+                        null
+                    ]], null, null, r.d, r.a)),
                     t['ɵdid'](34, 4931584, null, 0, d.a, [
                         t.ElementRef,
                         [
@@ -8530,13 +8532,13 @@
                         ]
                     }, null),
                     t['ɵprd'](2048, [[
-                            2,
-                            4
-                        ]], a.p, null, [a.i]),
+                        2,
+                        4
+                    ]], a.p, null, [a.i]),
                     t['ɵdid'](42, 16384, null, 0, a.q, [[
-                            4,
-                            a.p
-                        ]], null, null),
+                        4,
+                        a.p
+                    ]], null, null),
                     t['ɵdid'](43, 737280, null, 0, v.a, [
                         [
                             6,
@@ -8546,21 +8548,21 @@
                         t.ElementRef
                     ], null, null),
                     (n()(), t['ɵand'](0, [[
-                            'errRfc',
-                            2
-                        ]], 0, 0, null, N)),
+                        'errRfc',
+                        2
+                    ]], 0, 0, null, N)),
                     (n()(), t['ɵeld'](45, 0, null, null, 38, 'div', [[
-                            'class',
-                            'row'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](46, 0, null, null, 18, 'div', [[
-                            'class',
-                            'col-xl-6'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-6'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](47, 0, null, null, 17, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](48, 0, null, null, 16, 'nz-form-item', [], [
                         [
                             2,
@@ -8649,13 +8651,13 @@
                     (n()(), t['ɵeld'](51, 0, null, 0, 1, 'label', [], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['Correo '])),
                     (n()(), t['ɵeld'](53, 0, null, 0, 11, 'nz-form-control', [[
-                            'nzHasFeedback',
-                            ''
-                        ]], [[
-                            4,
-                            'flex',
-                            null
-                        ]], null, null, r.d, r.a)),
+                        'nzHasFeedback',
+                        ''
+                    ]], [[
+                        4,
+                        'flex',
+                        null
+                    ]], null, null, r.d, r.a)),
                     t['ɵdid'](54, 4931584, null, 0, d.a, [
                         t.ElementRef,
                         [
@@ -8826,13 +8828,13 @@
                         ]
                     }, null),
                     t['ɵprd'](2048, [[
-                            3,
-                            4
-                        ]], a.p, null, [a.i]),
+                        3,
+                        4
+                    ]], a.p, null, [a.i]),
                     t['ɵdid'](62, 16384, null, 0, a.q, [[
-                            4,
-                            a.p
-                        ]], null, null),
+                        4,
+                        a.p
+                    ]], null, null),
                     t['ɵdid'](63, 737280, null, 0, v.a, [
                         [
                             6,
@@ -8842,17 +8844,17 @@
                         t.ElementRef
                     ], null, null),
                     (n()(), t['ɵand'](0, [[
-                            'errEmail',
-                            2
-                        ]], 0, 0, null, F)),
+                        'errEmail',
+                        2
+                    ]], 0, 0, null, F)),
                     (n()(), t['ɵeld'](65, 0, null, null, 18, 'div', [[
-                            'class',
-                            'col-xl-6'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-6'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](66, 0, null, null, 17, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](67, 0, null, null, 16, 'nz-form-item', [], [
                         [
                             2,
@@ -8941,13 +8943,13 @@
                     (n()(), t['ɵeld'](70, 0, null, 0, 1, 'label', [], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['Confirmación de Correo '])),
                     (n()(), t['ɵeld'](72, 0, null, 0, 11, 'nz-form-control', [[
-                            'nzHasFeedback',
-                            ''
-                        ]], [[
-                            4,
-                            'flex',
-                            null
-                        ]], null, null, r.d, r.a)),
+                        'nzHasFeedback',
+                        ''
+                    ]], [[
+                        4,
+                        'flex',
+                        null
+                    ]], null, null, r.d, r.a)),
                     t['ɵdid'](73, 4931584, null, 0, d.a, [
                         t.ElementRef,
                         [
@@ -9118,13 +9120,13 @@
                         ]
                     }, null),
                     t['ɵprd'](2048, [[
-                            4,
-                            4
-                        ]], a.p, null, [a.i]),
+                        4,
+                        4
+                    ]], a.p, null, [a.i]),
                     t['ɵdid'](81, 16384, null, 0, a.q, [[
-                            4,
-                            a.p
-                        ]], null, null),
+                        4,
+                        a.p
+                    ]], null, null),
                     t['ɵdid'](82, 737280, null, 0, v.a, [
                         [
                             6,
@@ -9134,21 +9136,21 @@
                         t.ElementRef
                     ], null, null),
                     (n()(), t['ɵand'](0, [[
-                            'errEmailConfir',
-                            2
-                        ]], 0, 0, null, L)),
+                        'errEmailConfir',
+                        2
+                    ]], 0, 0, null, L)),
                     (n()(), t['ɵeld'](84, 0, null, null, 57, 'div', [[
-                            'class',
-                            'row'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](85, 0, null, null, 42, 'div', [[
-                            'class',
-                            'col-xl-6'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-6'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](86, 0, null, null, 41, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](87, 0, null, null, 40, 'nz-form-item', [], [
                         [
                             2,
@@ -9235,9 +9237,9 @@
                         t.ChangeDetectorRef
                     ], null, null),
                     (n()(), t['ɵeld'](90, 0, null, 0, 6, 'label', [[
-                            'matTooltip',
-                            'This is the tooltip message'
-                        ]], null, null, null, null, null)),
+                        'matTooltip',
+                        'This is the tooltip message'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['Contraseña '])),
                     (n()(), t['ɵeld'](92, 16777216, null, null, 4, 'i', [
                         [
@@ -9310,10 +9312,10 @@
                         t.Renderer2
                     ], null, null),
                     (n()(), t['ɵeld'](97, 0, null, 0, 30, 'nz-form-control', [], [[
-                            4,
-                            'flex',
-                            null
-                        ]], null, null, r.d, r.a)),
+                        4,
+                        'flex',
+                        null
+                    ]], null, null, r.d, r.a)),
                     t['ɵdid'](98, 4931584, null, 0, d.a, [
                         t.ElementRef,
                         [
@@ -9338,9 +9340,9 @@
                     ], null, null),
                     t['ɵqud'](603979776, 5, { defaultValidateControl: 0 }),
                     (n()(), t['ɵeld'](101, 0, null, 0, 1, 'ce-password', [[
-                            'formName',
-                            'password'
-                        ]], null, null, null, w.b, w.a)),
+                        'formName',
+                        'password'
+                    ]], null, null, null, w.b, w.a)),
                     t['ɵdid'](102, 114688, null, 0, I.a, [], {
                         formName: [
                             0,
@@ -9352,9 +9354,9 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](103, 0, null, 0, 4, 'label', [[
-                            'class',
-                            'font-weight-bold'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'font-weight-bold'
+                    ]], null, null, null, null, null)),
                     t['ɵdid'](104, 278528, null, 0, o.NgClass, [
                         t.IterableDiffers,
                         t.KeyValueDiffers,
@@ -9371,18 +9373,18 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](105, 0, null, null, 1, 'i', [[
-                            'class',
-                            'material-icons'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'material-icons'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](106, null, [
                         '',
                         ''
                     ])),
                     (n()(), t['ɵted'](-1, null, [' Utiliza al menos un número '])),
                     (n()(), t['ɵeld'](108, 0, null, 0, 4, 'label', [[
-                            'class',
-                            'font-weight-bold'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'font-weight-bold'
+                    ]], null, null, null, null, null)),
                     t['ɵdid'](109, 278528, null, 0, o.NgClass, [
                         t.IterableDiffers,
                         t.KeyValueDiffers,
@@ -9399,18 +9401,18 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](110, 0, null, null, 1, 'i', [[
-                            'class',
-                            'material-icons'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'material-icons'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](111, null, [
                         '',
                         ''
                     ])),
                     (n()(), t['ɵted'](-1, null, [' Utiliza al menos una letra mayúscula '])),
                     (n()(), t['ɵeld'](113, 0, null, 0, 4, 'label', [[
-                            'class',
-                            'font-weight-bold'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'font-weight-bold'
+                    ]], null, null, null, null, null)),
                     t['ɵdid'](114, 278528, null, 0, o.NgClass, [
                         t.IterableDiffers,
                         t.KeyValueDiffers,
@@ -9427,18 +9429,18 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](115, 0, null, null, 1, 'i', [[
-                            'class',
-                            'material-icons'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'material-icons'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](116, null, [
                         '',
                         ' '
                     ])),
                     (n()(), t['ɵted'](-1, null, [' Utiliza al menos una letra minúscula '])),
                     (n()(), t['ɵeld'](118, 0, null, 0, 4, 'label', [[
-                            'class',
-                            'font-weight-bold'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'font-weight-bold'
+                    ]], null, null, null, null, null)),
                     t['ɵdid'](119, 278528, null, 0, o.NgClass, [
                         t.IterableDiffers,
                         t.KeyValueDiffers,
@@ -9455,18 +9457,18 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](120, 0, null, null, 1, 'i', [[
-                            'class',
-                            'material-icons'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'material-icons'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](121, null, [
                         '',
                         ''
                     ])),
                     (n()(), t['ɵted'](-1, null, [' Utiliza al menos 8 caracteres '])),
                     (n()(), t['ɵeld'](123, 0, null, 0, 4, 'label', [[
-                            'class',
-                            'font-weight-bold'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'font-weight-bold'
+                    ]], null, null, null, null, null)),
                     t['ɵdid'](124, 278528, null, 0, o.NgClass, [
                         t.IterableDiffers,
                         t.KeyValueDiffers,
@@ -9483,22 +9485,22 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](125, 0, null, null, 1, 'i', [[
-                            'class',
-                            'material-icons'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'material-icons'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](126, null, [
                         '',
                         ''
                     ])),
                     (n()(), t['ɵted'](-1, null, [' Utiliza menos de 16 caracteres '])),
                     (n()(), t['ɵeld'](128, 0, null, null, 13, 'div', [[
-                            'class',
-                            'col-xl-6'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-6'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](129, 0, null, null, 12, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](130, 0, null, null, 11, 'nz-form-item', [], [
                         [
                             2,
@@ -9587,13 +9589,13 @@
                     (n()(), t['ɵeld'](133, 0, null, 0, 1, 'label', [], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['Confirmar contraseña '])),
                     (n()(), t['ɵeld'](135, 0, null, 0, 6, 'nz-form-control', [[
-                            'nzHasFeedback',
-                            ''
-                        ]], [[
-                            4,
-                            'flex',
-                            null
-                        ]], null, null, r.d, r.a)),
+                        'nzHasFeedback',
+                        ''
+                    ]], [[
+                        4,
+                        'flex',
+                        null
+                    ]], null, null, r.d, r.a)),
                     t['ɵdid'](136, 4931584, null, 0, d.a, [
                         t.ElementRef,
                         [
@@ -9627,9 +9629,9 @@
                     }, null),
                     t['ɵqud'](603979776, 6, { defaultValidateControl: 0 }),
                     (n()(), t['ɵeld'](139, 0, null, 0, 1, 'ce-password', [[
-                            'formName',
-                            'password_confirmation'
-                        ]], null, null, null, w.b, w.a)),
+                        'formName',
+                        'password_confirmation'
+                    ]], null, null, null, w.b, w.a)),
                     t['ɵdid'](140, 114688, null, 0, I.a, [], {
                         formName: [
                             0,
@@ -9641,9 +9643,9 @@
                         ]
                     }, null),
                     (n()(), t['ɵand'](0, [[
-                            'errPasswordConf',
-                            2
-                        ]], 0, 0, null, H))
+                        'errPasswordConf',
+                        2
+                    ]], 0, 0, null, H))
                 ], function (n, l) {
                     var e = l.component;
                     n(l, 2, 0, e.form), n(l, 5, 0, 'vertical'), n(l, 10, 0), n(l, 15, 0), n(l, 16, 0, t['ɵnov'](l, 25), ''), n(l, 21, 0, 'business_name'), n(l, 24, 0), n(l, 29, 0), n(l, 34, 0), n(l, 35, 0, t['ɵnov'](l, 44), ''), n(l, 40, 0, 'RFC'), n(l, 43, 0), n(l, 49, 0), n(l, 54, 0), n(l, 55, 0, t['ɵnov'](l, 64), ''), n(l, 60, 0, 'email'), n(l, 63, 0), n(l, 68, 0), n(l, 73, 0), n(l, 74, 0, t['ɵnov'](l, 83), ''), n(l, 79, 0, 'email_connfir'), n(l, 82, 0), n(l, 88, 0), n(l, 93, 0, 'info-circle'), n(l, 94, 0, t['ɵinlineInterpolate'](1, '', t['ɵunv'](l, 94, 0, t['ɵnov'](l, 95).transform('GENERAL.INDICATIONS_PASS')), ''), ''), n(l, 98, 0), n(l, 99, 0), n(l, 102, 0, 'password', e.form), n(l, 104, 0, 'font-weight-bold', e.form.controls.password.hasError('required') || e.form.controls.password.hasError('hasNumber') ? 'text-danger' : 'text-success'), n(l, 109, 0, 'font-weight-bold', e.form.controls.password.hasError('required') || e.form.controls.password.hasError('hasCapitalCase') ? 'text-danger' : 'text-success'), n(l, 114, 0, 'font-weight-bold', e.form.controls.password.hasError('required') || e.form.controls.password.hasError('hasSmallCase') ? 'text-danger' : 'text-success'), n(l, 119, 0, 'font-weight-bold', e.form.controls.password.hasError('required') || e.form.controls.password.hasError('minlength') ? 'text-danger' : 'text-success'), n(l, 124, 0, 'font-weight-bold', e.form.controls.password.hasError('required') || e.form.controls.password.hasError('minlength') ? 'text-danger' : 'text-success'), n(l, 131, 0), n(l, 136, 0), n(l, 137, 0, t['ɵnov'](l, 141), ''), n(l, 140, 0, 'password_confirmation', e.form);
@@ -10050,42 +10052,42 @@
             }
             function on(n) {
                 return t['ɵvid'](0, [(n()(), t['ɵeld'](0, 0, null, null, 0, 'img', [
-                        [
-                            'style',
-                            'margin-right:5px;'
-                        ],
-                        [
-                            'width',
-                            '20'
-                        ]
-                    ], [
-                        [
-                            8,
-                            'src',
-                            4
-                        ],
-                        [
-                            8,
-                            'alt',
-                            0
-                        ]
-                    ], null, null, null, null))], null, function (n, l) {
+                    [
+                        'style',
+                        'margin-right:5px;'
+                    ],
+                    [
+                        'width',
+                        '20'
+                    ]
+                ], [
+                    [
+                        8,
+                        'src',
+                        4
+                    ],
+                    [
+                        8,
+                        'alt',
+                        0
+                    ]
+                ], null, null, null, null))], null, function (n, l) {
                     n(l, 0, 0, l.parent.context.$implicit.image, l.parent.context.$implicit.name);
                 });
             }
             function sn(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 4, 'nz-option', [[
-                            'nzCustomContent',
-                            ''
-                        ]], null, null, null, B.c, B.a)),
+                        'nzCustomContent',
+                        ''
+                    ]], null, null, null, B.c, B.a)),
                     t['ɵdid'](1, 770048, [[
-                            7,
-                            4
-                        ]], 0, U.a, [[
-                            2,
-                            U.c
-                        ]], {
+                        7,
+                        4
+                    ]], 0, U.a, [[
+                        2,
+                        U.c
+                    ]], {
                         nzLabel: [
                             0,
                             'nzLabel'
@@ -10290,9 +10292,9 @@
                     }, null),
                     t['ɵprd'](2048, null, a.d, null, [a.k]),
                     t['ɵdid'](4, 16384, null, 0, a.r, [[
-                            6,
-                            a.d
-                        ]], null, null),
+                        6,
+                        a.d
+                    ]], null, null),
                     t['ɵdid'](5, 671744, null, 0, i.b, [
                         s.a,
                         t.ElementRef,
@@ -10304,17 +10306,17 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](6, 0, null, null, 38, 'div', [[
-                            'class',
-                            'row'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](7, 0, null, null, 18, 'div', [[
-                            'class',
-                            'col-xl-6'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-6'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](8, 0, null, null, 17, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](9, 0, null, null, 16, 'nz-form-item', [], [
                         [
                             2,
@@ -10403,13 +10405,13 @@
                     (n()(), t['ɵeld'](12, 0, null, 0, 1, 'label', [], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['Nombre(s) '])),
                     (n()(), t['ɵeld'](14, 0, null, 0, 11, 'nz-form-control', [[
-                            'nzHasFeedback',
-                            ''
-                        ]], [[
-                            4,
-                            'flex',
-                            null
-                        ]], null, null, r.d, r.a)),
+                        'nzHasFeedback',
+                        ''
+                    ]], [[
+                        4,
+                        'flex',
+                        null
+                    ]], null, null, r.d, r.a)),
                     t['ɵdid'](15, 4931584, null, 0, d.a, [
                         t.ElementRef,
                         [
@@ -10580,13 +10582,13 @@
                         ]
                     }, null),
                     t['ɵprd'](2048, [[
-                            1,
-                            4
-                        ]], a.p, null, [a.i]),
+                        1,
+                        4
+                    ]], a.p, null, [a.i]),
                     t['ɵdid'](23, 16384, null, 0, a.q, [[
-                            4,
-                            a.p
-                        ]], null, null),
+                        4,
+                        a.p
+                    ]], null, null),
                     t['ɵdid'](24, 737280, null, 0, v.a, [
                         [
                             6,
@@ -10596,17 +10598,17 @@
                         t.ElementRef
                     ], null, null),
                     (n()(), t['ɵand'](0, [[
-                            'errName',
-                            2
-                        ]], 0, 0, null, Q)),
+                        'errName',
+                        2
+                    ]], 0, 0, null, Q)),
                     (n()(), t['ɵeld'](26, 0, null, null, 18, 'div', [[
-                            'class',
-                            'col-xl-6'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-6'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](27, 0, null, null, 17, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](28, 0, null, null, 16, 'nz-form-item', [], [
                         [
                             2,
@@ -10695,13 +10697,13 @@
                     (n()(), t['ɵeld'](31, 0, null, 0, 1, 'label', [], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['Apellidos '])),
                     (n()(), t['ɵeld'](33, 0, null, 0, 11, 'nz-form-control', [[
-                            'nzHasFeedback',
-                            ''
-                        ]], [[
-                            4,
-                            'flex',
-                            null
-                        ]], null, null, r.d, r.a)),
+                        'nzHasFeedback',
+                        ''
+                    ]], [[
+                        4,
+                        'flex',
+                        null
+                    ]], null, null, r.d, r.a)),
                     t['ɵdid'](34, 4931584, null, 0, d.a, [
                         t.ElementRef,
                         [
@@ -10872,13 +10874,13 @@
                         ]
                     }, null),
                     t['ɵprd'](2048, [[
-                            2,
-                            4
-                        ]], a.p, null, [a.i]),
+                        2,
+                        4
+                    ]], a.p, null, [a.i]),
                     t['ɵdid'](42, 16384, null, 0, a.q, [[
-                            4,
-                            a.p
-                        ]], null, null),
+                        4,
+                        a.p
+                    ]], null, null),
                     t['ɵdid'](43, 737280, null, 0, v.a, [
                         [
                             6,
@@ -10888,21 +10890,21 @@
                         t.ElementRef
                     ], null, null),
                     (n()(), t['ɵand'](0, [[
-                            'errLastName',
-                            2
-                        ]], 0, 0, null, nn)),
+                        'errLastName',
+                        2
+                    ]], 0, 0, null, nn)),
                     (n()(), t['ɵeld'](45, 0, null, null, 38, 'div', [[
-                            'class',
-                            'row'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](46, 0, null, null, 18, 'div', [[
-                            'class',
-                            'col-xl-6'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-6'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](47, 0, null, null, 17, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](48, 0, null, null, 16, 'nz-form-item', [], [
                         [
                             2,
@@ -10991,13 +10993,13 @@
                     (n()(), t['ɵeld'](51, 0, null, 0, 1, 'label', [], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['Correo '])),
                     (n()(), t['ɵeld'](53, 0, null, 0, 11, 'nz-form-control', [[
-                            'nzHasFeedback',
-                            ''
-                        ]], [[
-                            4,
-                            'flex',
-                            null
-                        ]], null, null, r.d, r.a)),
+                        'nzHasFeedback',
+                        ''
+                    ]], [[
+                        4,
+                        'flex',
+                        null
+                    ]], null, null, r.d, r.a)),
                     t['ɵdid'](54, 4931584, null, 0, d.a, [
                         t.ElementRef,
                         [
@@ -11168,13 +11170,13 @@
                         ]
                     }, null),
                     t['ɵprd'](2048, [[
-                            3,
-                            4
-                        ]], a.p, null, [a.i]),
+                        3,
+                        4
+                    ]], a.p, null, [a.i]),
                     t['ɵdid'](62, 16384, null, 0, a.q, [[
-                            4,
-                            a.p
-                        ]], null, null),
+                        4,
+                        a.p
+                    ]], null, null),
                     t['ɵdid'](63, 737280, null, 0, v.a, [
                         [
                             6,
@@ -11184,17 +11186,17 @@
                         t.ElementRef
                     ], null, null),
                     (n()(), t['ɵand'](0, [[
-                            'errEmail',
-                            2
-                        ]], 0, 0, null, en)),
+                        'errEmail',
+                        2
+                    ]], 0, 0, null, en)),
                     (n()(), t['ɵeld'](65, 0, null, null, 18, 'div', [[
-                            'class',
-                            'col-xl-6'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-6'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](66, 0, null, null, 17, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](67, 0, null, null, 16, 'nz-form-item', [], [
                         [
                             2,
@@ -11283,13 +11285,13 @@
                     (n()(), t['ɵeld'](70, 0, null, 0, 1, 'label', [], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['Confirmación de Correo '])),
                     (n()(), t['ɵeld'](72, 0, null, 0, 11, 'nz-form-control', [[
-                            'nzHasFeedback',
-                            ''
-                        ]], [[
-                            4,
-                            'flex',
-                            null
-                        ]], null, null, r.d, r.a)),
+                        'nzHasFeedback',
+                        ''
+                    ]], [[
+                        4,
+                        'flex',
+                        null
+                    ]], null, null, r.d, r.a)),
                     t['ɵdid'](73, 4931584, null, 0, d.a, [
                         t.ElementRef,
                         [
@@ -11460,13 +11462,13 @@
                         ]
                     }, null),
                     t['ɵprd'](2048, [[
-                            4,
-                            4
-                        ]], a.p, null, [a.i]),
+                        4,
+                        4
+                    ]], a.p, null, [a.i]),
                     t['ɵdid'](81, 16384, null, 0, a.q, [[
-                            4,
-                            a.p
-                        ]], null, null),
+                        4,
+                        a.p
+                    ]], null, null),
                     t['ɵdid'](82, 737280, null, 0, v.a, [
                         [
                             6,
@@ -11476,21 +11478,21 @@
                         t.ElementRef
                     ], null, null),
                     (n()(), t['ɵand'](0, [[
-                            'errEmailconnfir',
-                            2
-                        ]], 0, 0, null, an)),
+                        'errEmailconnfir',
+                        2
+                    ]], 0, 0, null, an)),
                     (n()(), t['ɵeld'](84, 0, null, null, 35, 'div', [[
-                            'class',
-                            'row'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](85, 0, null, null, 34, 'div', [[
-                            'class',
-                            'col-xl-6'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-6'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](86, 0, null, null, 33, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](87, 0, null, null, 32, 'nz-form-item', [], [
                         [
                             2,
@@ -11589,13 +11591,13 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](94, 0, null, 0, 25, 'nz-form-control', [[
-                            'nzHasFeedback',
-                            ''
-                        ]], [[
-                            4,
-                            'flex',
-                            null
-                        ]], null, null, r.d, r.a)),
+                        'nzHasFeedback',
+                        ''
+                    ]], [[
+                        4,
+                        'flex',
+                        null
+                    ]], null, null, r.d, r.a)),
                     t['ɵdid'](95, 4931584, null, 0, d.a, [
                         t.ElementRef,
                         [
@@ -11633,9 +11635,9 @@
                     }, null),
                     t['ɵqud'](603979776, 5, { defaultValidateControl: 0 }),
                     (n()(), t['ɵeld'](98, 0, null, 0, 20, 'nz-input-group', [[
-                            'nzCompact',
-                            ''
-                        ]], [
+                        'nzCompact',
+                        ''
+                    ]], [
                         [
                             2,
                             'ant-input-group-compact',
@@ -11841,9 +11843,9 @@
                             null
                         ]
                     ], [[
-                            null,
-                            'click'
-                        ]], function (n, l, e) {
+                        null,
+                        'click'
+                    ]], function (n, l, e) {
                         var a = !0;
                         return 'click' === l && (a = !1 !== t['ɵnov'](n, 103).onHostClick() && a), a;
                     }, B.d, B.b)),
@@ -11896,13 +11898,13 @@
                         ]
                     }, null),
                     t['ɵprd'](2048, [[
-                            5,
-                            4
-                        ]], a.p, null, [a.i]),
+                        5,
+                        4
+                    ]], a.p, null, [a.i]),
                     t['ɵdid'](109, 16384, null, 0, a.q, [[
-                            4,
-                            a.p
-                        ]], null, null),
+                        4,
+                        a.p
+                    ]], null, null),
                     (n()(), t['ɵand'](16777216, null, null, 1, null, sn)),
                     t['ɵdid'](111, 278528, null, 0, o.NgForOf, [
                         t.ViewContainerRef,
@@ -12056,17 +12058,17 @@
                         ]
                     }, null),
                     t['ɵprd'](2048, [[
-                            5,
-                            4
-                        ]], a.p, null, [a.i]),
+                        5,
+                        4
+                    ]], a.p, null, [a.i]),
                     t['ɵdid'](117, 16384, null, 0, a.q, [[
-                            4,
-                            a.p
-                        ]], null, null),
+                        4,
+                        a.p
+                    ]], null, null),
                     t['ɵdid'](118, 737280, [[
-                            6,
-                            4
-                        ]], 0, v.a, [
+                        6,
+                        4
+                    ]], 0, v.a, [
                         [
                             6,
                             a.p
@@ -12075,21 +12077,21 @@
                         t.ElementRef
                     ], null, null),
                     (n()(), t['ɵand'](0, [[
-                            'errMobile',
-                            2
-                        ]], 0, 0, null, dn)),
+                        'errMobile',
+                        2
+                    ]], 0, 0, null, dn)),
                     (n()(), t['ɵeld'](120, 0, null, null, 57, 'div', [[
-                            'class',
-                            'row'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](121, 0, null, null, 42, 'div', [[
-                            'class',
-                            'col-xl-6'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-6'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](122, 0, null, null, 41, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](123, 0, null, null, 40, 'nz-form-item', [], [
                         [
                             2,
@@ -12178,10 +12180,10 @@
                     (n()(), t['ɵeld'](126, 0, null, 0, 1, 'label', [], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['Contraseña '])),
                     (n()(), t['ɵeld'](128, 0, null, 0, 5, 'nz-form-control', [], [[
-                            4,
-                            'flex',
-                            null
-                        ]], null, null, r.d, r.a)),
+                        4,
+                        'flex',
+                        null
+                    ]], null, null, r.d, r.a)),
                     t['ɵdid'](129, 4931584, null, 0, d.a, [
                         t.ElementRef,
                         [
@@ -12206,9 +12208,9 @@
                     ], null, null),
                     t['ɵqud'](603979776, 9, { defaultValidateControl: 0 }),
                     (n()(), t['ɵeld'](132, 0, null, 0, 1, 'ce-password', [[
-                            'formName',
-                            'password'
-                        ]], null, null, null, w.b, w.a)),
+                        'formName',
+                        'password'
+                    ]], null, null, null, w.b, w.a)),
                     t['ɵdid'](133, 114688, null, 0, I.a, [], {
                         formName: [
                             0,
@@ -12220,9 +12222,9 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](134, 0, null, 0, 4, 'label', [[
-                            'class',
-                            'font-weight-bold'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'font-weight-bold'
+                    ]], null, null, null, null, null)),
                     t['ɵdid'](135, 278528, null, 0, o.NgClass, [
                         t.IterableDiffers,
                         t.KeyValueDiffers,
@@ -12239,18 +12241,18 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](136, 0, null, null, 1, 'i', [[
-                            'class',
-                            'material-icons'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'material-icons'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](137, null, [
                         '',
                         ''
                     ])),
                     (n()(), t['ɵted'](-1, null, [' Utiliza al menos un número '])),
                     (n()(), t['ɵeld'](139, 0, null, 0, 4, 'label', [[
-                            'class',
-                            'font-weight-bold'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'font-weight-bold'
+                    ]], null, null, null, null, null)),
                     t['ɵdid'](140, 278528, null, 0, o.NgClass, [
                         t.IterableDiffers,
                         t.KeyValueDiffers,
@@ -12267,18 +12269,18 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](141, 0, null, null, 1, 'i', [[
-                            'class',
-                            'material-icons'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'material-icons'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](142, null, [
                         '',
                         ''
                     ])),
                     (n()(), t['ɵted'](-1, null, [' Utiliza al menos una letra mayúscula '])),
                     (n()(), t['ɵeld'](144, 0, null, 0, 4, 'label', [[
-                            'class',
-                            'font-weight-bold'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'font-weight-bold'
+                    ]], null, null, null, null, null)),
                     t['ɵdid'](145, 278528, null, 0, o.NgClass, [
                         t.IterableDiffers,
                         t.KeyValueDiffers,
@@ -12295,18 +12297,18 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](146, 0, null, null, 1, 'i', [[
-                            'class',
-                            'material-icons'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'material-icons'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](147, null, [
                         '',
                         ' '
                     ])),
                     (n()(), t['ɵted'](-1, null, [' Utiliza al menos una letra minúscula '])),
                     (n()(), t['ɵeld'](149, 0, null, 0, 4, 'label', [[
-                            'class',
-                            'font-weight-bold'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'font-weight-bold'
+                    ]], null, null, null, null, null)),
                     t['ɵdid'](150, 278528, null, 0, o.NgClass, [
                         t.IterableDiffers,
                         t.KeyValueDiffers,
@@ -12323,18 +12325,18 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](151, 0, null, null, 1, 'i', [[
-                            'class',
-                            'material-icons'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'material-icons'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](152, null, [
                         '',
                         ''
                     ])),
                     (n()(), t['ɵted'](-1, null, [' Utiliza al menos un carácter especial. '])),
                     (n()(), t['ɵeld'](154, 0, null, 0, 4, 'label', [[
-                            'class',
-                            'font-weight-bold'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'font-weight-bold'
+                    ]], null, null, null, null, null)),
                     t['ɵdid'](155, 278528, null, 0, o.NgClass, [
                         t.IterableDiffers,
                         t.KeyValueDiffers,
@@ -12351,18 +12353,18 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](156, 0, null, null, 1, 'i', [[
-                            'class',
-                            'material-icons'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'material-icons'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](157, null, [
                         '',
                         ''
                     ])),
                     (n()(), t['ɵted'](-1, null, [' Utiliza al menos 8 caracteres '])),
                     (n()(), t['ɵeld'](159, 0, null, 0, 4, 'label', [[
-                            'class',
-                            'font-weight-bold'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'font-weight-bold'
+                    ]], null, null, null, null, null)),
                     t['ɵdid'](160, 278528, null, 0, o.NgClass, [
                         t.IterableDiffers,
                         t.KeyValueDiffers,
@@ -12379,22 +12381,22 @@
                         ]
                     }, null),
                     (n()(), t['ɵeld'](161, 0, null, null, 1, 'i', [[
-                            'class',
-                            'material-icons'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'material-icons'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](162, null, [
                         '',
                         ''
                     ])),
                     (n()(), t['ɵted'](-1, null, [' Utiliza menos de 16 caracteres '])),
                     (n()(), t['ɵeld'](164, 0, null, null, 13, 'div', [[
-                            'class',
-                            'col-xl-6'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-6'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](165, 0, null, null, 12, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](166, 0, null, null, 11, 'nz-form-item', [], [
                         [
                             2,
@@ -12483,13 +12485,13 @@
                     (n()(), t['ɵeld'](169, 0, null, 0, 1, 'label', [], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['Confirmar contraseña '])),
                     (n()(), t['ɵeld'](171, 0, null, 0, 6, 'nz-form-control', [[
-                            'nzHasFeedback',
-                            ''
-                        ]], [[
-                            4,
-                            'flex',
-                            null
-                        ]], null, null, r.d, r.a)),
+                        'nzHasFeedback',
+                        ''
+                    ]], [[
+                        4,
+                        'flex',
+                        null
+                    ]], null, null, r.d, r.a)),
                     t['ɵdid'](172, 4931584, null, 0, d.a, [
                         t.ElementRef,
                         [
@@ -12523,9 +12525,9 @@
                     }, null),
                     t['ɵqud'](603979776, 10, { defaultValidateControl: 0 }),
                     (n()(), t['ɵeld'](175, 0, null, 0, 1, 'ce-password', [[
-                            'formName',
-                            'password_confirmation'
-                        ]], null, null, null, w.b, w.a)),
+                        'formName',
+                        'password_confirmation'
+                    ]], null, null, null, w.b, w.a)),
                     t['ɵdid'](176, 114688, null, 0, I.a, [], {
                         formName: [
                             0,
@@ -12537,9 +12539,9 @@
                         ]
                     }, null),
                     (n()(), t['ɵand'](0, [[
-                            'errPasswordConf',
-                            2
-                        ]], 0, 0, null, gn))
+                        'errPasswordConf',
+                        2
+                    ]], 0, 0, null, gn))
                 ], function (n, l) {
                     var e = l.component;
                     n(l, 2, 0, e.form), n(l, 5, 0, 'vertical'), n(l, 10, 0), n(l, 15, 0), n(l, 16, 0, t['ɵnov'](l, 25), ''), n(l, 21, 0, 'name'), n(l, 24, 0), n(l, 29, 0), n(l, 34, 0), n(l, 35, 0, t['ɵnov'](l, 44), ''), n(l, 40, 0, 'last_name'), n(l, 43, 0), n(l, 49, 0), n(l, 54, 0), n(l, 55, 0, t['ɵnov'](l, 64), ''), n(l, 60, 0, 'email'), n(l, 63, 0), n(l, 68, 0), n(l, 73, 0), n(l, 74, 0, t['ɵnov'](l, 83), ''), n(l, 79, 0, 'email_connfir'), n(l, 82, 0), n(l, 88, 0), n(l, 93, 0, e.inConfirmCodePhone), n(l, 95, 0), n(l, 96, 0, t['ɵnov'](l, 119), '', e.form.controls.mobile), n(l, 99, 0, ''), n(l, 103, 0, 'Código'), n(l, 107, 0, 'code'), n(l, 111, 0, e.countryOptions), n(l, 115, 0, 'mobile'), n(l, 118, 0), n(l, 124, 0), n(l, 129, 0), n(l, 130, 0), n(l, 133, 0, 'password', e.form), n(l, 135, 0, 'font-weight-bold', e.form.controls.password.hasError('required') || e.form.controls.password.hasError('hasNumber') ? 'text-danger' : 'text-success'), n(l, 140, 0, 'font-weight-bold', e.form.controls.password.hasError('required') || e.form.controls.password.hasError('hasCapitalCase') ? 'text-danger' : 'text-success'), n(l, 145, 0, 'font-weight-bold', e.form.controls.password.hasError('required') || e.form.controls.password.hasError('hasSmallCase') ? 'text-danger' : 'text-success'), n(l, 150, 0, 'font-weight-bold', e.form.controls.password.hasError('required') || e.form.controls.password.hasError('hasSpecialCharacters') ? 'text-danger' : 'text-success'), n(l, 155, 0, 'font-weight-bold', e.form.controls.password.hasError('required') || e.form.controls.password.hasError('minlength') ? 'text-danger' : 'text-success'), n(l, 160, 0, 'font-weight-bold', e.form.controls.password.hasError('required') || e.form.controls.password.hasError('minlength') ? 'text-danger' : 'text-success'), n(l, 167, 0), n(l, 172, 0), n(l, 173, 0, t['ɵnov'](l, 177), ''), n(l, 176, 0, 'password_confirmation', e.form);
@@ -12755,10 +12757,10 @@
                 });
             }
             var fn = e('iInd'), vn = e('I6wT'), pn = e('tqRt'), hn = e('Zker'), Cn = t['ɵcrt']({
-                    encapsulation: 0,
-                    styles: [['.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]{display:flex;justify-content:center;align-items:center}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]{display:flex;align-items:center;text-align:center}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]{margin-left:3.5rem;margin-right:3.5rem}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-icon[_ngcontent-%COMP%]{color:#b5b5c3;font-size:3.75rem;filter:brightness(.5) sepia(1) hue-rotate(-70deg) saturate(5)}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-title[_ngcontent-%COMP%]{color:#7e8299;font-size:1.1rem;font-weight:500;margin-top:.75rem}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-arrow[_ngcontent-%COMP%]{color:#7e8299;font-size:1.25rem}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-arrow.last[_ngcontent-%COMP%]{display:none}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=current][_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-icon[_ngcontent-%COMP%], .wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=done][_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-icon[_ngcontent-%COMP%]{color:#226298;filter:none}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=current][_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-icon[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%]   g[_ngcontent-%COMP%]   [fill][_ngcontent-%COMP%], .wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=done][_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-icon[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%]   g[_ngcontent-%COMP%]   [fill][_ngcontent-%COMP%]{transition:fill .3s ease;fill:#ed553b}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=current][_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-icon[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%]:hover   g[_ngcontent-%COMP%]   [fill][_ngcontent-%COMP%], .wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=done][_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-icon[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%]:hover   g[_ngcontent-%COMP%]   [fill][_ngcontent-%COMP%]{transition:fill .3s ease}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=current][_ngcontent-%COMP%]   .wizard-arrow[_ngcontent-%COMP%], .wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=current][_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-title[_ngcontent-%COMP%], .wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=done][_ngcontent-%COMP%]   .wizard-arrow[_ngcontent-%COMP%], .wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=done][_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-title[_ngcontent-%COMP%]{color:#226298}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=current][_ngcontent-%COMP%]   .wizard-arrow[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%]   g[_ngcontent-%COMP%]   [fill][_ngcontent-%COMP%], .wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=done][_ngcontent-%COMP%]   .wizard-arrow[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%]   g[_ngcontent-%COMP%]   [fill][_ngcontent-%COMP%]{transition:fill .3s ease;fill:#ed553b}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=current][_ngcontent-%COMP%]   .wizard-arrow[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%]:hover   g[_ngcontent-%COMP%]   [fill][_ngcontent-%COMP%], .wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=done][_ngcontent-%COMP%]   .wizard-arrow[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%]:hover   g[_ngcontent-%COMP%]   [fill][_ngcontent-%COMP%]{transition:fill .3s ease}@media (min-width:768px) and (max-width:1199.98px){.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]{margin-left:1.5rem;margin-right:1.5rem}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-icon[_ngcontent-%COMP%]{font-size:3.75rem}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-title[_ngcontent-%COMP%]{margin-top:.75rem}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-arrow[_ngcontent-%COMP%]{font-size:1.1rem}}@media (max-width:767.98px){.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]{flex-direction:column}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]{width:100%;flex-direction:row;justify-content:space-between;margin-bottom:.5rem;margin-top:.5rem}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]{flex-direction:row;display:flex;align-items:center;margin-left:0;margin-right:0}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-icon[_ngcontent-%COMP%]{font-size:1.5rem;margin-right:1.25rem}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-arrow[_ngcontent-%COMP%]{font-size:1rem}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-arrow.last[_ngcontent-%COMP%]{display:block}}.svg-format[_ngcontent-%COMP%]{display:flex;width:200px;height:200px}.bg-header-auth[_ngcontent-%COMP%]{background-color:#173f5f!important}.custom-step[_ngcontent-%COMP%]{padding:20pt}.navbar-custom[_ngcontent-%COMP%]{text-transform:uppercase;font-size:large;vertical-align:middle}']],
-                    data: {}
-                });
+                encapsulation: 0,
+                styles: [['.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]{display:flex;justify-content:center;align-items:center}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]{display:flex;align-items:center;text-align:center}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]{margin-left:3.5rem;margin-right:3.5rem}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-icon[_ngcontent-%COMP%]{color:#b5b5c3;font-size:3.75rem;filter:brightness(.5) sepia(1) hue-rotate(-70deg) saturate(5)}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-title[_ngcontent-%COMP%]{color:#7e8299;font-size:1.1rem;font-weight:500;margin-top:.75rem}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-arrow[_ngcontent-%COMP%]{color:#7e8299;font-size:1.25rem}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-arrow.last[_ngcontent-%COMP%]{display:none}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=current][_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-icon[_ngcontent-%COMP%], .wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=done][_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-icon[_ngcontent-%COMP%]{color:#226298;filter:none}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=current][_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-icon[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%]   g[_ngcontent-%COMP%]   [fill][_ngcontent-%COMP%], .wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=done][_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-icon[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%]   g[_ngcontent-%COMP%]   [fill][_ngcontent-%COMP%]{transition:fill .3s ease;fill:#ed553b}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=current][_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-icon[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%]:hover   g[_ngcontent-%COMP%]   [fill][_ngcontent-%COMP%], .wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=done][_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-icon[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%]:hover   g[_ngcontent-%COMP%]   [fill][_ngcontent-%COMP%]{transition:fill .3s ease}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=current][_ngcontent-%COMP%]   .wizard-arrow[_ngcontent-%COMP%], .wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=current][_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-title[_ngcontent-%COMP%], .wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=done][_ngcontent-%COMP%]   .wizard-arrow[_ngcontent-%COMP%], .wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=done][_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-title[_ngcontent-%COMP%]{color:#226298}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=current][_ngcontent-%COMP%]   .wizard-arrow[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%]   g[_ngcontent-%COMP%]   [fill][_ngcontent-%COMP%], .wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=done][_ngcontent-%COMP%]   .wizard-arrow[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%]   g[_ngcontent-%COMP%]   [fill][_ngcontent-%COMP%]{transition:fill .3s ease;fill:#ed553b}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=current][_ngcontent-%COMP%]   .wizard-arrow[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%]:hover   g[_ngcontent-%COMP%]   [fill][_ngcontent-%COMP%], .wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[data-wizard-state=done][_ngcontent-%COMP%]   .wizard-arrow[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%]:hover   g[_ngcontent-%COMP%]   [fill][_ngcontent-%COMP%]{transition:fill .3s ease}@media (min-width:768px) and (max-width:1199.98px){.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]{margin-left:1.5rem;margin-right:1.5rem}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-icon[_ngcontent-%COMP%]{font-size:3.75rem}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-title[_ngcontent-%COMP%]{margin-top:.75rem}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-arrow[_ngcontent-%COMP%]{font-size:1.1rem}}@media (max-width:767.98px){.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]{flex-direction:column}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]{width:100%;flex-direction:row;justify-content:space-between;margin-bottom:.5rem;margin-top:.5rem}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]{flex-direction:row;display:flex;align-items:center;margin-left:0;margin-right:0}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-label[_ngcontent-%COMP%]   .wizard-icon[_ngcontent-%COMP%]{font-size:1.5rem;margin-right:1.25rem}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-arrow[_ngcontent-%COMP%]{font-size:1rem}.wizard.wizard-1[_ngcontent-%COMP%]   .wizard-nav[_ngcontent-%COMP%]   .wizard-steps[_ngcontent-%COMP%]   .wizard-step[_ngcontent-%COMP%]   .wizard-arrow.last[_ngcontent-%COMP%]{display:block}}.svg-format[_ngcontent-%COMP%]{display:flex;width:200px;height:200px}.bg-header-auth[_ngcontent-%COMP%]{background-color:#173f5f!important}.custom-step[_ngcontent-%COMP%]{padding:20pt}.navbar-custom[_ngcontent-%COMP%]{text-transform:uppercase;font-size:large;vertical-align:middle}']],
+                data: {}
+            });
             function wn(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 4, 'option', [], null, null, null, null, null)),
@@ -12806,9 +12808,9 @@
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 3, 'div', [], null, null, null, null, null)),
                     (n()(), t['ɵeld'](1, 0, null, null, 2, 'ce-form-user-moral', [], null, [[
-                            null,
-                            'formChange'
-                        ]], function (n, l, e) {
+                        null,
+                        'formChange'
+                    ]], function (n, l, e) {
                         var t = !0;
                         return 'formChange' === l && (t = !1 !== (n.component.userForm = e) && t), t;
                     }, j, E)),
@@ -12836,9 +12838,9 @@
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 3, 'div', [], null, null, null, null, null)),
                     (n()(), t['ɵeld'](1, 0, null, null, 2, 'ce-form-user-physical', [], null, [[
-                            null,
-                            'formChange'
-                        ]], function (n, l, e) {
+                        null,
+                        'formChange'
+                    ]], function (n, l, e) {
                         var t = !0;
                         return 'formChange' === l && (t = !1 !== (n.component.userForm = e) && t), t;
                     }, mn, Y)),
@@ -12865,21 +12867,21 @@
             function bn(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 4, 'div', [[
-                            'class',
-                            'd-flex justify-content-end border-top pt-10'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'd-flex justify-content-end border-top pt-10'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](1, 0, null, null, 3, 'div', [], null, null, null, null, null)),
                     (n()(), t['ɵeld'](2, 0, null, null, 2, 'button', [[
-                            'class',
-                            'btn btn-primary font-weight-bold text-uppercase px-9 py-4 bg-danger'
-                        ]], [[
-                            8,
-                            'disabled',
-                            0
-                        ]], [[
-                            null,
-                            'click'
-                        ]], function (n, l, e) {
+                        'class',
+                        'btn btn-primary font-weight-bold text-uppercase px-9 py-4 bg-danger'
+                    ]], [[
+                        8,
+                        'disabled',
+                        0
+                    ]], [[
+                        null,
+                        'click'
+                    ]], function (n, l, e) {
                         var t = !0;
                         return 'click' === l && (t = !1 !== n.component.register() && t), t;
                     }, null, null)),
@@ -12900,17 +12902,17 @@
                     t['ɵqud'](402653184, 1, { el: 0 }),
                     t['ɵqud'](671088640, 2, { userPhone: 0 }),
                     (n()(), t['ɵeld'](2, 0, null, null, 26, 'nav', [[
-                            'class',
-                            'navbar navbar-expand-lg navbar-dark bg-header-auth'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navbar navbar-expand-lg navbar-dark bg-header-auth'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](3, 0, null, null, 25, 'div', [[
-                            'class',
-                            'container'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'container'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](4, 0, null, null, 4, 'div', [[
-                            'class',
-                            'navbar-header'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navbar-header'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](5, 0, null, null, 3, 'a', [
                         [
                             'class',
@@ -12922,9 +12924,9 @@
                         ]
                     ], null, null, null, null, null)),
                     (n()(), t['ɵeld'](6, 0, null, null, 2, 'a', [[
-                            'routerLink',
-                            '/'
-                        ]], [
+                        'routerLink',
+                        '/'
+                    ]], [
                         [
                             1,
                             'target',
@@ -12936,9 +12938,9 @@
                             4
                         ]
                     ], [[
-                            null,
-                            'click'
-                        ]], function (n, l, e) {
+                        null,
+                        'click'
+                    ]], function (n, l, e) {
                         var a = !0;
                         return 'click' === l && (a = !1 !== t['ɵnov'](n, 7).onClick(e.button, e.ctrlKey, e.shiftKey, e.altKey, e.metaKey) && a), a;
                     }, null, null)),
@@ -12963,13 +12965,13 @@
                         ]
                     ], null, null, null, null, null)),
                     (n()(), t['ɵeld'](9, 0, null, null, 19, 'ul', [[
-                            'class',
-                            'navbar-nav navbar-expand-sm'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'navbar-nav navbar-expand-sm'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](10, 0, null, null, 2, 'li', [[
-                            'class',
-                            'nav-item active'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'nav-item active'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](11, 0, null, null, 1, 'a', [
                         [
                             'class',
@@ -12982,9 +12984,9 @@
                     ], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['HOME'])),
                     (n()(), t['ɵeld'](13, 0, null, null, 2, 'li', [[
-                            'class',
-                            'nav-item  active'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'nav-item  active'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](14, 0, null, null, 1, 'a', [
                         [
                             'class',
@@ -12997,9 +12999,9 @@
                     ], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['FIRMA ELECTRÓNICA'])),
                     (n()(), t['ɵeld'](16, 0, null, null, 2, 'li', [[
-                            'class',
-                            'nav-item active'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'nav-item active'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](17, 0, null, null, 1, 'a', [
                         [
                             'class',
@@ -13012,9 +13014,9 @@
                     ], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['EMPRESA'])),
                     (n()(), t['ɵeld'](19, 0, null, null, 2, 'li', [[
-                            'class',
-                            'nav-item active'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'nav-item active'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](20, 0, null, null, 1, 'a', [
                         [
                             'class',
@@ -13027,9 +13029,9 @@
                     ], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['WORKSTATION'])),
                     (n()(), t['ɵeld'](22, 0, null, null, 2, 'li', [[
-                            'class',
-                            'nav-item active'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'nav-item active'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](23, 0, null, null, 1, 'a', [
                         [
                             'class',
@@ -13042,9 +13044,9 @@
                     ], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['BLOG'])),
                     (n()(), t['ɵeld'](25, 0, null, null, 3, 'li', [[
-                            'class',
-                            'nav-item active'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'nav-item active'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](26, 0, null, null, 2, 'a', [
                         [
                             'class',
@@ -13070,9 +13072,9 @@
                             4
                         ]
                     ], [[
-                            null,
-                            'click'
-                        ]], function (n, l, e) {
+                        null,
+                        'click'
+                    ]], function (n, l, e) {
                         var a = !0;
                         return 'click' === l && (a = !1 !== t['ɵnov'](n, 27).onClick(e.button, e.ctrlKey, e.shiftKey, e.altKey, e.metaKey) && a), a;
                     }, null, null)),
@@ -13088,30 +13090,30 @@
                     }, null),
                     (n()(), t['ɵted'](-1, null, ['Iniciar Sesión'])),
                     (n()(), t['ɵeld'](29, 0, null, null, 30, 'div', [[
-                            'class',
-                            'container mt-5'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'container mt-5'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](30, 0, null, null, 29, 'div', [[
-                            'class',
-                            'card card-custom gutter-b'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'card card-custom gutter-b d-none'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](31, 0, null, null, 3, 'div', [[
-                            'class',
-                            'card-header'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'card-header'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](32, 0, null, null, 2, 'div', [[
-                            'class',
-                            'card-title'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'card-title'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](33, 0, null, null, 1, 'h3', [[
-                            'class',
-                            'card-label'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'card-label'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['Registro'])),
                     (n()(), t['ɵeld'](35, 0, null, null, 24, 'div', [[
-                            'class',
-                            'card-body'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'card-body'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](36, 0, [
                         [
                             1,
@@ -13140,13 +13142,13 @@
                         ]
                     ], null, null, null, null, null)),
                     (n()(), t['ɵeld'](37, 0, null, null, 22, 'div', [[
-                            'class',
-                            'row justify-content-center my-10 px-8 my-lg-15 px-lg-10'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row justify-content-center my-10 px-8 my-lg-15 px-lg-10'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](38, 0, null, null, 21, 'div', [[
-                            'class',
-                            'col-xl-12 col-xxl-7'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-12 col-xxl-7'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](39, 0, null, null, 20, 'div', [
                         [
                             'class',
@@ -13172,23 +13174,23 @@
                         ]
                     ], null, null, null, null, null)),
                     (n()(), t['ɵeld'](41, 0, null, null, 12, 'div', [[
-                            'class',
-                            'row'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'row'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](42, 0, null, null, 11, 'div', [[
-                            'class',
-                            'col-xl-6'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'col-xl-6'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](43, 0, null, null, 10, 'div', [[
-                            'class',
-                            'form-group'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'form-group'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](44, 0, null, null, 1, 'label', [], null, null, null, null, null)),
                     (n()(), t['ɵted'](-1, null, ['Selecciona un tipo de usuario'])),
                     (n()(), t['ɵeld'](46, 0, null, null, 7, 'select', [[
-                            'class',
-                            'form-control '
-                        ]], [
+                        'class',
+                        'form-control '
+                    ]], [
                         [
                             2,
                             'ng-untouched',
@@ -13273,9 +13275,9 @@
                     }, { update: 'ngModelChange' }),
                     t['ɵprd'](2048, null, a.p, null, [a.t]),
                     t['ɵdid'](51, 16384, null, 0, a.q, [[
-                            4,
-                            a.p
-                        ]], null, null),
+                        4,
+                        a.p
+                    ]], null, null),
                     (n()(), t['ɵand'](16777216, null, null, 1, null, wn)),
                     t['ɵdid'](53, 278528, null, 0, o.NgForOf, [
                         t.ViewContainerRef,
@@ -14953,6 +14955,12 @@
                 constructor() {
                 }
                 ngOnInit() {
+                    if (window.location.pathname == '/auth/forgot-password') {
+                        const currentHostName = window.location.hostname
+                        const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2.clegal.com.mx' : 'https://appv2.centinela.app'
+                        window.location.href = `${appv2HostName}/reset-password`
+                    }
+
                 }
             }
         },
@@ -14981,328 +14989,328 @@
             }
             const f = ['*'];
             let v = (() => {
-                    class n {
-                        constructor(n) {
-                            this._elementRef = n;
-                        }
-                        focus() {
-                            this._elementRef.nativeElement.focus();
-                        }
+                class n {
+                    constructor(n) {
+                        this._elementRef = n;
                     }
-                    return n.ɵfac = function (l) {
-                        return new (l || n)(s['ɵɵdirectiveInject'](s.ElementRef));
-                    }, n.ɵdir = s['ɵɵdefineDirective']({
-                        type: n,
-                        selectors: [[
-                                '',
-                                'cdkStepHeader',
-                                ''
-                            ]],
-                        hostAttrs: [
-                            'role',
-                            'tab'
-                        ]
-                    }), n;
-                })(), p = (() => {
-                    class n {
-                        constructor(n) {
-                            this.template = n;
-                        }
+                    focus() {
+                        this._elementRef.nativeElement.focus();
                     }
-                    return n.ɵfac = function (l) {
-                        return new (l || n)(s['ɵɵdirectiveInject'](s.TemplateRef));
-                    }, n.ɵdir = s['ɵɵdefineDirective']({
-                        type: n,
-                        selectors: [[
-                                '',
-                                'cdkStepLabel',
-                                ''
-                            ]]
-                    }), n;
-                })(), h = 0;
+                }
+                return n.ɵfac = function (l) {
+                    return new (l || n)(s['ɵɵdirectiveInject'](s.ElementRef));
+                }, n.ɵdir = s['ɵɵdefineDirective']({
+                    type: n,
+                    selectors: [[
+                        '',
+                        'cdkStepHeader',
+                        ''
+                    ]],
+                    hostAttrs: [
+                        'role',
+                        'tab'
+                    ]
+                }), n;
+            })(), p = (() => {
+                class n {
+                    constructor(n) {
+                        this.template = n;
+                    }
+                }
+                return n.ɵfac = function (l) {
+                    return new (l || n)(s['ɵɵdirectiveInject'](s.TemplateRef));
+                }, n.ɵdir = s['ɵɵdefineDirective']({
+                    type: n,
+                    selectors: [[
+                        '',
+                        'cdkStepLabel',
+                        ''
+                    ]]
+                }), n;
+            })(), h = 0;
             const C = new s.InjectionToken('STEPPER_GLOBAL_OPTIONS');
             let w = (() => {
-                    class n {
-                        constructor(n, l) {
-                            this._stepper = n, this.interacted = !1, this._editable = !0, this._optional = !1, this._completedOverride = null, this._customError = null, this._stepperOptions = l || {}, this._displayDefaultIndicatorType = !1 !== this._stepperOptions.displayDefaultIndicatorType, this._showError = !!this._stepperOptions.showError;
-                        }
-                        get editable() {
-                            return this._editable;
-                        }
-                        set editable(n) {
-                            this._editable = Object(u.c)(n);
-                        }
-                        get optional() {
-                            return this._optional;
-                        }
-                        set optional(n) {
-                            this._optional = Object(u.c)(n);
-                        }
-                        get completed() {
-                            return null == this._completedOverride ? this._getDefaultCompleted() : this._completedOverride;
-                        }
-                        set completed(n) {
-                            this._completedOverride = Object(u.c)(n);
-                        }
-                        _getDefaultCompleted() {
-                            return this.stepControl ? this.stepControl.valid && this.interacted : this.interacted;
-                        }
-                        get hasError() {
-                            return null == this._customError ? this._getDefaultError() : this._customError;
-                        }
-                        set hasError(n) {
-                            this._customError = Object(u.c)(n);
-                        }
-                        _getDefaultError() {
-                            return this.stepControl && this.stepControl.invalid && this.interacted;
-                        }
-                        select() {
-                            this._stepper.selected = this;
-                        }
-                        reset() {
-                            this.interacted = !1, null != this._completedOverride && (this._completedOverride = !1), null != this._customError && (this._customError = !1), this.stepControl && this.stepControl.reset();
-                        }
-                        ngOnChanges() {
-                            this._stepper._stateChanged();
-                        }
+                class n {
+                    constructor(n, l) {
+                        this._stepper = n, this.interacted = !1, this._editable = !0, this._optional = !1, this._completedOverride = null, this._customError = null, this._stepperOptions = l || {}, this._displayDefaultIndicatorType = !1 !== this._stepperOptions.displayDefaultIndicatorType, this._showError = !!this._stepperOptions.showError;
                     }
-                    return n.ɵfac = function (l) {
-                        return new (l || n)(s['ɵɵdirectiveInject'](Object(s.forwardRef)(() => /* Called:undefined | Scope Closed:false| writes:false*/
+                    get editable() {
+                        return this._editable;
+                    }
+                    set editable(n) {
+                        this._editable = Object(u.c)(n);
+                    }
+                    get optional() {
+                        return this._optional;
+                    }
+                    set optional(n) {
+                        this._optional = Object(u.c)(n);
+                    }
+                    get completed() {
+                        return null == this._completedOverride ? this._getDefaultCompleted() : this._completedOverride;
+                    }
+                    set completed(n) {
+                        this._completedOverride = Object(u.c)(n);
+                    }
+                    _getDefaultCompleted() {
+                        return this.stepControl ? this.stepControl.valid && this.interacted : this.interacted;
+                    }
+                    get hasError() {
+                        return null == this._customError ? this._getDefaultError() : this._customError;
+                    }
+                    set hasError(n) {
+                        this._customError = Object(u.c)(n);
+                    }
+                    _getDefaultError() {
+                        return this.stepControl && this.stepControl.invalid && this.interacted;
+                    }
+                    select() {
+                        this._stepper.selected = this;
+                    }
+                    reset() {
+                        this.interacted = !1, null != this._completedOverride && (this._completedOverride = !1), null != this._customError && (this._customError = !1), this.stepControl && this.stepControl.reset();
+                    }
+                    ngOnChanges() {
+                        this._stepper._stateChanged();
+                    }
+                }
+                return n.ɵfac = function (l) {
+                    return new (l || n)(s['ɵɵdirectiveInject'](Object(s.forwardRef)(() => /* Called:undefined | Scope Closed:false| writes:false*/
                         I)), s['ɵɵdirectiveInject'](C, 8));
-                    }, n.ɵcmp = s['ɵɵdefineComponent']({
-                        type: n,
-                        selectors: [['cdk-step']],
-                        contentQueries: function (n, l, e) {
-                            if (1 & n && s['ɵɵcontentQuery'](e, p, !0), 2 & n) {
-                                let n;
-                                s['ɵɵqueryRefresh'](n = s['ɵɵloadQuery']()) && (l.stepLabel = n.first);
-                            }
-                        },
-                        viewQuery: function (n, l) {
-                            if (1 & n && s['ɵɵstaticViewQuery'](s.TemplateRef, !0), 2 & n) {
-                                let n;
-                                s['ɵɵqueryRefresh'](n = s['ɵɵloadQuery']()) && (l.content = n.first);
-                            }
-                        },
-                        inputs: {
-                            editable: 'editable',
-                            optional: 'optional',
-                            completed: 'completed',
-                            hasError: 'hasError',
-                            stepControl: 'stepControl',
-                            label: 'label',
-                            errorMessage: 'errorMessage',
-                            ariaLabel: [
-                                'aria-label',
-                                'ariaLabel'
-                            ],
-                            ariaLabelledby: [
-                                'aria-labelledby',
-                                'ariaLabelledby'
-                            ],
-                            state: 'state'
-                        },
-                        exportAs: ['cdkStep'],
-                        features: [s['ɵɵNgOnChangesFeature']],
-                        ngContentSelectors: f,
-                        decls: 1,
-                        vars: 0,
-                        template: function (n, l) {
-                            1 & n && (s['ɵɵprojectionDef'](), s['ɵɵtemplate'](0, m, 1, 0, 'ng-template'));
-                        },
-                        encapsulation: 2,
-                        changeDetection: 0
-                    }), n;
-                })(), I = (() => {
-                    class n {
-                        constructor(n, l, e, t) {
-                            this._dir = n, this._changeDetectorRef = l, this._elementRef = e, this._destroyed = new r.a(), this.steps = new s.QueryList(), this._linear = !1, this._selectedIndex = 0, this.selectionChange = new s.EventEmitter(), this._orientation = 'horizontal', this._groupId = h++, this._document = t;
+                }, n.ɵcmp = s['ɵɵdefineComponent']({
+                    type: n,
+                    selectors: [['cdk-step']],
+                    contentQueries: function (n, l, e) {
+                        if (1 & n && s['ɵɵcontentQuery'](e, p, !0), 2 & n) {
+                            let n;
+                            s['ɵɵqueryRefresh'](n = s['ɵɵloadQuery']()) && (l.stepLabel = n.first);
                         }
-                        get linear() {
-                            return this._linear;
+                    },
+                    viewQuery: function (n, l) {
+                        if (1 & n && s['ɵɵstaticViewQuery'](s.TemplateRef, !0), 2 & n) {
+                            let n;
+                            s['ɵɵqueryRefresh'](n = s['ɵɵloadQuery']()) && (l.content = n.first);
                         }
-                        set linear(n) {
-                            this._linear = Object(u.c)(n);
-                        }
-                        get selectedIndex() {
-                            return this._selectedIndex;
-                        }
-                        set selectedIndex(n) {
-                            const l = Object(u.f)(n);
-                            this.steps && this._steps ? this._selectedIndex != l && !this._anyControlsInvalidOrPending(l) && (l >= this._selectedIndex || this.steps.toArray()[l].editable) && this._updateSelectedItemIndex(n) : this._selectedIndex = l;
-                        }
-                        get selected() {
-                            return this.steps ? this.steps.toArray()[this.selectedIndex] : void 0;
-                        }
-                        set selected(n) {
-                            this.selectedIndex = this.steps ? this.steps.toArray().indexOf(n) : -1;
-                        }
-                        ngAfterContentInit() {
-                            this._steps.changes.pipe(Object(c.a)(this._steps), Object(g.a)(this._destroyed)).subscribe(n => {
-                                this.steps.reset(n.filter(n => n._stepper === this)), this.steps.notifyOnChanges();
-                            });
-                        }
-                        ngAfterViewInit() {
-                            this._keyManager = new t.c(this._stepHeader).withWrap().withHomeAndEnd().withVerticalOrientation('vertical' === this._orientation), (this._dir ? this._dir.change : Object(d.a)()).pipe(Object(c.a)(this._layoutDirection()), Object(g.a)(this._destroyed)).subscribe(n => this._keyManager.withHorizontalOrientation(n)), this._keyManager.updateActiveItem(this._selectedIndex), this.steps.changes.subscribe(() => {
-                                this.selected || (this._selectedIndex = Math.max(this._selectedIndex - 1, 0));
-                            });
-                        }
-                        ngOnDestroy() {
-                            this.steps.destroy(), this._destroyed.next(), this._destroyed.complete();
-                        }
-                        next() {
-                            this.selectedIndex = Math.min(this._selectedIndex + 1, this.steps.length - 1);
-                        }
-                        previous() {
-                            this.selectedIndex = Math.max(this._selectedIndex - 1, 0);
-                        }
-                        reset() {
-                            this._updateSelectedItemIndex(0), this.steps.forEach(n => n.reset()), this._stateChanged();
-                        }
-                        _getStepLabelId(n) {
-                            return `cdk-step-label-${ this._groupId }-${ n }`;
-                        }
-                        _getStepContentId(n) {
-                            return `cdk-step-content-${ this._groupId }-${ n }`;
-                        }
-                        _stateChanged() {
-                            this._changeDetectorRef.markForCheck();
-                        }
-                        _getAnimationDirection(n) {
-                            const l = n - this._selectedIndex;
-                            return l < 0 ? 'rtl' === this._layoutDirection() ? 'next' : 'previous' : l > 0 ? 'rtl' === this._layoutDirection() ? 'previous' : 'next' : 'current';
-                        }
-                        _getIndicatorType(n, l = 'number') {
-                            const e = this.steps.toArray()[n], t = this._isCurrentStep(n);
-                            return e._displayDefaultIndicatorType ? this._getDefaultIndicatorLogic(e, t) : this._getGuidelineLogic(e, t, l);
-                        }
-                        _getDefaultIndicatorLogic(n, l) {
-                            return n._showError && n.hasError && !l ? 'error' : !n.completed || l ? 'number' : n.editable ? 'edit' : 'done';
-                        }
-                        _getGuidelineLogic(n, l, e = 'number') {
-                            return n._showError && n.hasError && !l ? 'error' : n.completed && !l ? 'done' : n.completed && l ? e : n.editable && l ? 'edit' : e;
-                        }
-                        _isCurrentStep(n) {
-                            return this._selectedIndex === n;
-                        }
-                        _getFocusIndex() {
-                            return this._keyManager ? this._keyManager.activeItemIndex : this._selectedIndex;
-                        }
-                        _updateSelectedItemIndex(n) {
-                            const l = this.steps.toArray();
-                            this.selectionChange.emit({
-                                selectedIndex: n,
-                                previouslySelectedIndex: this._selectedIndex,
-                                selectedStep: l[n],
-                                previouslySelectedStep: l[this._selectedIndex]
-                            }), this._containsFocus() ? this._keyManager.setActiveItem(n) : this._keyManager.updateActiveItem(n), this._selectedIndex = n, this._stateChanged();
-                        }
-                        _onKeydown(n) {
-                            const l = Object(o.p)(n), e = n.keyCode, t = this._keyManager;
-                            null == t.activeItemIndex || l || e !== o.k && e !== o.e ? t.onKeydown(n) : (this.selectedIndex = t.activeItemIndex, n.preventDefault());
-                        }
-                        _anyControlsInvalidOrPending(n) {
-                            const l = this.steps.toArray();
-                            return l[this._selectedIndex].interacted = !0, !!(this._linear && n >= 0) && l.slice(0, n).some(n => {
-                                const l = n.stepControl;
-                                return (l ? l.invalid || l.pending || !n.interacted : !n.completed) && !n.optional && !n._completedOverride;
-                            });
-                        }
-                        _layoutDirection() {
-                            return this._dir && 'rtl' === this._dir.value ? 'rtl' : 'ltr';
-                        }
-                        _containsFocus() {
-                            if (!this._document || !this._elementRef)
-                                return !1;
-                            const n = this._elementRef.nativeElement, l = this._document.activeElement;
-                            return n === l || n.contains(l);
-                        }
+                    },
+                    inputs: {
+                        editable: 'editable',
+                        optional: 'optional',
+                        completed: 'completed',
+                        hasError: 'hasError',
+                        stepControl: 'stepControl',
+                        label: 'label',
+                        errorMessage: 'errorMessage',
+                        ariaLabel: [
+                            'aria-label',
+                            'ariaLabel'
+                        ],
+                        ariaLabelledby: [
+                            'aria-labelledby',
+                            'ariaLabelledby'
+                        ],
+                        state: 'state'
+                    },
+                    exportAs: ['cdkStep'],
+                    features: [s['ɵɵNgOnChangesFeature']],
+                    ngContentSelectors: f,
+                    decls: 1,
+                    vars: 0,
+                    template: function (n, l) {
+                        1 & n && (s['ɵɵprojectionDef'](), s['ɵɵtemplate'](0, m, 1, 0, 'ng-template'));
+                    },
+                    encapsulation: 2,
+                    changeDetection: 0
+                }), n;
+            })(), I = (() => {
+                class n {
+                    constructor(n, l, e, t) {
+                        this._dir = n, this._changeDetectorRef = l, this._elementRef = e, this._destroyed = new r.a(), this.steps = new s.QueryList(), this._linear = !1, this._selectedIndex = 0, this.selectionChange = new s.EventEmitter(), this._orientation = 'horizontal', this._groupId = h++, this._document = t;
                     }
-                    return n.ɵfac = function (l) {
-                        return new (l || n)(s['ɵɵdirectiveInject'](a.b, 8), s['ɵɵdirectiveInject'](s.ChangeDetectorRef), s['ɵɵdirectiveInject'](s.ElementRef), s['ɵɵdirectiveInject'](i.DOCUMENT));
-                    }, n.ɵdir = s['ɵɵdefineDirective']({
-                        type: n,
-                        selectors: [[
-                                '',
-                                'cdkStepper',
-                                ''
-                            ]],
-                        contentQueries: function (n, l, e) {
-                            if (1 & n && (s['ɵɵcontentQuery'](e, w, !0), s['ɵɵcontentQuery'](e, v, !0)), 2 & n) {
-                                let n;
-                                s['ɵɵqueryRefresh'](n = s['ɵɵloadQuery']()) && (l._steps = n), s['ɵɵqueryRefresh'](n = s['ɵɵloadQuery']()) && (l._stepHeader = n);
-                            }
-                        },
-                        inputs: {
-                            linear: 'linear',
-                            selectedIndex: 'selectedIndex',
-                            selected: 'selected'
-                        },
-                        outputs: { selectionChange: 'selectionChange' },
-                        exportAs: ['cdkStepper']
-                    }), n;
-                })(), O = (() => {
-                    class n {
-                        constructor(n) {
-                            this._stepper = n, this.type = 'submit';
-                        }
-                        _handleClick() {
-                            this._stepper.next();
-                        }
+                    get linear() {
+                        return this._linear;
                     }
-                    return n.ɵfac = function (l) {
-                        return new (l || n)(s['ɵɵdirectiveInject'](I));
-                    }, n.ɵdir = s['ɵɵdefineDirective']({
-                        type: n,
-                        selectors: [[
-                                'button',
-                                'cdkStepperNext',
-                                ''
-                            ]],
-                        hostVars: 1,
-                        hostBindings: function (n, l) {
-                            1 & n && s['ɵɵlistener']('click', function () {
-                                return l._handleClick();
-                            }), 2 & n && s['ɵɵhostProperty']('type', l.type);
-                        },
-                        inputs: { type: 'type' }
-                    }), n;
-                })(), b = (() => {
-                    class n {
-                        constructor(n) {
-                            this._stepper = n, this.type = 'button';
-                        }
-                        _handleClick() {
-                            this._stepper.previous();
-                        }
+                    set linear(n) {
+                        this._linear = Object(u.c)(n);
                     }
-                    return n.ɵfac = function (l) {
-                        return new (l || n)(s['ɵɵdirectiveInject'](I));
-                    }, n.ɵdir = s['ɵɵdefineDirective']({
-                        type: n,
-                        selectors: [[
-                                'button',
-                                'cdkStepperPrevious',
-                                ''
-                            ]],
-                        hostVars: 1,
-                        hostBindings: function (n, l) {
-                            1 & n && s['ɵɵlistener']('click', function () {
-                                return l._handleClick();
-                            }), 2 & n && s['ɵɵhostProperty']('type', l.type);
-                        },
-                        inputs: { type: 'type' }
-                    }), n;
-                })(), S = (() => {
-                    class n {
+                    get selectedIndex() {
+                        return this._selectedIndex;
                     }
-                    return n.ɵmod = s['ɵɵdefineNgModule']({ type: n }), n.ɵinj = s['ɵɵdefineInjector']({
-                        factory: function (l) {
-                            return new (l || n)();
-                        },
-                        imports: [[a.a]]
-                    }), n;
-                })();
+                    set selectedIndex(n) {
+                        const l = Object(u.f)(n);
+                        this.steps && this._steps ? this._selectedIndex != l && !this._anyControlsInvalidOrPending(l) && (l >= this._selectedIndex || this.steps.toArray()[l].editable) && this._updateSelectedItemIndex(n) : this._selectedIndex = l;
+                    }
+                    get selected() {
+                        return this.steps ? this.steps.toArray()[this.selectedIndex] : void 0;
+                    }
+                    set selected(n) {
+                        this.selectedIndex = this.steps ? this.steps.toArray().indexOf(n) : -1;
+                    }
+                    ngAfterContentInit() {
+                        this._steps.changes.pipe(Object(c.a)(this._steps), Object(g.a)(this._destroyed)).subscribe(n => {
+                            this.steps.reset(n.filter(n => n._stepper === this)), this.steps.notifyOnChanges();
+                        });
+                    }
+                    ngAfterViewInit() {
+                        this._keyManager = new t.c(this._stepHeader).withWrap().withHomeAndEnd().withVerticalOrientation('vertical' === this._orientation), (this._dir ? this._dir.change : Object(d.a)()).pipe(Object(c.a)(this._layoutDirection()), Object(g.a)(this._destroyed)).subscribe(n => this._keyManager.withHorizontalOrientation(n)), this._keyManager.updateActiveItem(this._selectedIndex), this.steps.changes.subscribe(() => {
+                            this.selected || (this._selectedIndex = Math.max(this._selectedIndex - 1, 0));
+                        });
+                    }
+                    ngOnDestroy() {
+                        this.steps.destroy(), this._destroyed.next(), this._destroyed.complete();
+                    }
+                    next() {
+                        this.selectedIndex = Math.min(this._selectedIndex + 1, this.steps.length - 1);
+                    }
+                    previous() {
+                        this.selectedIndex = Math.max(this._selectedIndex - 1, 0);
+                    }
+                    reset() {
+                        this._updateSelectedItemIndex(0), this.steps.forEach(n => n.reset()), this._stateChanged();
+                    }
+                    _getStepLabelId(n) {
+                        return `cdk-step-label-${this._groupId}-${n}`;
+                    }
+                    _getStepContentId(n) {
+                        return `cdk-step-content-${this._groupId}-${n}`;
+                    }
+                    _stateChanged() {
+                        this._changeDetectorRef.markForCheck();
+                    }
+                    _getAnimationDirection(n) {
+                        const l = n - this._selectedIndex;
+                        return l < 0 ? 'rtl' === this._layoutDirection() ? 'next' : 'previous' : l > 0 ? 'rtl' === this._layoutDirection() ? 'previous' : 'next' : 'current';
+                    }
+                    _getIndicatorType(n, l = 'number') {
+                        const e = this.steps.toArray()[n], t = this._isCurrentStep(n);
+                        return e._displayDefaultIndicatorType ? this._getDefaultIndicatorLogic(e, t) : this._getGuidelineLogic(e, t, l);
+                    }
+                    _getDefaultIndicatorLogic(n, l) {
+                        return n._showError && n.hasError && !l ? 'error' : !n.completed || l ? 'number' : n.editable ? 'edit' : 'done';
+                    }
+                    _getGuidelineLogic(n, l, e = 'number') {
+                        return n._showError && n.hasError && !l ? 'error' : n.completed && !l ? 'done' : n.completed && l ? e : n.editable && l ? 'edit' : e;
+                    }
+                    _isCurrentStep(n) {
+                        return this._selectedIndex === n;
+                    }
+                    _getFocusIndex() {
+                        return this._keyManager ? this._keyManager.activeItemIndex : this._selectedIndex;
+                    }
+                    _updateSelectedItemIndex(n) {
+                        const l = this.steps.toArray();
+                        this.selectionChange.emit({
+                            selectedIndex: n,
+                            previouslySelectedIndex: this._selectedIndex,
+                            selectedStep: l[n],
+                            previouslySelectedStep: l[this._selectedIndex]
+                        }), this._containsFocus() ? this._keyManager.setActiveItem(n) : this._keyManager.updateActiveItem(n), this._selectedIndex = n, this._stateChanged();
+                    }
+                    _onKeydown(n) {
+                        const l = Object(o.p)(n), e = n.keyCode, t = this._keyManager;
+                        null == t.activeItemIndex || l || e !== o.k && e !== o.e ? t.onKeydown(n) : (this.selectedIndex = t.activeItemIndex, n.preventDefault());
+                    }
+                    _anyControlsInvalidOrPending(n) {
+                        const l = this.steps.toArray();
+                        return l[this._selectedIndex].interacted = !0, !!(this._linear && n >= 0) && l.slice(0, n).some(n => {
+                            const l = n.stepControl;
+                            return (l ? l.invalid || l.pending || !n.interacted : !n.completed) && !n.optional && !n._completedOverride;
+                        });
+                    }
+                    _layoutDirection() {
+                        return this._dir && 'rtl' === this._dir.value ? 'rtl' : 'ltr';
+                    }
+                    _containsFocus() {
+                        if (!this._document || !this._elementRef)
+                            return !1;
+                        const n = this._elementRef.nativeElement, l = this._document.activeElement;
+                        return n === l || n.contains(l);
+                    }
+                }
+                return n.ɵfac = function (l) {
+                    return new (l || n)(s['ɵɵdirectiveInject'](a.b, 8), s['ɵɵdirectiveInject'](s.ChangeDetectorRef), s['ɵɵdirectiveInject'](s.ElementRef), s['ɵɵdirectiveInject'](i.DOCUMENT));
+                }, n.ɵdir = s['ɵɵdefineDirective']({
+                    type: n,
+                    selectors: [[
+                        '',
+                        'cdkStepper',
+                        ''
+                    ]],
+                    contentQueries: function (n, l, e) {
+                        if (1 & n && (s['ɵɵcontentQuery'](e, w, !0), s['ɵɵcontentQuery'](e, v, !0)), 2 & n) {
+                            let n;
+                            s['ɵɵqueryRefresh'](n = s['ɵɵloadQuery']()) && (l._steps = n), s['ɵɵqueryRefresh'](n = s['ɵɵloadQuery']()) && (l._stepHeader = n);
+                        }
+                    },
+                    inputs: {
+                        linear: 'linear',
+                        selectedIndex: 'selectedIndex',
+                        selected: 'selected'
+                    },
+                    outputs: { selectionChange: 'selectionChange' },
+                    exportAs: ['cdkStepper']
+                }), n;
+            })(), O = (() => {
+                class n {
+                    constructor(n) {
+                        this._stepper = n, this.type = 'submit';
+                    }
+                    _handleClick() {
+                        this._stepper.next();
+                    }
+                }
+                return n.ɵfac = function (l) {
+                    return new (l || n)(s['ɵɵdirectiveInject'](I));
+                }, n.ɵdir = s['ɵɵdefineDirective']({
+                    type: n,
+                    selectors: [[
+                        'button',
+                        'cdkStepperNext',
+                        ''
+                    ]],
+                    hostVars: 1,
+                    hostBindings: function (n, l) {
+                        1 & n && s['ɵɵlistener']('click', function () {
+                            return l._handleClick();
+                        }), 2 & n && s['ɵɵhostProperty']('type', l.type);
+                    },
+                    inputs: { type: 'type' }
+                }), n;
+            })(), b = (() => {
+                class n {
+                    constructor(n) {
+                        this._stepper = n, this.type = 'button';
+                    }
+                    _handleClick() {
+                        this._stepper.previous();
+                    }
+                }
+                return n.ɵfac = function (l) {
+                    return new (l || n)(s['ɵɵdirectiveInject'](I));
+                }, n.ɵdir = s['ɵɵdefineDirective']({
+                    type: n,
+                    selectors: [[
+                        'button',
+                        'cdkStepperPrevious',
+                        ''
+                    ]],
+                    hostVars: 1,
+                    hostBindings: function (n, l) {
+                        1 & n && s['ɵɵlistener']('click', function () {
+                            return l._handleClick();
+                        }), 2 & n && s['ɵɵhostProperty']('type', l.type);
+                    },
+                    inputs: { type: 'type' }
+                }), n;
+            })(), S = (() => {
+                class n {
+                }
+                return n.ɵmod = s['ɵɵdefineNgModule']({ type: n }), n.ɵinj = s['ɵɵdefineInjector']({
+                    factory: function (l) {
+                        return new (l || n)();
+                    },
+                    imports: [[a.a]]
+                }), n;
+            })();
         },
         vElD: function (n, l, e) {
             'use strict';
@@ -15322,16 +15330,16 @@
                 return r;
             });
             var t = e('8Y7J'), a = e('iInd'), u = e('NRzN'), o = t['ɵcrt']({
-                    encapsulation: 0,
-                    styles: [['.login.login-1[_ngcontent-%COMP%]   .login-aside[_ngcontent-%COMP%]   .aside-img[_ngcontent-%COMP%]{min-height:450px;width:100%;height:100%;-o-object-fit:cover;object-fit:cover}.login.login-1[_ngcontent-%COMP%]   .login-forgot[_ngcontent-%COMP%], .login.login-1[_ngcontent-%COMP%]   .login-signin[_ngcontent-%COMP%], .login.login-1[_ngcontent-%COMP%]   .login-signup[_ngcontent-%COMP%], .login.login-1.login-signin-on[_ngcontent-%COMP%]   .login-signup[_ngcontent-%COMP%]{display:none}.login.login-1.login-signin-on[_ngcontent-%COMP%]   .login-signin[_ngcontent-%COMP%]{display:block}.login.login-1.login-signin-on[_ngcontent-%COMP%]   .login-forgot[_ngcontent-%COMP%]{display:none}.login.login-1.login-signup-on[_ngcontent-%COMP%]   .login-signup[_ngcontent-%COMP%]{display:block}.login.login-1.login-forgot-on[_ngcontent-%COMP%]   .login-signin[_ngcontent-%COMP%], .login.login-1.login-forgot-on[_ngcontent-%COMP%]   .login-signup[_ngcontent-%COMP%], .login.login-1.login-signup-on[_ngcontent-%COMP%]   .login-forgot[_ngcontent-%COMP%], .login.login-1.login-signup-on[_ngcontent-%COMP%]   .login-signin[_ngcontent-%COMP%]{display:none}.login.login-1.login-forgot-on[_ngcontent-%COMP%]   .login-forgot[_ngcontent-%COMP%]{display:block}@media (min-width:992px){.login.login-1[_ngcontent-%COMP%]{max-height:100vh}.login.login-1[_ngcontent-%COMP%]   .login-aside[_ngcontent-%COMP%]{width:100%;max-width:45vw}.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]{position:relative;width:100%;max-width:55vw;display:flex;align-items:center;justify-content:center}.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]   .login-form[_ngcontent-%COMP%]{width:500px;max-width:1000px}}@media (min-width:992px) and (max-width:1399.98px){.login.login-1[_ngcontent-%COMP%]{display:flex;align-items:center;justify-content:center}.login.login-1[_ngcontent-%COMP%]   .login-aside[_ngcontent-%COMP%]{width:100%;max-width:450px}}@media (max-width:991.98px){.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]{display:flex;align-items:center;justify-content:center}.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]   .login-form[_ngcontent-%COMP%]{width:100%;max-width:400px}}@media (max-width:575.98px){.login.login-1[_ngcontent-%COMP%]   .aside-img[_ngcontent-%COMP%]{min-height:300px!important;background-size:400px}.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]{display:flex;align-items:center;justify-content:center}.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]   .login-form[_ngcontent-%COMP%]{width:100%;max-width:100%}}[_nghost-%COMP%]{height:100%}']],
-                    data: {}
-                });
+                encapsulation: 0,
+                styles: [['.login.login-1[_ngcontent-%COMP%]   .login-aside[_ngcontent-%COMP%]   .aside-img[_ngcontent-%COMP%]{min-height:450px;width:100%;height:100%;-o-object-fit:cover;object-fit:cover}.login.login-1[_ngcontent-%COMP%]   .login-forgot[_ngcontent-%COMP%], .login.login-1[_ngcontent-%COMP%]   .login-signin[_ngcontent-%COMP%], .login.login-1[_ngcontent-%COMP%]   .login-signup[_ngcontent-%COMP%], .login.login-1.login-signin-on[_ngcontent-%COMP%]   .login-signup[_ngcontent-%COMP%]{display:none}.login.login-1.login-signin-on[_ngcontent-%COMP%]   .login-signin[_ngcontent-%COMP%]{display:block}.login.login-1.login-signin-on[_ngcontent-%COMP%]   .login-forgot[_ngcontent-%COMP%]{display:none}.login.login-1.login-signup-on[_ngcontent-%COMP%]   .login-signup[_ngcontent-%COMP%]{display:block}.login.login-1.login-forgot-on[_ngcontent-%COMP%]   .login-signin[_ngcontent-%COMP%], .login.login-1.login-forgot-on[_ngcontent-%COMP%]   .login-signup[_ngcontent-%COMP%], .login.login-1.login-signup-on[_ngcontent-%COMP%]   .login-forgot[_ngcontent-%COMP%], .login.login-1.login-signup-on[_ngcontent-%COMP%]   .login-signin[_ngcontent-%COMP%]{display:none}.login.login-1.login-forgot-on[_ngcontent-%COMP%]   .login-forgot[_ngcontent-%COMP%]{display:block}@media (min-width:992px){.login.login-1[_ngcontent-%COMP%]{max-height:100vh}.login.login-1[_ngcontent-%COMP%]   .login-aside[_ngcontent-%COMP%]{width:100%;max-width:45vw}.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]{position:relative;width:100%;max-width:55vw;display:flex;align-items:center;justify-content:center}.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]   .login-form[_ngcontent-%COMP%]{width:500px;max-width:1000px}}@media (min-width:992px) and (max-width:1399.98px){.login.login-1[_ngcontent-%COMP%]{display:flex;align-items:center;justify-content:center}.login.login-1[_ngcontent-%COMP%]   .login-aside[_ngcontent-%COMP%]{width:100%;max-width:450px}}@media (max-width:991.98px){.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]{display:flex;align-items:center;justify-content:center}.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]   .login-form[_ngcontent-%COMP%]{width:100%;max-width:400px}}@media (max-width:575.98px){.login.login-1[_ngcontent-%COMP%]   .aside-img[_ngcontent-%COMP%]{min-height:300px!important;background-size:400px}.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]{display:flex;align-items:center;justify-content:center}.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]   .login-form[_ngcontent-%COMP%]{width:100%;max-width:100%}}[_nghost-%COMP%]{height:100%}']],
+                data: {}
+            });
             function i(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 2, 'div', [[
-                            'class',
-                            'd-flex flex-column flex-root h-100'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'd-flex flex-column flex-root h-100'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](1, 16777216, null, null, 1, 'router-outlet', [], null, null, null, null, null)),
                     t['ɵdid'](2, 212992, null, 0, a.w, [
                         a.b,
@@ -15365,10 +15373,10 @@
                 return u;
             });
             var t = e('8Y7J'), a = (e('q/nf'), t['ɵcrt']({
-                    encapsulation: 0,
-                    styles: [['.login.login-1[_ngcontent-%COMP%]   .login-aside[_ngcontent-%COMP%]   .aside-img[_ngcontent-%COMP%]{min-height:450px;width:100%;height:100%;-o-object-fit:cover;object-fit:cover}.login.login-1[_ngcontent-%COMP%]   .login-forgot[_ngcontent-%COMP%], .login.login-1[_ngcontent-%COMP%]   .login-signin[_ngcontent-%COMP%], .login.login-1[_ngcontent-%COMP%]   .login-signup[_ngcontent-%COMP%], .login.login-1.login-signin-on[_ngcontent-%COMP%]   .login-signup[_ngcontent-%COMP%]{display:none}.login.login-1.login-signin-on[_ngcontent-%COMP%]   .login-signin[_ngcontent-%COMP%]{display:block}.login.login-1.login-signin-on[_ngcontent-%COMP%]   .login-forgot[_ngcontent-%COMP%]{display:none}.login.login-1.login-signup-on[_ngcontent-%COMP%]   .login-signup[_ngcontent-%COMP%]{display:block}.login.login-1.login-forgot-on[_ngcontent-%COMP%]   .login-signin[_ngcontent-%COMP%], .login.login-1.login-forgot-on[_ngcontent-%COMP%]   .login-signup[_ngcontent-%COMP%], .login.login-1.login-signup-on[_ngcontent-%COMP%]   .login-forgot[_ngcontent-%COMP%], .login.login-1.login-signup-on[_ngcontent-%COMP%]   .login-signin[_ngcontent-%COMP%]{display:none}.login.login-1.login-forgot-on[_ngcontent-%COMP%]   .login-forgot[_ngcontent-%COMP%]{display:block}@media (min-width:992px){.login.login-1[_ngcontent-%COMP%]{max-height:100vh}.login.login-1[_ngcontent-%COMP%]   .login-aside[_ngcontent-%COMP%]{width:100%;max-width:45vw}.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]{position:relative;width:100%;max-width:55vw;display:flex;align-items:center;justify-content:center}.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]   .login-form[_ngcontent-%COMP%]{width:500px;max-width:1000px}}@media (min-width:992px) and (max-width:1399.98px){.login.login-1[_ngcontent-%COMP%]{display:flex;align-items:center;justify-content:center}.login.login-1[_ngcontent-%COMP%]   .login-aside[_ngcontent-%COMP%]{width:100%;max-width:450px}}@media (max-width:991.98px){.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]{display:flex;align-items:center;justify-content:center}.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]   .login-form[_ngcontent-%COMP%]{width:100%;max-width:400px}}@media (max-width:575.98px){.login.login-1[_ngcontent-%COMP%]   .aside-img[_ngcontent-%COMP%]{min-height:300px!important;background-size:400px}.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]{display:flex;align-items:center;justify-content:center}.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]   .login-form[_ngcontent-%COMP%]{width:100%;max-width:100%}}[_nghost-%COMP%]{height:100%}.bg-login-image[_ngcontent-%COMP%]{position:absolute;height:100%;width:100%;-o-object-fit:cover;object-fit:cover;z-index:0;top:0}']],
-                    data: {}
-                }));
+                encapsulation: 0,
+                styles: [['.login.login-1[_ngcontent-%COMP%]   .login-aside[_ngcontent-%COMP%]   .aside-img[_ngcontent-%COMP%]{min-height:450px;width:100%;height:100%;-o-object-fit:cover;object-fit:cover}.login.login-1[_ngcontent-%COMP%]   .login-forgot[_ngcontent-%COMP%], .login.login-1[_ngcontent-%COMP%]   .login-signin[_ngcontent-%COMP%], .login.login-1[_ngcontent-%COMP%]   .login-signup[_ngcontent-%COMP%], .login.login-1.login-signin-on[_ngcontent-%COMP%]   .login-signup[_ngcontent-%COMP%]{display:none}.login.login-1.login-signin-on[_ngcontent-%COMP%]   .login-signin[_ngcontent-%COMP%]{display:block}.login.login-1.login-signin-on[_ngcontent-%COMP%]   .login-forgot[_ngcontent-%COMP%]{display:none}.login.login-1.login-signup-on[_ngcontent-%COMP%]   .login-signup[_ngcontent-%COMP%]{display:block}.login.login-1.login-forgot-on[_ngcontent-%COMP%]   .login-signin[_ngcontent-%COMP%], .login.login-1.login-forgot-on[_ngcontent-%COMP%]   .login-signup[_ngcontent-%COMP%], .login.login-1.login-signup-on[_ngcontent-%COMP%]   .login-forgot[_ngcontent-%COMP%], .login.login-1.login-signup-on[_ngcontent-%COMP%]   .login-signin[_ngcontent-%COMP%]{display:none}.login.login-1.login-forgot-on[_ngcontent-%COMP%]   .login-forgot[_ngcontent-%COMP%]{display:block}@media (min-width:992px){.login.login-1[_ngcontent-%COMP%]{max-height:100vh}.login.login-1[_ngcontent-%COMP%]   .login-aside[_ngcontent-%COMP%]{width:100%;max-width:45vw}.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]{position:relative;width:100%;max-width:55vw;display:flex;align-items:center;justify-content:center}.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]   .login-form[_ngcontent-%COMP%]{width:500px;max-width:1000px}}@media (min-width:992px) and (max-width:1399.98px){.login.login-1[_ngcontent-%COMP%]{display:flex;align-items:center;justify-content:center}.login.login-1[_ngcontent-%COMP%]   .login-aside[_ngcontent-%COMP%]{width:100%;max-width:450px}}@media (max-width:991.98px){.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]{display:flex;align-items:center;justify-content:center}.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]   .login-form[_ngcontent-%COMP%]{width:100%;max-width:400px}}@media (max-width:575.98px){.login.login-1[_ngcontent-%COMP%]   .aside-img[_ngcontent-%COMP%]{min-height:300px!important;background-size:400px}.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]{display:flex;align-items:center;justify-content:center}.login.login-1[_ngcontent-%COMP%]   .login-content[_ngcontent-%COMP%]   .login-form[_ngcontent-%COMP%]{width:100%;max-width:100%}}[_nghost-%COMP%]{height:100%}.bg-login-image[_ngcontent-%COMP%]{position:absolute;height:100%;width:100%;-o-object-fit:cover;object-fit:cover;z-index:0;top:0}']],
+                data: {}
+            }));
             function u(n) {
                 return t['ɵvid'](0, [
                     (n()(), t['ɵeld'](0, 0, null, null, 9, 'div', [
@@ -15382,9 +15390,9 @@
                         ]
                     ], null, null, null, null, null)),
                     (n()(), t['ɵeld'](1, 0, null, null, 1, 'div', [[
-                            'class',
-                            'login-aside bgi-position-x-center d-none d-lg-block'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'login-aside bgi-position-x-center d-none d-lg-block'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](2, 0, null, null, 0, 'img', [
                         [
                             'class',
@@ -15396,9 +15404,9 @@
                         ]
                     ], null, null, null, null, null)),
                     (n()(), t['ɵeld'](3, 0, null, null, 6, 'div', [[
-                            'class',
-                            'login-content flex-row-fluid d-flex flex-column justify-content-center position-relative overflow-hidden '
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'login-content flex-row-fluid d-flex flex-column justify-content-center position-relative overflow-hidden'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](4, 0, null, null, 0, 'img', [
                         [
                             'class',
@@ -15430,9 +15438,9 @@
                         ]
                     ], null, null, null, null, null)),
                     (n()(), t['ɵeld'](7, 0, null, null, 2, 'div', [[
-                            'class',
-                            'd-flex flex-column-fluid'
-                        ]], null, null, null, null, null)),
+                        'class',
+                        'd-flex flex-column-fluid'
+                    ]], null, null, null, null, null)),
                     (n()(), t['ɵeld'](8, 0, null, null, 1, 'div', [
                         [
                             'class',
