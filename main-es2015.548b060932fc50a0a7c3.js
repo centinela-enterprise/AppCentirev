@@ -21263,13 +21263,23 @@
                 intercept(e, t) {
                     if(window.location.pathname == '/packages'){
                         const currentHostName = window.location.hostname
-                        const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2.clegal.com.mx' : 'https://appv2.centinela.app'
+                        const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2-centirev.centinela.app' : 'https://appv2.centinela.app'
                         window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=welcome`
                     }
                     else if(window.location.pathname == '/packages/notification'){
                         const currentHostName = window.location.hostname
-                        const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2.clegal.com.mx' : 'https://appv2.centinela.app'
+                        const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2-centirev.centinela.app' : 'https://appv2.centinela.app'
                         window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=packages/notification`
+                    }
+                    else if(window.location.pathname == '/dashboard'){
+                        const currentHostName = window.location.hostname
+                        const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2-centirev.centinela.app' : 'https://appv2.centinela.app'
+                        window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=menu`
+                    }
+                    else if(window.location.pathname == '/notifications/terms-conditions'){
+                        const currentHostName = window.location.hostname
+                        const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2-centirev.centinela.app' : 'https://appv2.centinela.app'
+                        window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=mailbox`
                     }
                     return this.token = this.authService.getToken(), navigator.geolocation && navigator.geolocation.getCurrentPosition(e => {
                         this.latitud = e.coords.latitude, this.longitud = e.coords.longitude;

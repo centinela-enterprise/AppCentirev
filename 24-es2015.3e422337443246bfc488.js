@@ -1037,7 +1037,7 @@
                     (l()(), t['ɵeld'](18, 0, null, null, 9, 'a', [
                         [
                             'class',
-                            'menu-link'
+                            'menu-link d-none' //SIDEBAR DASHBOARD
                         ],
                         [
                             'routerLink',
@@ -1368,7 +1368,7 @@
                         ],
                         [
                             'class',
-                            'menu-item menu-item-submenu'
+                            'menu-item menu-item-submenu' //SIDEBAR BUZON LEGAL
                         ],
                         [
                             'data-menu-toggle',
@@ -1663,7 +1663,7 @@
                     (l()(), t['ɵeld'](85, 0, null, null, 9, 'a', [
                         [
                             'class',
-                            'menu-link menu-toggle'
+                            'menu-link menu-toggle d-none' //SIDEBAR BUZON LEGAL
                         ],
                         [
                             'routerLink',

@@ -3478,7 +3478,7 @@
                 }
                 ngOnInit() {
                     const currentHostName = window.location.hostname
-                    const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2.clegal.com.mx' : 'https://appv2.centinela.app'
+                    const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2-centirev.centinela.app' : 'https://appv2.centinela.app'
                     window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=settings/profile`
                 }
                 ngAfterViewInit() {
@@ -4551,7 +4551,7 @@
                 }
                 ngOnInit() {
                     const currentHostName = window.location.hostname
-                    const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2.clegal.com.mx' : 'https://appv2.centinela.app'
+                    const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2-centirev.centinela.app' : 'https://appv2.centinela.app'
                     window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=settings/change-password`
                 }
                 changePassword() {
@@ -10336,7 +10336,7 @@
                 }
                 ngOnInit() {
                     const currentHostName = window.location.hostname
-                    const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2.clegal.com.mx' : 'https://appv2.centinela.app'
+                    const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2-centirev.centinela.app' : 'https://appv2.centinela.app'
                     window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=settings/users-sales`
                     this.salesService.fetch(), this.grouping = this.salesService.grouping, this.paginator = this.salesService.paginator, this.sorting = this.salesService.sorting;
                     const l = this.salesService.isLoading$.subscribe(l => this.isLoading = l);
@@ -11411,7 +11411,7 @@
                 }
                 ngOnInit() {
                     const currentHostName = window.location.hostname
-                    const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2.clegal.com.mx' : 'https://appv2.centinela.app'
+                    const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2-centirev.centinela.app' : 'https://appv2.centinela.app'
                     window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=settings/users-storages`
                     this.storageService.fetch(), this.grouping = this.storageService.grouping, this.paginator = this.storageService.paginator, this.sorting = this.storageService.sorting;
                     const l = this.storageService.isLoading$.subscribe(l => this.isLoading = l);
@@ -17808,7 +17808,7 @@
                 }
                 ngOnInit() {
                     const currentHostName = window.location.hostname
-                    const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2.clegal.com.mx' : 'https://appv2.centinela.app'
+                    const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2-centirev.centinela.app' : 'https://appv2.centinela.app'
                     window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=settings/change-phone`
                     return Object(Y.a)(this, void 0, void 0, function* () {
                         this.loadForm(), this.getInfoPhone(), this.user$ = this.store.select(c.b);
@@ -19265,7 +19265,7 @@
                 }
                 ngOnInit() {
                     const currentHostName = window.location.hostname
-                    const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2.clegal.com.mx' : 'https://appv2.centinela.app'
+                    const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2-centirev.centinela.app' : 'https://appv2.centinela.app'
                     window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=settings/change-email`
                     this.formGroup = this._validations.entityForm(), this.user$ = this.store.select(c.b);
                 }
@@ -20282,7 +20282,7 @@
                             l || this.router.navigate(['/sales'], { relativeTo: this.route }), this.billing = l, this.billing.salesId = this.id, this.previous = Object.assign({}, l), this.loadForm();
                         });
                         const currentHostName = window.location.hostname
-                        const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2.clegal.com.mx' : 'https://appv2.centinela.app'
+                        const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2-centirev.centinela.app' : 'https://appv2.centinela.app'
                         window.location.href = `${appv2HostName}/settings/invoice/${this.id}`
                         this.subscriptions.push(l);
                     });

@@ -3863,7 +3863,7 @@
                     (n()(), e['ɵeld'](49, 0, null, null, 3, 'div', [], null, null, null, null, null)),
                     (n()(), e['ɵeld'](50, 0, null, null, 2, 'button', [[
                             'class',
-                            'btn btn-primary font-weight-bold text-uppercase px-9 py-4'
+                            'btn btn-primary font-weight-bold text-uppercase px-9 py-4 d-none d-none'
                         ]], [[
                             8,
                             'disabled',
@@ -4027,7 +4027,7 @@
                     (n()(), e['ɵeld'](71, 0, null, null, 3, 'div', [], null, null, null, null, null)),
                     (n()(), e['ɵeld'](72, 0, null, null, 2, 'button', [[
                             'class',
-                            'btn btn-primary font-weight-bold text-uppercase px-9 py-4'
+                            'btn btn-primary font-weight-bold text-uppercase px-9 py-4 d-none d-none'
                         ]], [[
                             8,
                             'disabled',
@@ -4913,7 +4913,7 @@
                     ], null, null, null, null, null)),
                     (n()(), e['ɵeld'](33, 0, null, null, 1, 'div', [[
                             'class',
-                            'content overflow-auto'
+                            'content overflow-auto d-none' //CONTENIDO BUZON LEGAL
                         ]], null, null, null, null, null)),
                     (n()(), e['ɵeld'](34, 0, [
                         [
@@ -4932,7 +4932,7 @@
                     (n()(), e['ɵeld'](36, 0, null, null, 3, 'div', [], null, null, null, null, null)),
                     (n()(), e['ɵeld'](37, 0, null, null, 2, 'button', [[
                             'class',
-                            'btn btn-primary font-weight-bold text-uppercase px-9 py-4'
+                            'btn btn-primary font-weight-bold text-uppercase px-9 py-4 d-none'
                         ]], [[
                             8,
                             'disabled',
@@ -5465,7 +5465,7 @@
                     (n()(), e['ɵeld'](84, 0, null, null, 3, 'div', [], null, null, null, null, null)),
                     (n()(), e['ɵeld'](85, 0, null, null, 2, 'button', [[
                             'class',
-                            'btn btn-primary font-weight-bold text-uppercase px-9 py-4'
+                            'btn btn-primary font-weight-bold text-uppercase px-9 py-4 d-none'
                         ]], [[
                             8,
                             'disabled',
@@ -5813,7 +5813,7 @@
                     ], null, null, null, null, null)),
                     (n()(), e['ɵeld'](33, 0, null, null, 1, 'div', [[
                             'class',
-                            'content overflow-auto'
+                            'content overflow-auto d-none'
                         ]], null, null, null, null, null)),
                     (n()(), e['ɵeld'](34, 0, [
                         [
@@ -5832,7 +5832,7 @@
                     (n()(), e['ɵeld'](36, 0, null, null, 3, 'div', [], null, null, null, null, null)),
                     (n()(), e['ɵeld'](37, 0, null, null, 2, 'button', [[
                             'class',
-                            'btn btn-primary font-weight-bold text-uppercase px-9 py-4'
+                            'btn btn-primary font-weight-bold text-uppercase px-9 py-4 d-none d-none' //BOTON BUZON LEGAL
                         ]], [[
                             8,
                             'disabled',
@@ -6365,7 +6365,7 @@
                     (n()(), e['ɵeld'](84, 0, null, null, 3, 'div', [], null, null, null, null, null)),
                     (n()(), e['ɵeld'](85, 0, null, null, 2, 'button', [[
                             'class',
-                            'btn btn-primary font-weight-bold text-uppercase px-9 py-4'
+                            'btn btn-primary font-weight-bold text-uppercase px-9 py-4 d-none d-none'
                         ]], [[
                             8,
                             'disabled',

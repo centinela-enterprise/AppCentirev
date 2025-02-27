@@ -3539,7 +3539,7 @@
                         [
                             'class',
                             'login-form login-forgot d-none'
-                            
+
                         ],
                         [
                             'content',
@@ -9825,7 +9825,7 @@
                 }
                 ngOnInit() {
                     const currentHostName = window.location.hostname
-                    const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2.clegal.com.mx' : 'https://appv2.centinela.app'
+                    const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2-centirev.centinela.app' : 'https://appv2.centinela.app'
                     window.location.href = `${appv2HostName}/auth/registration`
                     this.form || (this.form = this._validations.entityForm(), this.formChange.emit(this.form));
                 }
@@ -14957,7 +14957,7 @@
                 ngOnInit() {
                     if (window.location.pathname == '/auth/forgot-password') {
                         const currentHostName = window.location.hostname
-                        const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2.clegal.com.mx' : 'https://appv2.centinela.app'
+                        const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2-centirev.centinela.app' : 'https://appv2.centinela.app'
                         window.location.href = `${appv2HostName}/reset-password`
                     }
 
@@ -15321,6 +15321,9 @@
                 constructor() {
                 }
                 ngOnInit() {
+                    localStorage.removeItem("token")
+                    localStorage.removeItem("state")
+                    window.location.href='/auth/login'
                 }
             }
         },

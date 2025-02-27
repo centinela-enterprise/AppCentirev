@@ -1659,7 +1659,7 @@
                 return e['ɵvid'](0, [
                     (l()(), e['ɵeld'](0, 0, null, null, 13, 'div', [[
                             'class',
-                            'row'
+                            'row d-none' //DASHBOARD CONTENIDO
                         ]], null, null, null, null, null)),
                     (l()(), e['ɵeld'](1, 0, null, null, 4, 'div', [[
                             'class',

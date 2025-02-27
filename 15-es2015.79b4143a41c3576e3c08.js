@@ -1538,7 +1538,7 @@
 
                                 //APPV2 HOST
                                 const currentHostName = window.location.hostname
-                                const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2.clegal.com.mx' : 'https://appv2.centinela.app'
+                                const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2-centirev.centinela.app' : 'https://appv2.centinela.app'
 
                                 //GET DOCUMENT ID
                                 const url = window.location.href;
