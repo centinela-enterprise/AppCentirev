@@ -1048,7 +1048,7 @@
                 }
                 ngOnInit() {
                     const appToken = JSON.parse(localStorage.getItem('token'))
-                    fetch('https://api.clegal.com.mx/api/users/refresh', {
+                    fetch('https://api.centinela.app/api/users/refresh', {
                         method: 'POST', // Puedes cambiar a 'GET' si es necesario
                         headers: {
                             'Content-Type': 'application/json', // Tipo de contenido
