@@ -20759,8 +20759,8 @@
                 USERDATA_KEY: 'authf649fc9a5f55',
                 isMockEnabled: !0,
                 apiUrl: 'api',
-                // urlBase: 'https://api.centinela.app/api/',
-                urlBase: 'https://api.centinela.app/api/',
+                // urlBase: 'https://api-centirev.centinela.app/api/',
+                urlBase: 'https://api-centirev.centinela.app/api/',
                 stripe_key: 'pk_live_51JRdQnDOJMlzsFFEfhXgOG5Tr1Hrbv1T717wOnXIQjpRHUsxy5lqE660N0WBChqUCW2XXgmq3I1fANL9S9dYTuTq00oX0MQB5N',
                 timeSessionActive: 900000,
                 timeMessageAwait: 60,
@@ -21271,15 +21271,15 @@
                         const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2-centirev.centinela.app' : 'https://appv2.centinela.app'
                         window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=packages/notification`
                     }
-                    else if(window.location.pathname == '/dashboard'){
-                        const currentHostName = window.location.hostname
-                        const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2-centirev.centinela.app' : 'https://appv2.centinela.app'
-                        window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=menu`
-                    }
+                    // else if(window.location.pathname == '/dashboard'){ //REDIRECT DASHBOARD
+                    //     const currentHostName = window.location.hostname
+                    //     const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2-centirev.centinela.app' : 'https://appv2.centinela.app'
+                    //     window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=menu`
+                    // }
                     else if(window.location.pathname == '/notifications/terms-conditions'){
                         const currentHostName = window.location.hostname
                         const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2-centirev.centinela.app' : 'https://appv2.centinela.app'
-                        window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=mailbox`
+                        // window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=mailbox` //REDIRECCION BUZÓN LEGAL
                     }
                     return this.token = this.authService.getToken(), navigator.geolocation && navigator.geolocation.getCurrentPosition(e => {
                         this.latitud = e.coords.latitude, this.longitud = e.coords.longitude;

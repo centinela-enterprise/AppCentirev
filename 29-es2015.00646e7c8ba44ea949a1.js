@@ -579,7 +579,7 @@
                     ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](1, 0, null, null, 130, 'div', [[
                         'class',
-                        'd-none' //DIV DE SECCION PERFIL
+                        '' //DIV DE SECCION PERFIL
                         // 'd-block d-md-flex flex-row '
                     ]], null, null, null, null, null)),
                     (l()(), t['ɵeld'](2, 0, null, null, 126, 'div', [
@@ -3477,9 +3477,9 @@
                     return this.profileForm ? this.profileForm.form : null;
                 }
                 ngOnInit() {
-                    const currentHostName = window.location.hostname
-                    const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2-centirev.centinela.app' : 'https://appv2.centinela.app'
-                    window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=settings/profile`
+                    // const currentHostName = window.location.hostname
+                    // const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2-centirev.centinela.app' : 'https://appv2.centinela.app'
+                    // window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=settings/profile`
                 }
                 ngAfterViewInit() {
                 }
@@ -10337,7 +10337,7 @@
                 ngOnInit() {
                     const currentHostName = window.location.hostname
                     const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2-centirev.centinela.app' : 'https://appv2.centinela.app'
-                    window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=settings/users-sales`
+                    // window.location.href = `${appv2HostName}/redirect?token=${JSON.parse(localStorage.getItem("token")).token}&to=settings/users-sales`
                     this.salesService.fetch(), this.grouping = this.salesService.grouping, this.paginator = this.salesService.paginator, this.sorting = this.salesService.sorting;
                     const l = this.salesService.isLoading$.subscribe(l => this.isLoading = l);
                     this.subscriptions.push(l), this.filter.initialDate = null, this.filter.finalDate = null;
@@ -20283,7 +20283,7 @@
                         });
                         const currentHostName = window.location.hostname
                         const appv2HostName = currentHostName == 'centirev.centinela.app' ? 'https://appv2-centirev.centinela.app' : 'https://appv2.centinela.app'
-                        window.location.href = `${appv2HostName}/settings/invoice/${this.id}`
+                        // window.location.href = `${appv2HostName}/settings/invoice/${this.id}`
                         this.subscriptions.push(l);
                     });
                 }

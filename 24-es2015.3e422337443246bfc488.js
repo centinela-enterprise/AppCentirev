@@ -1663,7 +1663,7 @@
                     (l()(), t['ɵeld'](85, 0, null, null, 9, 'a', [
                         [
                             'class',
-                            'menu-link menu-toggle d-none' //SIDEBAR BUZON LEGAL
+                            'menu-link menu-toggle' //SIDEBAR BUZON LEGAL
                         ],
                         [
                             'routerLink',
@@ -16274,7 +16274,7 @@
                 USERDATA_KEY: 'authf649fc9a5f55',
                 isMockEnabled: !0,
                 apiUrl: 'api',
-                urlBase: 'https://api.centinela.app/api/',
+                urlBase: 'https://api-centirev.centinela.app/api/',
                 stripe_key: 'pk_live_51JRdQnDOJMlzsFFEfhXgOG5Tr1Hrbv1T717wOnXIQjpRHUsxy5lqE660N0WBChqUCW2XXgmq3I1fANL9S9dYTuTq00oX0MQB5N',
                 timeSessionActive: 900000,
                 timeMessageAwait: 60,
